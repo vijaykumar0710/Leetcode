@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Math
 |  |
 | ------- |
@@ -40,8 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
+| [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sorting
+|  |
+| ------- |
+| [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 <!---LeetCode Topics End-->
