@@ -3,12 +3,11 @@ public:
     bool isValid(string s) {
         int n=s.length();
         stack<char> st;
-        int count1=0;
-        int count2=0;
+        int count=0;
         for(char i:s){
             if(i=='(' || i=='{' || i=='['){
                 st.push(i);
-                count1++;
+                count++;
             }
               else{
                 if(st.empty()){
@@ -17,12 +16,12 @@ public:
                 else{ 
                  char x=st.top();
                  st.pop();
-                 if(i==')' && x=='(') count2++;
-                 if(i==']' && x=='[') count2++;
-                 if(i=='}' && x=='{') count2++;
+                 if(i==')' && x=='(') count--;
+                 if(i==']' && x=='[') count--;
+                 if(i=='}' && x=='{') count--;
                   }
                 }
             }
-        return count1==count2;
+        return count==0;
     }
 };
