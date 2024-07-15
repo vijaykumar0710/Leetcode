@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
@@ -180,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
