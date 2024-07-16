@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vijaykumar0710/Queue/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vijaykumar0710/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [1791-richest-customer-wealth](https://github.com/vijaykumar0710/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
