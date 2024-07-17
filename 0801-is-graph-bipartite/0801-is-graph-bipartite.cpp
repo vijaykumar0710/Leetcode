@@ -15,7 +15,6 @@ public:
         return true;
     }
     
-private:
     bool dfs(const vector<vector<int>>& graph, vector<int>& color, int node, int c) {
         color[node] = c;
         for (int neighbor : graph[node]) {
