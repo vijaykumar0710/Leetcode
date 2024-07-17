@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool dfs(const vector<vector<int>>& graph, vector<int>& color, int node, int c) {
+bool dfs(vector<vector<int>>& graph, vector<int>& color, int node, int c) {
         color[node] = c;
         for (int neighbor : graph[node]) {
             if (color[neighbor] == -1) {  // not colored
