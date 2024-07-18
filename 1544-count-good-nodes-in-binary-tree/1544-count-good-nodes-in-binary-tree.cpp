@@ -1,19 +1,23 @@
 class Solution {
 public:
+ int good=0;
  int dfs(TreeNode* node, int maxVal) {
         if (!node) {
             return 0;
         }
         
         // Check if the current node is a good node
-        int good = node->val >= maxVal ? 1 : 0;
+       
+        if(node->val>=maxVal){
+            good++;
+        }
         
         // Update the maximum value on the path to the current node
         maxVal =max(maxVal, node->val);
         
         // Continue DFS traversal for left and right children
-        good += dfs(node->left, maxVal);
-        good += dfs(node->right, maxVal);
+         dfs(node->left, maxVal);
+         dfs(node->right, maxVal);
         
         return good;
     }
