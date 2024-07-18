@@ -19,7 +19,7 @@ public:
             result = "";
             i++;
         } else if (s[i] == ']') {
-            std::string temp = resultStack.top();
+            string temp = resultStack.top();
             resultStack.pop();
             int count = counts.top();
             counts.pop();
