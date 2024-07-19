@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1791-richest-customer-wealth](https://github.com/vijaykumar0710/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/vijaykumar0710/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
