@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2470-removing-stars-from-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vijaykumar0710/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2470-removing-stars-from-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2470-removing-stars-from-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
