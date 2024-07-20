@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/vijaykumar0710/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
+| [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vijaykumar0710/Leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
