@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vijaykumar0710/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vijaykumar0710/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
