@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vijaykumar0710/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/0013-roman-to-integer) |
+| [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vijaykumar0710/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Stack
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vijaykumar0710/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
