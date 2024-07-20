@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/vijaykumar0710/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -124,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
+| [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vijaykumar0710/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/vijaykumar0710/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vijaykumar0710/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Backtracking
 |  |
 | ------- |
