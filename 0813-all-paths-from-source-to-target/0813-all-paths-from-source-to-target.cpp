@@ -12,6 +12,7 @@ void dfs(vector<vector<int>>& graph,int u,vector<int> visited){
     }
   }
   path.pop_back();
+  visited[u]=0;
 }
     vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
         vector<int> visited(graph.size(),0);
