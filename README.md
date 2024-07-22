@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/vijaykumar0710/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
