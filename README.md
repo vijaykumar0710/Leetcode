@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/vijaykumar0710/Leetcode/tree/master/0547-number-of-provinces) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/vijaykumar0710/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/vijaykumar0710/Leetcode/tree/master/0547-number-of-provinces) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/vijaykumar0710/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
