@@ -2,7 +2,7 @@ class Solution {
 public:
 int m,n;
 int sum;
-int maxSum=INT_MIN;
+int maxSum=0;
 void dfs(vector<vector<int>>& grid,int i,int j){
     if(i<0 || j<0 || i>=m || j>=n || grid[i][j]!=1){
         return;
@@ -33,6 +33,6 @@ void dfs(vector<vector<int>>& grid,int i,int j){
         }
        } 
        
-       return maxSum==INT_MIN?0:maxSum;
+       return maxSum;
     }
 };
