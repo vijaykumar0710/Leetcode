@@ -8,6 +8,7 @@ public:
         queue<pair<int, int>> que;
         int freshOranges = 0;
 
+        // Initialize the queue with all rotten oranges and count fresh oranges
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2) {
@@ -18,7 +19,7 @@ public:
             }
         }
 
-        if (freshOranges == 0) return 0;
+        if (freshOranges == 0) return 0; // No fresh oranges to begin with
 
         int minutes = 0;
 
@@ -27,7 +28,9 @@ public:
             bool rotted = false;
 
             for (int i = 0; i < size; i++) {
-                auto [x, y] = que.front();
+                //auto [x, y] = que.front();
+                int x=que.front().first;
+                int y=que.front().second;
                 que.pop();
 
                 for (auto& dir : directions) {
