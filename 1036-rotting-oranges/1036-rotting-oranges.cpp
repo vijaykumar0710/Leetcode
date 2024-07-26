@@ -1,44 +1,51 @@
 class Solution {
 public:
+    vector<vector<int>> directions{{1,0},{-1,0},{0,1},{0,-1}};
+    
     int orangesRotting(vector<vector<int>>& grid) {
-        queue<pair<int,int>> qu;
-        int fo=0;
-        int n=grid.size();
-        int m=grid[0].size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1) fo++;
-                else if(grid[i][j]==2) qu.push({i,j});
-            }
-        }
-        qu.push({-1,-1});
-        int mins=0;
-        vector<vector<int>> dir={{-1,0},{1,0},{0,-1},{0,1}};
-        while(not qu.empty()){
-            auto cell=qu.front();
-            qu.pop();
-            if(cell.first==-1 and cell.second==-1){
-                mins++;
-                if(not qu.empty()){
-                    qu.push({-1,-1});
-                }
-                else {
-                  break;
-                  }
-            } else{
-                int i=cell.first;
-                int j=cell.second;
-                for(int d=0;d<4;d++){
-                    int nr=i+dir[d][0];
-                    int nc=j+dir[d][1];
-                    if(nr<0 or nc<0 or nr>=n or nc>=m) continue;
-                    if(grid[nr][nc]==2 || grid[nr][nc]==0) continue;
-                    fo--;
-                    grid[nr][nc]=2;
-                    qu.push({nr,nc});
+        int m = grid.size();
+        int n = grid[0].size();
+        queue<pair<int, int>> que;
+        int freshOranges = 0;
+
+        // Initialize the queue with all rotten oranges and count fresh oranges
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 2) {
+                    que.push({i, j});
+                } else if (grid[i][j] == 1) {
+                    freshOranges++;
                 }
             }
         }
-        return (fo==0)? mins-1: -1;
+
+        if (freshOranges == 0) return 0; // No fresh oranges to begin with
+
+        int minutes = 0;
+
+        while (!que.empty()) {
+            int size = que.size();
+            bool rotted = false;
+
+            for (int i = 0; i < size; i++) {
+                auto [x, y] = que.front();
+                que.pop();
+
+                for (auto& dir : directions) {
+                    int newX = x + dir[0];
+                    int newY = y + dir[1];
+        if (newX >= 0 && newX < m && newY >= 0 && newY < n && grid[newX][newY] == 1) {
+                        grid[newX][newY] = 2;
+                        que.push({newX, newY});
+                        freshOranges--;
+                        rotted = true;
+                    }
+                }
+            }
+
+            if (rotted) minutes++;
+        }
+
+        return freshOranges == 0 ? minutes : -1;
     }
 };
