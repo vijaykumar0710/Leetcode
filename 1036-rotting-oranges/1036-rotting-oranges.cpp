@@ -8,7 +8,6 @@ public:
         queue<pair<int, int>> que;
         int freshOranges = 0;
 
-        // Initialize the queue with all rotten oranges and count fresh oranges
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2) {
@@ -19,7 +18,7 @@ public:
             }
         }
 
-        if (freshOranges == 0) return 0; // No fresh oranges to begin with
+        if (freshOranges == 0) return 0;
 
         int minutes = 0;
 
