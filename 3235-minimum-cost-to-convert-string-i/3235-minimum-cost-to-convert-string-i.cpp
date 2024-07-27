@@ -1,69 +1,47 @@
-class Pair {
-public:
-    int node;
-    int cost;
-    Pair(int n, int c) : node(n), cost(c) {}
-};
-
 class Solution {
 public:
-    vector<int> dijkstra(vector<vector<Pair>>& adj, int src) {
-        int n = 26;
-        vector<int> dist(n, INT_MAX);
-        dist[src] = 0;
+void dijkstra(char &source,unordered_map<char, vector<pair<char, int>>> &adj,vector<vector<long long>> &costMatrix){
+    priority_queue<pair<int,char>,vector<pair<int,char>>,greater<pair<int,char>>> pq;
+    pq.push({0,source});
+    while(!pq.empty()){
+        int d=pq.top().first;
+        char adjChar=pq.top().second;
+        pq.pop();
 
-        priority_queue<Pair, vector<Pair>, function<bool(Pair, Pair)>> pq(
-            [](Pair a, Pair b) { return a.cost > b.cost; });
-        pq.push(Pair(src, 0));
+        for(auto &it:adj[adjChar]){
+            char adjChar=it.first;
+            int cost=it.second;
 
-        while (!pq.empty()) {
-            Pair pair = pq.top();
-            pq.pop();
-            int node = pair.node;
-            int cost = pair.cost;
-
-            for (auto it : adj[node]) {
-                int adjNode = it.node;
-                int adjCost = it.cost;
-
-                if (dist[node] != INT_MAX && dist[node] + adjCost < dist[adjNode]) {
-                    dist[adjNode] = dist[node] + adjCost;
-                    pq.push(Pair(adjNode, dist[adjNode]));
-                }
+            if(costMatrix[source-'a'][adjChar-'a']>d+cost){
+                costMatrix[source-'a'][adjChar-'a']=d+cost;
+                pq.push({d+cost,adjChar});
             }
         }
-        return dist;
     }
-
-    long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
-        int len = source.length();
-        int n = 26;
-
-        // Converting it into adj List
-        vector<vector<Pair>> adj(n);
+    return;
+}
+    long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
+        unordered_map<char, vector<pair<char, int>>> adj;
         for (int i = 0; i < original.size(); i++) {
-            int src = original[i] - 'a';
-            int des = changed[i] - 'a';
-            int cos = cost[i];
-            adj[src].push_back(Pair(des, cos));
+            char u = original[i];
+            char v = changed[i];
+            int w = cost[i];
+            adj[u].push_back({v, w});
         }
-
-        // Compute shortest paths from every node to every other node using Dijkstra's algorithm
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
-        for (int i = 0; i < n; i++) {
-            dist[i] = dijkstra(adj, i);
+        vector<vector<long long>> costMatrix(26,vector<long long>(26,INT_MAX));
+        for(int i=0;i<source.length();i++){
+            char ch=source[i];
+            dijkstra(ch,adj,costMatrix);
         }
-
-        // Calculate the minimum cost to transform the source string into the target string
-        long ans = 0;
-        for (int i = 0; i < len; i++) {
-            int start = source[i] - 'a';
-            int end = target[i] - 'a';
-            if (start == end) continue;
-            else {
-                if (dist[start][end] == INT_MAX) return -1;
-                ans += dist[start][end];
+        long long ans=0;
+        for(int i=0;i<source.length();i++){
+            if(source[i]==target[i]){
+                continue;
             }
+            if(costMatrix[source[i]-'a'][target[i]-'a']==INT_MAX){
+                return -1;
+            }
+            ans+=costMatrix[source[i]-'a'][target[i]-'a'];
         }
         return ans;
     }
