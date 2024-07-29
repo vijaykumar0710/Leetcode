@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Stack
 |  |
 | ------- |
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vijaykumar0710/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
