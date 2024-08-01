@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vijaykumar0710/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
