@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
+| [0420-strong-password-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/vijaykumar0710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/0420-strong-password-checker) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vijaykumar0710/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0394-decode-string) |
+| [0420-strong-password-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/0420-strong-password-checker) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [1205-defanging-an-ip-address](https://github.com/vijaykumar0710/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1250-longest-common-subsequence) |
