@@ -19,10 +19,7 @@ public:
             result=(result+sum)%M;
              }
              int new_idx=idx+1;
-            //   p new_pair;
              if(new_idx<n){  
-                // new_pair.first=sum+nums[new_idx];
-                // new_pair.second=new_idx;
                 pq.push({sum+nums[new_idx],new_idx});
              }
          }
