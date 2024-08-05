@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vijaykumar0710/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vijaykumar0710/Leetcode/tree/master/0937-online-stock-span) |
 ## Design
