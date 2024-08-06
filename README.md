@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vijaykumar0710/Queue/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/vijaykumar0710/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/vijaykumar0710/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/vijaykumar0710/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0445-add-two-numbers-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vijaykumar0710/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vijaykumar0710/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vijaykumar0710/Leetcode/tree/master/0695-max-area-of-island) |
