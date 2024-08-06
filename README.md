@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/vijaykumar0710/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/vijaykumar0710/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
