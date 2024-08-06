@@ -2,16 +2,18 @@ class Solution {
 public:
     int minimumPushes(string word) {
         int n=word.length();
-        if(n<=8) return n;
-        if(n<=16){ 
-              return 8+2*(n-8);
+      vector<int>vec(26,0);
+      for(auto &ch:word){
+        vec[ch-'a']++;
+      }
+      sort(vec.begin(), vec.end(),greater<int>());
+
+      int size=vec.size();
+      int totalPushes=0;
+       for (int i = 0; i < size; i++) {
+            int multiplier = (i / 8) + 1;  
+            totalPushes += vec[i] * multiplier;
         }
-        if(n<=24){
-             return 8+2*8+3*(n-16);
-        }
-        if(n>=24){
-          return 8+2*8+3*8+4*(n-24);
-        }
-        return 0;
+        return totalPushes;
     }
 };
