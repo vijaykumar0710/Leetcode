@@ -21,7 +21,7 @@ int solve(int idx,int searchCost,int maxSofar){
              t[idx][searchCost][maxSofar]=result;
         }
     }
-    return result%MOD;
+    return t[idx][searchCost][maxSofar]=result%MOD;
 }
     int numOfArrays(int n, int m, int k) {
         memset(t,-1,sizeof(t));
