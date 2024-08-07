@@ -1,28 +1,37 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        int x = 0;
-        int y = 0;
-        int dx = 1;
-        int dy = 0;
+        int m = matrix.size();
+        int n = matrix[0].size();
+       
+        int minr = 0, maxr = m - 1, minc = 0, maxc = n - 1;
         vector<int> res;
-
-        for (int i = 0; i < rows * cols; i++) {
-            res.push_back(matrix[y][x]);
-            matrix[y][x] = -101;
-
-            if (!(0 <= x + dx && x + dx < cols && 0 <= y + dy && y + dy < rows) || matrix[y+dy][x+dx] == -101) {
-                int temp = dx;
-                dx = -dy;
-                dy = temp;
-            }
-
-            x += dx;
-            y += dy;
+        while(minr <= maxr && minc <= maxc) {
+            // Right
+            if(minr <= maxr && minc <= maxc)
+                for(int i = minc; i <= maxc; i++) {
+                    res.push_back(matrix[minr][i]);
+                }
+            minr++;
+            // Down
+            if(minr <= maxr && minc <= maxc)
+                for(int i = minr; i <= maxr; i++) {
+                    res.push_back(matrix[i][maxc]);
+                }
+            maxc--;
+            // Left
+            if(minr <= maxr && minc <= maxc)
+                for(int i = maxc; i >= minc; i--) {
+                    res.push_back(matrix[maxr][i]);
+                }
+            maxr--;
+            // Up
+            if(minr <= maxr && minc <= maxc)
+                for(int i = maxr; i >= minr; i--) {
+                    res.push_back(matrix[i][minc]);
+                }
+            minc++;
         }
-
         return res;
     }        
 };
