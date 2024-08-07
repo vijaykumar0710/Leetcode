@@ -15,10 +15,8 @@ int solve(int idx,int searchCost,int maxSofar){
     for(int i=1;i<=M;i++){
         if(i>maxSofar){
            result=(result+solve(idx+1,searchCost+1,i))%MOD;
-           t[idx][searchCost][maxSofar]=result;
         }else{
              result=(result+solve(idx+1,searchCost,maxSofar))%MOD;
-             t[idx][searchCost][maxSofar]=result;
         }
     }
     return t[idx][searchCost][maxSofar]=result%MOD;
