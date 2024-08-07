@@ -38,7 +38,7 @@ public:
         return solve(num / 1000000000) + " Billion" + ((num % 1000000000 != 0) ? " " + solve(num % 1000000000) : "");
     }
 
-    std::string numberToWords(int num) {
+    string numberToWords(int num) {
         if (num == 0) {
             return "Zero";
         }
