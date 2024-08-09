@@ -7,7 +7,8 @@ public:
             if(v[idx]==1000){
                 v[idx]=s[i]-t[i];
             }
-            else if(v[idx]!=(s[i]-t[i])) return false;
+            else if(v[idx]!=(s[i]-t[i]))
+             return false;
         }
           for(int i=0;i<150;i++){
             v[i]=1000;
