@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vijaykumar0710/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0898-transpose-matrix) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
