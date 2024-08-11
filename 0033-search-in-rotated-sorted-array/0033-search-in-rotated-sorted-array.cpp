@@ -1,42 +1,43 @@
 class Solution {
 public:
+   int findPivot(vector<int>& nums,int n){
+    int l=0,r=n-1;
+
+    while(l<r){
+        int mid=l+(r-l)/2;
+        if(nums[mid]>nums[r]){
+            l=mid+1;
+        }else r=mid;
+    }
+    return r;
+   }
+
+    int binarySearch(int l,int r,vector<int>& nums,int target){
+        int idx=-1;
+
+        while(l<=r){
+            int mid=l+(r-l)/2;
+
+            if(nums[mid]==target){
+                idx=mid;
+                break;
+            }else if(nums[mid]<target){
+                l=mid+1;
+            }else r=mid-1;
+        }
+        return idx;
+    }
+   
     int search(vector<int>& nums, int target) {
-        int n = nums.size();
-        if (n == 0) return -1;
+        int n=nums.size();
 
-        int l = 0, r = n - 1;
+        int pivot_index=findPivot(nums,n);
 
-        // Step 1: Find the pivot (smallest element in the rotated array)
-        while (l < r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] > nums[r]) {
-                l = mid + 1;
-            } else {
-                r = mid;
-            }
-        }
-        
-        int pivot = l; // 'l' now points to the pivot
-        l = 0, r = n - 1;
+        int idx=binarySearch(0,pivot_index-1,nums,target);
 
-        // Step 2: Perform binary search considering the rotation
-        if (target >= nums[pivot] && target <= nums[r]) {
-            l = pivot; // Search in the right side of the pivot
-        } else {
-            r = pivot - 1; // Search in the left side of the pivot
-        }
+        if(idx!=-1) return idx;
 
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] < target) {
-                l = mid + 1;
-            } else {
-                r = mid - 1;
-            }
-        }
-
-        return -1; // Target not found
+         idx=binarySearch(pivot_index,n-1,nums,target);
+        return idx;
     }
 };
