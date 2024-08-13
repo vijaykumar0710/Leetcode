@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vijaykumar0710/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/vijaykumar0710/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vijaykumar0710/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/vijaykumar0710/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
