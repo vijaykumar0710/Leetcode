@@ -1,30 +1,26 @@
 class Solution {
 public:
-    void inorder(TreeNode* root, unordered_map<int, int>& mp) {
-        if (root == NULL) return;
-        inorder(root->left, mp);
-        mp[root->val]++;
-        inorder(root->right, mp);
-    }
-
+unordered_map<int,int>mp;
+void help(TreeNode* root){
+        if(root==NULL) return;
+           mp[root->val]++;
+            help(root->left);
+            help(root->right);
+   }
     vector<int> findMode(TreeNode* root) {
-        unordered_map<int, int> mp;
-        inorder(root, mp);
-
-        priority_queue<int> pq;
-        for (auto &fre : mp) {
+       help(root);
+       priority_queue<int>pq;
+        for(auto &fre:mp){
             pq.push(fre.second);
-        }
-
-        vector<int> res;
-        int maxFreq = pq.top();
-
-        for (auto &fre : mp) {
-            if (fre.second == maxFreq) {
-                res.push_back(fre.first);
-            }
-        }
-
+          }
+          vector<int>res;
+          int x=pq.top();
+          pq.pop();
+          for(auto &idx:mp){
+             if(idx.second==x){
+                res.push_back(idx.first);
+             }
+          }
         return res;
     }
 };
