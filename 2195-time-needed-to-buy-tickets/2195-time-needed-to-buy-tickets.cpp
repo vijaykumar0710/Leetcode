@@ -6,11 +6,11 @@ public:
          for(int i=0;i<n;i++){
           if(i<=k){
             sum+=min(tickets[i],tickets[k]);
-            }else{
+            }else{  //i>k
                 if(tickets[i]>=tickets[k]){
                     sum+=(tickets[k]-1);
                 }else{
-                    sum+=min(tickets[i],tickets[k]);
+                    sum+=tickets[i];
                 }
             }
          }
