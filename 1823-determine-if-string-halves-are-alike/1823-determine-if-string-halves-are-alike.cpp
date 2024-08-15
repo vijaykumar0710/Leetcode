@@ -21,9 +21,6 @@ public:
                   i++;
                   j--;
                  }
-        if(count1==count2){
-            return true;
-        }
-        return false;
+            return count1==count2;
     }
 };
