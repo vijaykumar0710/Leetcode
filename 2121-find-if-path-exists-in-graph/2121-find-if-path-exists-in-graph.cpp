@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool dfs(unordered_map<int,vector<int>>adj, int source, int destination,unordered_set<int>& visited){
+bool dfs(unordered_map<int,vector<int>>&adj, int source, int destination,unordered_set<int>& visited){
     if(source==destination){
         return true;
     }
