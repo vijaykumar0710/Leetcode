@@ -10,34 +10,24 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-
-        // Use a queue for BFS
-        queue<int> q;
-        unordered_set<int> visited;
-        
-        // Start BFS from the source
-        q.push(source);
+        unordered_set<int>visited;
+        queue<int>qu;
+        qu.push(source);
         visited.insert(source);
-        
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-            
-            // If we reach the destination, return true
-            if (node == destination) {
-                return true;
-            }
-            
-            // Explore all adjacent nodes
-            for (auto &neighbor : adj[node]) {
-                if (visited.find(neighbor) == visited.end()) {
-                    visited.insert(neighbor);
-                    q.push(neighbor);
-                }
+
+        while(!qu.empty()){
+            int x=qu.front();
+            qu.pop();
+
+            if(x==destination) return true;
+
+            for(auto &v:adj[x]){
+             if(visited.find(v)==visited.end()){
+                qu.push(v);
+                visited.insert(v);
+              }
             }
         }
-        
-        // If BFS completes without finding the destination, return false
         return false;
     }
 };
