@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/vijaykumar0710/Leetcode/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vijaykumar0710/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1196-filling-bookcase-shelves](https://github.com/vijaykumar0710/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/vijaykumar0710/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/vijaykumar0710/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
