@@ -6,8 +6,8 @@ public:
         int sum = 0;
         
         // Sort each row in descending order
-        for (int i = 0; i < m; i++) {
-            sort(grid[i].begin(), grid[i].end(), greater<int>());
+        for (auto &row:grid) {
+            sort(row.begin(), row.end(), greater<int>());
         }
         
         // Add the greatest values in each column
