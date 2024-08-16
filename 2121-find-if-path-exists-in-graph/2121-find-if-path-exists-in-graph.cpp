@@ -1,29 +1,35 @@
 class Solution {
 public:
-bool dfs(unordered_map<int,vector<int>>&adj, int source, int destination,unordered_set<int>& visited){
-    if(source==destination){
-        return true;
-    }
-    visited.insert(source);
-for(auto &v:adj[source]){
-if(visited.find(v)==visited.end()){
-   if(dfs(adj,v,destination,visited)){
-    return true;
-       }
-     }
-   }
-   return false; 
-}
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        unordered_map<int,vector<int>>adj;
-       
-        for(auto &edge:edges){
-            int u=edge[0];
-            int v=edge[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+    bool dfs(int node, vector<vector<int>>& edges, unordered_set<int>& visited, int destination) {
+        // If we reach the destination, return true
+        if (node == destination) {
+            return true;
         }
-       unordered_set<int> visited;
-       return dfs(adj,source,destination,visited);  
+        
+        visited.insert(node);  // Mark the current node as visited
+        
+        // Explore all edges to find connected nodes
+        for (auto &edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            
+            // Check if the current node is part of this edge
+            if (u == node && visited.find(v) == visited.end()) {
+                if (dfs(v, edges, visited, destination)) {
+                    return true;
+                }
+            } else if (v == node && visited.find(u) == visited.end()) {
+                if (dfs(u, edges, visited, destination)) {
+                    return true;
+                }
+            }
+        }
+        
+        return false;
+    }
+
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        unordered_set<int> visited;  // Set to keep track of visited nodes
+        return dfs(source, edges, visited, destination);  // Start DFS from the source
     }
 };
