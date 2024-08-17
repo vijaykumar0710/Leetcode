@@ -5,18 +5,18 @@ public:
         vector<int> res;
 
         for (int i = 0; i <= n - k; i++) {
-            bool isConsecutiveSorted = true;
+            bool isConseSort = true;
             int maxElement = nums[i];
 
             for (int j = i + 1; j < i + k; j++) {
                 if (nums[j] != nums[j - 1] + 1) {
-                    isConsecutiveSorted = false;
+                    isConseSort = false;
                     break;
                 }
                 maxElement = max(maxElement, nums[j]);
             }
 
-            if (isConsecutiveSorted) {
+            if (isConseSort) {
                 res.push_back(maxElement);
             } else {
                 res.push_back(-1);
