@@ -9,7 +9,7 @@ int solve(int currA,int clipA,int n){
         return 100000;
     }
      if(t[currA][clipA]!=-1) return t[currA][clipA];
-    int copyALLpaste=1+1+solve(currA+currA,currA,n);
+    int copyALLpaste=2+solve(currA+currA,currA,n); //(1 for copy and 1 for paste so total 2)
     int paste=1+solve(currA+clipA,clipA,n);
     return t[currA][clipA]=min(paste,copyALLpaste);
 }
