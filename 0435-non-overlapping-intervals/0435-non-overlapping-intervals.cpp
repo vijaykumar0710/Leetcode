@@ -4,7 +4,7 @@ public:
         if (intervals.empty()) return 0;
 
         // Sort intervals based on the end time
-        sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<int>& b) {
+        sort(intervals.begin(), intervals.end(), []( vector<int>& a,  vector<int>& b) {
             return a[1] < b[1];
         });
 
