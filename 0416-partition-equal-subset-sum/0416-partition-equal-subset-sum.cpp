@@ -22,10 +22,11 @@ bool helper(vector<int>&nums,int sum,int target,int i){
             sum+=num;
             cout<<sum;
         }
-          if (sum % 2 != 0) return false;
 
         memset(t,-1,sizeof(t));
-   
+     if(sum%2==0){ 
          return helper(nums,0,sum/2,0);
+          }
+        return false;
     }
 };
