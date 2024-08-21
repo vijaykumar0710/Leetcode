@@ -1,6 +1,6 @@
 class Solution {
 public:
-int t[201][20097];
+int t[201][10001];
 bool helper(vector<int>&nums,int sum,int target,int i){
     if(sum==target) return true;
 
