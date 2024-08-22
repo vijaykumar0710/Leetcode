@@ -2,6 +2,7 @@ class Solution {
 public:
   string comp="";
     int findComplement(int num) {
+        if(num==0) return 1;
         while(num>=1){ 
        if(num%2==1) comp+='1';
        else{
