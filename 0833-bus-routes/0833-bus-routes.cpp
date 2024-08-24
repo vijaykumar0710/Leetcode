@@ -21,7 +21,9 @@ public:
                 int route=que.front();
                 que.pop();
                 for(auto &stop:routes[route]){
-                       if(stop==target) return busCount;
+                       if(stop==target){
+                        return busCount;
+                       }
                 for(auto &nextRoute:adj[stop]){
                     if(visited[nextRoute]==false){
                         visited[nextRoute]=true;
