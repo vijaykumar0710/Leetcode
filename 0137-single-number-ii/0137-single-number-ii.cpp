@@ -6,11 +6,8 @@ public:
         for(int i=0;i<n;i++){
             mp[nums[i]]++;
         }
-       for(int i=0;i<n;i++){
-        int x=mp[nums[i]];
-        if(x==1){
-            return nums[i];
-        }
+       for(auto &it:mp){
+        if(it.second==1) return it.first;
        }
        return -1;
     }
