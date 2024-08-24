@@ -6,7 +6,7 @@ public:
         int i=1;
         while(i<n){
             if(ratings[i]==ratings[i-1]){
-                sum=sum+1;
+               sum=sum+1;
                 i++;
             }
             int peak=1;
