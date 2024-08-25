@@ -1,7 +1,7 @@
 class Solution {
 public:
 int n;
-int t[100000+1][02];
+int t[100000+1][2];
 int solve(string &s,int currIdx,int prev){
    if(currIdx>=n) return 0;
    int flip=INT_MAX;
