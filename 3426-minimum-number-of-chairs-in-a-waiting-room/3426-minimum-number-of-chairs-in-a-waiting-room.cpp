@@ -7,10 +7,11 @@ public:
         for(auto &ch:s){
             if(ch=='E'){
                 count++;
-                maxi=max(count,maxi);
+                // maxi=max(count,maxi);
             }else{
                 count--;
             }
+              maxi=max(count,maxi);
         }
         return maxi;
     }
