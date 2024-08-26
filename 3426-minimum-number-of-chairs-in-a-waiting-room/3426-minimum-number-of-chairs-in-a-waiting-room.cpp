@@ -1,20 +1,17 @@
 class Solution {
 public:
     int minimumChairs(string s) {
-     int c = 0;
-    int m = 0;
-
-    for (char e: s) {
-        if (e == 'E') {
-            c++;
-        } else if (e == 'L') {
-            c--;
+        int n=s.size();
+        int count=0;
+        int maxi=INT_MIN;
+        for(auto &ch:s){
+            if(ch=='E'){
+                count++;
+                maxi=max(count,maxi);
+            }else{
+                count--;
+            }
         }
-        if (c > m) {
-            m = c;
-        }
-    }
-
-    return m;
+        return maxi;
     }
 };
