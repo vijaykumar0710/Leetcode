@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/vijaykumar0710/Leetcode/tree/master/3226-minimum-number-game) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vijaykumar0710/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vijaykumar0710/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Dynamic Programming
 |  |
 | ------- |
