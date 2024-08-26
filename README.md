@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/vijaykumar0710/Leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1666-make-the-string-great](https://github.com/vijaykumar0710/Leetcode/tree/master/1666-make-the-string-great) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vijaykumar0710/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vijaykumar0710/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vijaykumar0710/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vijaykumar0710/Leetcode/tree/master/0733-flood-fill) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
