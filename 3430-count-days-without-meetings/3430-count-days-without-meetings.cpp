@@ -14,7 +14,7 @@ public:
             int end = meeting[1];
             
             // Count the days between the end of the last meeting and the start of the current one
-            if (start > currentEnd + 1) {
+            if (start > currentEnd) {
                 freeDays += start - currentEnd - 1;
             }
             
