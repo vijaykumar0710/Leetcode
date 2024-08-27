@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vijaykumar0710/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/0416-partition-equal-subset-sum) |
