@@ -50,14 +50,14 @@ ll DijkstraAlgo(vector<vector<int>>& edges,int n,int src,int dest){
 
         bool matchedTarget=(currShortestDist==target);
 
-        if(matchedTarget==true){
-            for(vector<int>& edge:edges){
-                 if(edge[2]==-1){
-                    edge[2]=LARGE_VALUE;
-                 }
-            }
-            return edges;
-        }
+        // if(matchedTarget==true){
+        //     for(vector<int>& edge:edges){
+        //          if(edge[2]==-1){
+        //             edge[2]=LARGE_VALUE;
+        //          }
+        //     }
+        //     return edges;
+        // }
         for(vector<int>& edge:edges){
             if(edge[2]==-1){
                 edge[2]=(matchedTarget==true)?LARGE_VALUE:1;
