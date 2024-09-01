@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/vijaykumar0710/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vijaykumar0710/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vijaykumar0710/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/vijaykumar0710/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2035-count-sub-islands](https://github.com/vijaykumar0710/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vijaykumar0710/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vijaykumar0710/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Monotonic Stack
