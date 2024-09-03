@@ -6,7 +6,7 @@ public:
         for(auto &ch:s){
             numstr+=to_string(ch-'a'+1);
         }
-        int sum=0;
+        int sum;
             while(k>0){
                 sum=0;
             for(auto ch:numstr){
