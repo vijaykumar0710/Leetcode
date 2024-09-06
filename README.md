@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3430-count-days-without-meetings](https://github.com/vijaykumar0710/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vijaykumar0710/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
