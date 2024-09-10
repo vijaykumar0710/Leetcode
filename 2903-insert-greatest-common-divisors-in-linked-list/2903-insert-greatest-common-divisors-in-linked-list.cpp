@@ -4,18 +4,13 @@ public:
         if(!head || !head->next){
             return head;
         }
-        ListNode* currNode=head;
-        ListNode* nextNode=head->next;
+       ListNode* temp=insertGreatestCommonDivisors(head->next);
 
-        while(nextNode){
-            ListNode* temp=new ListNode(__gcd(currNode->val,nextNode->val));
+       ListNode* gcdNode=new ListNode(__gcd(head->val,head->next->val));
 
-            currNode->next=temp;
-            temp->next=nextNode;
+       gcdNode->next=temp;
+       head->next=gcdNode;
 
-            currNode=nextNode;
-            nextNode=nextNode->next;
-        }
-        return head;
+       return head;
     }
 };
