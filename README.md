@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vijaykumar0710/Leetcode/tree/master/0455-assign-cookies) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/0205-isomorphic-strings) |
