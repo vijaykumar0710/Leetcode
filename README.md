@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vijaykumar0710/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/vijaykumar0710/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vijaykumar0710/Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0633-sum-of-square-numbers) |
