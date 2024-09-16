@@ -5,11 +5,11 @@ public:
         while(n!=1){ 
         if(sta.count(n)) return false;
         sta.insert(n);
-        string st=to_string(n);
         int sum=0;
-        for(int i=0;i<st.size();i++){
-            int x=st[i]-'0';
-            sum+=x*x;
+        while(n>0){
+            int digit=n%10;
+            sum+=digit*digit;
+            n=n/10;
         }
         n=sum;
         }
