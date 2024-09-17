@@ -8,7 +8,7 @@ public:
             reverse(word.begin(),word.end());
             res+=word+' ';
         }
-         res.erase(res.find_last_not_of(" \t\n\r") + 1);
+         res.erase(res.find_last_not_of(" ") + 1);
         return res;
     }
 };
