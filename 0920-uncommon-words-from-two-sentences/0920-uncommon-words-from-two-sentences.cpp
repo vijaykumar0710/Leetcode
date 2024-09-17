@@ -6,7 +6,7 @@ public:
         string word;
 
         stringstream ss1(s1);
-            while(getline(ss1,word,' ')){
+            while(ss1>>word){
                 mp[word]++;
             }
             stringstream ss2(s2);
