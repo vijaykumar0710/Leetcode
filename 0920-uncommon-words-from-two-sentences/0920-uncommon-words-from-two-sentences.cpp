@@ -10,7 +10,7 @@ public:
                 mp[word]++;
             }
             stringstream ss2(s2);
-                while(ss2>>word){
+                while(getline(ss2,word,' ')){
                     mp[word]++;
             }
         for(auto &ch:mp){
