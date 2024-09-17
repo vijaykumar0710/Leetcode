@@ -19,11 +19,9 @@ public:
             int b=(i>=token2.size())?0:stoi(token2[i]);
             if(a>b){
                 return 1;
-                break;
             }
            else if(a<b){
                 return -1;
-                break;
             }
            else i++;
         }
