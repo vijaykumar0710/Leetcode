@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/vijaykumar0710/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/vijaykumar0710/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vijaykumar0710/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vijaykumar0710/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0394-decode-string) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vijaykumar0710/Leetcode/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/vijaykumar0710/Leetcode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0312-burst-balloons) |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
