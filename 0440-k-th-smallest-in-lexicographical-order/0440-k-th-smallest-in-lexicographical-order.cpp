@@ -1,15 +1,16 @@
 class Solution {
 public:
     // Helper function to count steps between two numbers
-    int countSteps(long curr, long n) {
-        long steps = 0;
-        long first = curr, last = curr;
-        while (first <= n) {
-            steps += min(last, (long)n) - first + 1;
-            first *= 10;
-            last = last * 10 + 9;
+    int Count(long curr, long next,int n) {
+        int countNum = 0;
+    
+        while (curr <= n) {
+            countNum += (next-curr);
+            curr *= 10;
+            next *=10;
+            next =min(next,long(n+1));
         }
-        return steps;
+        return countNum;
     }
     
     int findKthNumber(int n, int k) {
@@ -17,18 +18,17 @@ public:
         k--; // since we start from 1, we need to adjust k
 
         while (k > 0) {
-            int steps = countSteps(curr, n);
-            if (steps <= k) {
+            int count = Count(curr, curr+1,n);
+            if (count <= k) {
                 // Skip the current subtree
                 curr++;
-                k -= steps;
+                k -= count;
             } else {
                 // Go down to the next level in the current subtree
                 curr *= 10;
                 k--;
             }
         }
-        
         return curr;
     }
 };
