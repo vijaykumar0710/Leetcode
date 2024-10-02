@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vijaykumar0710/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vijaykumar0710/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vijaykumar0710/Leetcode/tree/master/0056-merge-intervals) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/vijaykumar0710/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vijaykumar0710/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vijaykumar0710/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vijaykumar0710/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/vijaykumar0710/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vijaykumar0710/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
