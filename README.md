@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/vijaykumar0710/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/vijaykumar0710/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vijaykumar0710/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/vijaykumar0710/Leetcode/tree/master/0476-number-complement) |
+| [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1054-complement-of-base-10-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
