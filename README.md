@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0833-bus-routes](https://github.com/vijaykumar0710/Leetcode/tree/master/0833-bus-routes) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vijaykumar0710/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vijaykumar0710/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vijaykumar0710/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
