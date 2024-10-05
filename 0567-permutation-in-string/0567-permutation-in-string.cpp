@@ -1,12 +1,28 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        if(s1.size()>s2.size()) return false;
-        sort(s1.begin(),s1.end());
-        for(int i=0;i<s2.length();i++){
-         string str=s2.substr(i,s1.length());
-         sort(str.begin(),str.end());
-          if(s1==str)  return true;
+        int m=s1.size();
+        int n=s2.size();
+
+        if(m>n) return false;
+
+        vector<int>s1_freq(26,0);
+        vector<int>s2_freq(26,0);
+
+        for(char &ch:s1){
+            s1_freq[ch-'a']++;
+        }
+        int i=0,j=0;
+        while(j<n){
+           s2_freq[s2[j]-'a']++;
+           if(j-i+1>m){
+            s2_freq[s2[i]-'a']--;
+            i++;
+           }
+           if(s1_freq==s2_freq){
+            return true;
+           }
+           j++;
         }
         return false;
     }
