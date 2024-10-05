@@ -1,28 +1,16 @@
 class Solution {
 public:
-void generate(vector<string>&ans,string &vec,int op,int col,int n){
-if(col==n){
-    ans.push_back(vec);
-   return;
-}
-   if(op<n){
-    vec+='(';
-    op=op+1;
-    generate(ans,vec,op,col,n);
-    vec.pop_back();
-    op--;
-   }
-    if(op>col){
-        vec+=')';
-        col=col+1;
-    generate(ans,vec,op,col,n);
-    vec.pop_back();
+void generate(vector<string>&ans,string str,int open,int close,int n){
+    if(close==n){
+        ans.push_back(str);
+        return;
     }
+    if(open<n) generate(ans,str+'(',open+1,close,n);
+    if(open>close) generate(ans,str+')',open,close+1,n);
 }
     vector<string> generateParenthesis(int n) {
         vector<string>ans;
-       string vec="";
-        generate(ans,vec,0,0,n);
+        generate(ans,{},0,0,n);
         return ans;
     }
 };
