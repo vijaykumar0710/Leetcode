@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/vijaykumar0710/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/vijaykumar0710/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/vijaykumar0710/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/vijaykumar0710/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaykumar0710/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/vijaykumar0710/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
