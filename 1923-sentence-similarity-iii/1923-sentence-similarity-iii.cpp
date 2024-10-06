@@ -1,7 +1,9 @@
 class Solution {
 public:
     bool areSentencesSimilar(string sentence1, string sentence2) {
-
+     if(sentence1.length()<sentence2.length()){
+        swap(sentence1,sentence2);
+     }
         vector<string>tokens1;
         stringstream ss1(sentence1);
         string token1;
@@ -18,15 +20,15 @@ public:
 
           int n1=tokens1.size();
           int n2=tokens2.size();
-          int i=0,j=0;
-          while(i<n1 && j<n2 && tokens1[i]==tokens2[j]){
-                i++;
-                j++; 
+          int i=0,j=n1-1,k=0,l=n2-1;
+          while(k<n2 && i<n1 && tokens1[i]==tokens2[k]){
+                 i++;
+                 k++;
           }
-          while(i<n1 && j<n2 && tokens1[n1-1]==tokens2[n2-1]){
-            n1--;
-            n2--;
-          }
-          return j==n2 || i==n1;
-    }
+            while(l>=k && tokens1[j]==tokens2[l]){ 
+                    l--;
+                    j--;
+                }
+          return l<k;
+      }
 };
