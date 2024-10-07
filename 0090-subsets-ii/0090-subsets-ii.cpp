@@ -14,7 +14,7 @@ void subset(vector<int>arr,set<vector<int>>&st,vector<int>&nums,int i,int n){
         vector<int>arr;
         vector<vector<int>>ans;
         set<vector<int>>st;
-        sort(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end());// set check element idx wise so sort
         subset(arr,st,nums,0,n);
         for(auto &num:st){
             ans.push_back(num);
