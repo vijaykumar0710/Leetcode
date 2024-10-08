@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/vijaykumar0710/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/vijaykumar0710/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaykumar0710/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/vijaykumar0710/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vijaykumar0710/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/vijaykumar0710/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2470-removing-stars-from-a-string) |
