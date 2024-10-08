@@ -23,7 +23,7 @@ char DFS(unordered_map<char,vector<char>>&adj,char ch,vector<int>&visited){
            char ch=baseStr[i];
            vector<int>visited(26,0);
            char minChar=DFS(adj,ch,visited);
-           result+=minChar;
+           result.push_back(minChar);
         }
         return result;
     }
