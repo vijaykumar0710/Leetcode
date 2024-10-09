@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vijaykumar0710/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
+| [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
+| [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vijaykumar0710/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -924,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vijaykumar0710/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/vijaykumar0710/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/vijaykumar0710/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
@@ -948,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vijaykumar0710/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vijaykumar0710/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/vijaykumar0710/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2803-modify-graph-edge-weights](https://github.com/vijaykumar0710/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
