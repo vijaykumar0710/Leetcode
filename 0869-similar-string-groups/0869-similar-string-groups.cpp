@@ -22,7 +22,7 @@ void DFS( unordered_map<int,vector<int>>&adj,int u,vector<bool>&visited){
         unordered_map<int,vector<int>>adj;
         for(int i=0;i<n-1;i++){
             for(int j=i+1;j<n;j++){
-                if(isSimilar(strs[i],strs[j])==true){
+                if(isSimilar(strs[i],strs[j])){
                     adj[i].push_back(j);
                     adj[j].push_back(i);
                 }
