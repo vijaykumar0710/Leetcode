@@ -1,24 +1,40 @@
 class Solution {
 public:
+typedef pair<int,int>p;
     int smallestChair(vector<vector<int>>& times, int targetFriend) {
         int n=times.size();
-        vector<int>chairs(n,-1);
-        int targetFriendArrivalTime=times[targetFriend][0];
-        sort(begin(times),end(times));
-        for(auto &time:times){
-            int arrival=time[0];
-            int depart=time[1];
-            for(int i=0;i<n;i++){
-                if(chairs[i]<=arrival){
-                    chairs[i]=depart;
+       
+        priority_queue<p,vector<p>,greater<p>> occupied;
+        priority_queue<int,vector<int>,greater<int>>free;
 
-                    if(targetFriendArrivalTime==arrival){
-                        return i;
-                    }
-                    break;
-                }
-            }
+        int targetFriendArrivalTime=times[targetFriend][0];
+       
+       int chairNo=0;
+
+          sort(begin(times),end(times));
+
+       for(int i=0;i<n;i++){
+        int arrival=times[i][0];
+        int depart=times[i][1];
+
+        while(!occupied.empty() && occupied.top().first<=arrival){
+            free.push(occupied.top().second);
+            occupied.pop();
         }
-        return -1;
+        if(free.empty()){
+            occupied.push({depart,chairNo});
+            if(arrival==targetFriendArrivalTime)
+            return chairNo;
+            chairNo++;
+        }else{
+            int leastChairAvailable=free.top();
+            free.pop();
+            if(arrival==targetFriendArrivalTime){
+                return leastChairAvailable;
+            }
+            occupied.push({depart,leastChairAvailable});
+        }
+       }
+       return -1;
     }
 };
