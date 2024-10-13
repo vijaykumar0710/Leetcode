@@ -10,7 +10,7 @@ public:
          int l=0;
          int r=m;
          while(l<=r){
-            int px=l+(r-l)/2;
+            int px=l+(r-l)/2;  //px=mid
             int py=(m+n+1)/2-px;
 
           //left half wale
