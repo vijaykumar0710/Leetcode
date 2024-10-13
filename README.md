@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/vijaykumar0710/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/vijaykumar0710/Leetcode/tree/master/1803-average-waiting-time) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1833-find-the-highest-altitude](https://github.com/vijaykumar0710/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/vijaykumar0710/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vijaykumar0710/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/vijaykumar0710/Leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
@@ -982,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vijaykumar0710/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vijaykumar0710/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vijaykumar0710/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
