@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 ## Counting
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/vijaykumar0710/Leetcode/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
