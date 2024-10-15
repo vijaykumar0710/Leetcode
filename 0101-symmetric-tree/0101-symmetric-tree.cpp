@@ -10,6 +10,7 @@ if(l==NULL || r==NULL) return false;
     return false;
 }
     bool isSymmetric(TreeNode* root) {
+        if(root==NULL) return true;
         return check(root->left,root->right);
     }
 };
