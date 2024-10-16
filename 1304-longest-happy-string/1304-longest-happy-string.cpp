@@ -15,7 +15,7 @@ typedef pair<int,char> p;
         string ans="";
        while(!pq.empty()){
         int currCount=pq.top().first;
-        int currChar=pq.top().second;
+        char currChar=pq.top().second;
         pq.pop();
 
         if(ans.length()>=2 && ans[ans.length()-1]==currChar && ans[ans.length()-2]==currChar){
@@ -23,7 +23,7 @@ typedef pair<int,char> p;
                 break;
             }
             int nextCount=pq.top().first;
-            int nextChar=pq.top().second;
+            char nextChar=pq.top().second;
             pq.pop();
 
             ans.push_back(nextChar);
