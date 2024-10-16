@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaykumar0710/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/vijaykumar0710/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/vijaykumar0710/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/vijaykumar0710/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vijaykumar0710/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1666-make-the-string-great](https://github.com/vijaykumar0710/Leetcode/tree/master/1666-make-the-string-great) |
