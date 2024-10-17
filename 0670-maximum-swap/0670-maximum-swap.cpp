@@ -15,7 +15,7 @@ public:
         // Traverse through each digit and try to find a larger digit in the remaining part
         for (int i = 0; i < n; i++) {
             for (int d = 9; d > st[i] - '0'; d--) {
-                if (last[d] > i) {
+                if (st[i] > d && i<last[d]) {
                     // If a larger digit exists later, swap and return
                     swap(st[i], st[last[d]]);
                     return stoi(st);  // Convert the modified string back to an integer
