@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vijaykumar0710/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/vijaykumar0710/Leetcode/tree/master/0833-bus-routes) |
 | [0859-design-circular-deque](https://github.com/vijaykumar0710/Leetcode/tree/master/0859-design-circular-deque) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vijaykumar0710/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
+| [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0833-bus-routes](https://github.com/vijaykumar0710/Leetcode/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/vijaykumar0710/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vijaykumar0710/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
+| [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaykumar0710/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vijaykumar0710/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vijaykumar0710/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vijaykumar0710/Leetcode/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
