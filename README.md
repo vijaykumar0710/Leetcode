@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/vijaykumar0710/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/vijaykumar0710/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/vijaykumar0710/Leetcode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vijaykumar0710/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/vijaykumar0710/Leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
