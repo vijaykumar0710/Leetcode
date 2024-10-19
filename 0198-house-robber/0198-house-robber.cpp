@@ -1,21 +1,17 @@
 class Solution {
 public:
+int n;
+int t[101];
+int helper(vector<int>&nums,int i ){
+    if(i>=n) return 0;
+    if(t[i]!=-1) return t[i];
+     int take=nums[i]+helper(nums,i+2);
+     int skip=helper(nums,i+1);
+     return t[i]=max(take,skip);
+}
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        if(n==1) return nums[0];
-          //t[i]=max. stolen money till ith house
-          //no house:i=0
-          int prev=nums[0];
-          //1 house:i=1
-          int prevPrev=0;
-
-          for(int i=2;i<=n;i++){
-            int steal=nums[i-1]+prevPrev;
-            int skip=prev;
-            int temp=max(steal,skip);
-            prevPrev=prev;
-            prev=temp;
-          } 
-          return prev;
+        n=nums.size();
+        memset(t,-1,sizeof(t));
+        return helper(nums,0);
     }
 };
