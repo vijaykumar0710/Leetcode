@@ -8,7 +8,6 @@ string invert(string prev){
     return str;
 }
 string helper(int n){
-    string str="";
     if(n==1) return "0";
     string prev=helper(n-1);
     string inverted=invert(prev);
