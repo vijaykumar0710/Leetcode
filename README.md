@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/vijaykumar0710/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/vijaykumar0710/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0136-single-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vijaykumar0710/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vijaykumar0710/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/vijaykumar0710/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
