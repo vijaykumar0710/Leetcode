@@ -7,13 +7,12 @@ public:
         while(!que.empty()){
             int n=que.size();
             long sum=0;
-            while(n>0){
+            while(n--){
                 TreeNode* num=que.front();
                 que.pop();
                 sum+=num->val;
                if(num->left!=NULL) que.push(num->left);
                if(num->right!=NULL) que.push(num->right);
-               n--;
             }
             pq.push(sum);
             if(pq.size()>k){
