@@ -24,8 +24,7 @@ public:
            while(n--){
            TreeNode* curr=que.front();
            que.pop();
-           int sibling=curr->left!=NULL?curr->left->val:0;
-           sibling+=curr->right!=NULL?curr->right->val:0;
+           int sibling=(curr->left!=NULL?curr->left->val:0)+(curr->right!=NULL?curr->right->val:0);
            if(curr->right){
             curr->right->val=levelSum[i]-sibling;
             que.push(curr->right);
