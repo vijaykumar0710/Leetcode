@@ -1,15 +1,15 @@
 class Solution {
 public:
 void helper(TreeNode* root){
-          if(root==NULL) return;
+    
+}
+    TreeNode* invertTree(TreeNode* root) {
+        if(root==NULL) return NULL;
             TreeNode* temp=root->left;
             root->left=root->right;
             root->right=temp;
-           if(root->left) helper(root->left);
-           if(root->right) helper(root->right);
-}
-    TreeNode* invertTree(TreeNode* root) {
-        helper(root);
-        return root;
+           if(root->left) invertTree(root->left);
+           if(root->right) invertTree(root->right);
+          return root;
     }
 };
