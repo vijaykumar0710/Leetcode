@@ -13,7 +13,6 @@ public:
                 currFolder = currFolder.substr(0, position);
 
                 if(st.find(currFolder) != st.end()) {
-                    //it means currFolder is a sub-folder
                     isSubFolder = true;
                     break;
                 }
