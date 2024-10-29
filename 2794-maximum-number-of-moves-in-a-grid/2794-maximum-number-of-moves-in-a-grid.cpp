@@ -9,13 +9,13 @@ int helper(vector<vector<int>>&grid,int i,int j){
     int cnt3=0;
     if(t[i][j]!=-1) return t[i][j];
     if(i>0 && j+1<n && grid[i][j]<grid[i-1][j+1]){
-        cnt1=1+helper(grid,i-1,j+1);
+       t[i][j]=cnt1=1+helper(grid,i-1,j+1);
     }
     if(j+1<n && grid[i][j]<grid[i][j+1]){
-        cnt2=1+helper(grid,i,j+1);
+       t[i][j]=cnt2=1+helper(grid,i,j+1);
     }
     if(i+1<m && j+1<n && grid[i][j]<grid[i+1][j+1]){
-        cnt3=1+helper(grid,i+1,j+1);
+       t[i][j]=cnt3=1+helper(grid,i+1,j+1);
     }
     return t[i][j]=max({cnt1,cnt2,cnt3});
 }
