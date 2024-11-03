@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaykumar0710/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaykumar0710/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1190,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0812-rotate-string) |
 ## Rolling Hash
 |  |
 | ------- |
