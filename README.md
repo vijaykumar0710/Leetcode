@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1833-find-the-highest-altitude](https://github.com/vijaykumar0710/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/vijaykumar0710/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vijaykumar0710/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/vijaykumar0710/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vijaykumar0710/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/vijaykumar0710/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1694-make-sum-divisible-by-p](https://github.com/vijaykumar0710/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/vijaykumar0710/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/vijaykumar0710/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vijaykumar0710/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/2571-find-the-pivot-integer) |
