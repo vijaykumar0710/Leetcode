@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/vijaykumar0710/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/vijaykumar0710/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vijaykumar0710/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0898-transpose-matrix) |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
 |  |
