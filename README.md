@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vijaykumar0710/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vijaykumar0710/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/vijaykumar0710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vijaykumar0710/Leetcode/tree/master/0455-assign-cookies) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/vijaykumar0710/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/vijaykumar0710/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -1088,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/vijaykumar0710/Leetcode/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
