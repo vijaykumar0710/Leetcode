@@ -4,7 +4,7 @@ public:
         sort(s.begin(),s.end());
         sort(t.begin(),t.end());
         int i=0,j=0;
-        while(i<t.size() && i<s.size()){
+        while(i<t.size() && j<s.size()){
             if(s[i]!=t[j]){
                 return t[j];
             }
