@@ -1,23 +1,23 @@
 class Solution {
 public:
 int m,n;
-void dfs(vector<vector<int>>& image, int sr, int sc, int color,int initial){
-    if(sr<0 || sc<0 ||sr>=m || sc>=n || image[sr][sc]==color || image[sr][sc]!=initial){
-               return;
-         }
-         initial=image[sr][sc];
-        image[sr][sc]=color;
-    
-        dfs(image,sr,sc+1,color,initial);
-        dfs(image,sr,sc-1,color,initial);
-        dfs(image,sr+1,sc,color,initial);
-        dfs(image,sr-1,sc,color,initial);     
-}
+    void solve(vector<vector<int>>& image, int sr, int sc, int color,int initial){
+        if(sr<0 || sc<0 || sr>=m || sc>=n || image[sr][sc]==color) return;
+        // visited[sr][sc]=color;
+        if(image[sr][sc]==initial){
+         image[sr][sc]=color;
+         solve(image,sr+1,sc,color,initial);
+         solve(image,sr-1,sc,color,initial);
+         solve(image,sr,sc+1,color,initial);
+         solve(image,sr,sc-1,color,initial);
+        }
+    }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
          m=image.size();
          n=image[0].size();
-         int initial=image[sr][sc];
-        dfs(image,sr,sc,color,initial); 
-        return image;
+        // vector<vector<int>> visited(m,vector<int>(n,0));
+        int initial=image[sr][sc];
+         solve(image,sr,sc,color,initial);
+         return image;
     }
 };
