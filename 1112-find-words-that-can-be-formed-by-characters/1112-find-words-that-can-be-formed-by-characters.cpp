@@ -9,10 +9,12 @@ public:
         for(auto &word:words){
             unordered_map<char,int> temp=mp;
             int n=word.size();
+            int i=0;
             bool ok=true;
-            for(auto &ch:word){ 
-            if(temp[ch]>0){
-                temp[ch]--;
+            while(i<n){ 
+            if(temp[word[i]]>0){
+                temp[word[i]]--;
+                i++;
              }else{
                 ok=false;
                 break;
