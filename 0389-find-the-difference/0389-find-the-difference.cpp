@@ -1,16 +1,11 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        int i=0,j=0;
-        while(j<t.size() && i<s.size()){
-            if(s[i]!=t[j]){
-                return t[j];
-            }
-            i++;
-            j++;
+        string newS=s+t;
+        char rem=0;
+        for(auto &ch:newS){
+             rem=rem^ch;
         }
-       return t[j];
+        return rem;
     }
 };
