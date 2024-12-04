@@ -5,11 +5,7 @@ public:
          int n=str2.size();
          int i=0,j=0;
          while(i<m && j<n){
-            char temp=str1[i]+1;
-            if(str1[i]=='z'){
-              temp='a';
-            }
-            if(str1[i]==str2[j] || temp==str2[j]){
+            if(str1[i]==str2[j] || str1[i]+1==str2[j] || str1[i]-25==str2[j]){
                 j++;
             }
             i++;
