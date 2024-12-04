@@ -1,22 +1,18 @@
 class Solution {
 public:
+int t[201][10001];
+bool helper(vector<int>& nums,int n,int target,int i){
+    if(target==0) return true;
+    if(target<0 || n==0) return false;
+    if(t[i][target]!=-1) return t[i][target];
+    return t[i][target]=helper(nums,n-1,target-nums[i],i+1) || helper(nums,n-1,target,i+1);
+}
     bool canPartition(vector<int>& nums) {
-        int totalSum = 0;
-    for (int num : nums) totalSum += num;
-
-    // If total sum is odd, we cannot partition
-    if (totalSum % 2 != 0) return false;
-
-    int target = totalSum / 2;
-    vector<bool> dp(target + 1, false);
-    dp[0] = true; // Base case
-
-    for (int num : nums) {
-        for (int j = target; j >= num; --j) {
-            dp[j] = dp[j] || dp[j - num];
-        }
-    }
-
-    return dp[target];
+        int n=nums.size();
+        int sum=0;
+        for(auto &num:nums) sum+=num;
+        if(sum%2!=0) return false;
+        memset(t,-1,sizeof(t));
+        return helper(nums,n,sum/2,0);
     }
 };
