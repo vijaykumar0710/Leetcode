@@ -14,7 +14,6 @@ public:
             }
             i++;
         }
-         if(j==n) return true;
-         return false;
+         return j==n;
     }
 };
