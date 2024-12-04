@@ -4,7 +4,7 @@ public:
         int m=grid.size();
         int n=grid[0].size();
         int total_oranges=0;
-          int time=0;
+          int rotten_oranges=0;
           int days=0;
         if(grid.empty()) return 0;
         queue<pair<int,int>>rotten;
@@ -19,7 +19,7 @@ public:
 
           while(!rotten.empty()){
             int k=rotten.size();
-            time+=k;
+            rotten_oranges+=k;
             while(k--){
                 int x=rotten.front().first;
                 int y=rotten.front().second;
@@ -34,6 +34,6 @@ public:
               }
               if(!rotten.empty()) days++;
           }
-          return total_oranges==time?days:-1;
+          return total_oranges==rotten_oranges?days:-1;
     }
 };
