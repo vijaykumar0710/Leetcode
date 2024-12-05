@@ -13,6 +13,9 @@ public:
            if (start[i] == 'L' && i < j) return false; // 'L' can't move right
            if (start[i] == 'R' && i > j) return false; // 'R' can't move left
 
+             // If one string finishes before the other
+            if (i == n || j == n) return i == n && j == n;
+            
            i++;
            j++;
         }
