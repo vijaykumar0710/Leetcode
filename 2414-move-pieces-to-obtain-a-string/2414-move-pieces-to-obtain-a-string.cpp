@@ -10,8 +10,8 @@ public:
 
            if(start[i]!=target[j]) return false;
          
-           if (start[i] == 'L' && i < j) return false; 
-           if (start[i] == 'R' && i > j) return false; 
+           if (start[i] == 'L' && i < j) return false; // 'L' can't move right
+           if (start[i] == 'R' && i > j) return false; // 'R' can't move left
 
            i++;
            j++;
