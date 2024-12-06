@@ -9,7 +9,7 @@ public:
         }
         int i=1;
         while(i<=n){
-            if(st.find(i)==st.end() && sum<=maxSum){
+            if(st.find(i)==st.end()){
                 sum+=i;
                 if(sum<=maxSum){ 
                 maxint++;
