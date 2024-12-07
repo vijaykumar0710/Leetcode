@@ -4,7 +4,7 @@ public:
         int n=digits.size();
 
         vector<int>result(n+1,0);
-        int flag=true;
+        bool flag=true;
          for(int i=0;i<n;i++){
             if(digits[i]!=9){
                 flag=false;
