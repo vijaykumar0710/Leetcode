@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vijaykumar0710/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vijaykumar0710/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/vijaykumar0710/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/0078-subsets) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vijaykumar0710/Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/vijaykumar0710/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vijaykumar0710/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
