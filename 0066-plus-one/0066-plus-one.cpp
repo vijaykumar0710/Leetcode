@@ -3,8 +3,6 @@ public:
     vector<int> plusOne(vector<int>& digits) {
         int n=digits.size();
 
-        if(n==1 && digits[0]==9) return {1,0};
-
         vector<int>result(n+1,0);
         int flag=true;
          for(int i=0;i<n;i++){
@@ -19,6 +17,7 @@ public:
                result[i]=0;
             }
         }
+
            if(flag==false){ 
         if(digits[n-1]!=9){
             digits[n-1]=digits[n-1]+1;
@@ -31,6 +30,7 @@ public:
             digits[i]=digits[i]+1;
              }
            }
+
         if(flag==true){
             return result;
         } 
