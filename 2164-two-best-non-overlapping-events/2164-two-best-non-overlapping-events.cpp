@@ -1,42 +1,37 @@
 class Solution {
 public:
+int n;
+int t[100001][3];
+int binarySearch(vector<vector<int>>& events,int endTime){
+    int l=0;
+    int r=n-1;
+    int result=n;
+    while(l<=r){
+        int mid=l+(r-l)/2;
+        if(events[mid][0]>endTime){
+            result=mid;
+            r=mid-1;
+        }else{
+            l=mid+1;
+        }
+    }
+    return result;
+}
+   int solver(vector<vector<int>>& events,int i,int count){
+   if(count==2 || i>=n) return 0;
+
+   if(t[i][count]!=-1) return t[i][count];
+   int nextvalidEventIndex=binarySearch(events,events[i][1]);
+   int take=events[i][2]+solver(events,nextvalidEventIndex,count+1);
+
+   int not_take=solver(events,i+1,count);
+   return t[i][count]=max(take,not_take);
+   }
     int maxTwoEvents(vector<vector<int>>& events) {
-        int n = events.size();
-        
-        sort(events.begin(), events.end(), [](const vector<int>& a, const vector<int>& b) {
-            return a[0] < b[0];
-        });
-        
-        vector<int> suffixMax(n);
-        suffixMax[n - 1] = events[n - 1][2];
-        
-        for (int i = n - 2; i >= 0; --i) {
-            suffixMax[i] = max(events[i][2], suffixMax[i + 1]);
-        }
-        
-        int maxSum = 0;
-        
-        for (int i = 0; i < n; ++i) {
-            int left = i + 1, right = n - 1;
-            int nextEventIndex = -1;
-            
-            while (left <= right) {
-                int mid = left + (right - left) / 2;
-                if (events[mid][0] > events[i][1]) {
-                    nextEventIndex = mid;
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
-            }
-            
-            if (nextEventIndex != -1) {
-                maxSum = max(maxSum, events[i][2] + suffixMax[nextEventIndex]);
-            }
-            
-            maxSum = max(maxSum, events[i][2]);
-        }
-        
-        return maxSum;
+        n=events.size();
+        sort(begin(events),end(events));
+        int count=0;
+        memset(t,-1,sizeof(t));
+        return solver(events,0,count);
     }
 };
