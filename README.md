@@ -1131,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/vijaykumar0710/Leetcode/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
