@@ -13,3 +13,4 @@ public:
         return 1;
     }
 };
+// time O(logN)
