@@ -3,7 +3,7 @@ public:
     long long pickGifts(vector<int>& gifts, int k) {
         int n=gifts.size();
         priority_queue<long>pq;
-        long no_gifts=0;
+        long rem_gifts=0;
         for(auto &gift:gifts){
             pq.push(gift);
         }
@@ -13,9 +13,9 @@ public:
             pq.push(x);
         }
         while(!pq.empty()){
-            no_gifts+=pq.top();
+            rem_gifts+=pq.top();
             pq.pop();
         }
-        return no_gifts;
+        return rem_gifts;
     }
 };
