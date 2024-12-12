@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vijaykumar0710/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/vijaykumar0710/Leetcode/tree/master/2580-circular-sentence) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/vijaykumar0710/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/vijaykumar0710/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
