@@ -11,9 +11,8 @@ public:
                    break;
                 }
             }
-            if(flag==false){
-               x=str.size();
-            }else{
+            if(flag==false) x=str.size();
+            else{
                x=stoi(str);
             }
             maxi=max(maxi,x);
