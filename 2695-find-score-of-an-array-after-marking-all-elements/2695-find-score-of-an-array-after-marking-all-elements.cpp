@@ -9,8 +9,8 @@ public:
           unordered_set<int>st;
             st.insert((pq.top().second)+1);
             st.insert((pq.top().second)-1);
-          long long sum=pq.top().first;
-          pq.pop();
+            long long sum=pq.top().first;
+            pq.pop();
           while(!pq.empty()){
             if(st.find(pq.top().second)==st.end()){
                 sum+=pq.top().first;
