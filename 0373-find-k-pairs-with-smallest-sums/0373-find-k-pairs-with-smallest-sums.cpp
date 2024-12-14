@@ -4,7 +4,7 @@ public:
         vector<vector<int>> res;
 
         // Min-heap to store pairs with their sums
-        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<>> minHeap;
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> minHeap;
 
         // Push the first pair of elements from nums1 and nums2
         for (int i = 0; i < min((int)nums1.size(), k); i++) {
