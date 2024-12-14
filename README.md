@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/vijaykumar0710/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3194-find-words-containing-character](https://github.com/vijaykumar0710/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/vijaykumar0710/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2868-continuous-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vijaykumar0710/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/vijaykumar0710/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/vijaykumar0710/Leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
@@ -1221,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vijaykumar0710/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/vijaykumar0710/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1406,10 +1410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Quickselect
 |  |
 | ------- |
