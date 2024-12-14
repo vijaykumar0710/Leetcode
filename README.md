@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vijaykumar0710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0420-strong-password-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/0420-strong-password-checker) |
 | [0506-relative-ranks](https://github.com/vijaykumar0710/Leetcode/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vijaykumar0710/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
