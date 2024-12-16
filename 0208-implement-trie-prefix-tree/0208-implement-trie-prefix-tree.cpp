@@ -1,5 +1,5 @@
-class Node{
-    public:
+class Node{ 
+    public: 
     char data;
     bool terminal;
     unordered_map<char,Node*> children;
