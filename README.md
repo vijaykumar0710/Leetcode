@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vijaykumar0710/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vijaykumar0710/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vijaykumar0710/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vijaykumar0710/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
