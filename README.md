@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vijaykumar0710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vijaykumar0710/Leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/vijaykumar0710/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vijaykumar0710/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vijaykumar0710/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vijaykumar0710/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/vijaykumar0710/Leetcode/tree/master/1002-maximum-width-ramp) |
