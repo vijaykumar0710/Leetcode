@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vijaykumar0710/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/vijaykumar0710/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vijaykumar0710/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/vijaykumar0710/Leetcode/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vijaykumar0710/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vijaykumar0710/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/vijaykumar0710/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vijaykumar0710/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Design
 |  |
