@@ -9,7 +9,7 @@ public:
                 if(prices[i]>=prices[j]){
                     prices[i]=prices[i]-prices[j];
                     break;
-                }else{
+                  }else{
                     j++;
                 }
             }
