@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0189-rotate-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vijaykumar0710/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
