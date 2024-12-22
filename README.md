@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vijaykumar0710/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vijaykumar0710/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3451-string-compression-iii) |
+| [3567-convert-date-to-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
