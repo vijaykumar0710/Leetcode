@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vijaykumar0710/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijaykumar0710/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/vijaykumar0710/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0137-single-number-ii) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/vijaykumar0710/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vijaykumar0710/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -1317,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vijaykumar0710/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vijaykumar0710/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vijaykumar0710/Leetcode/tree/master/0695-max-area-of-island) |
