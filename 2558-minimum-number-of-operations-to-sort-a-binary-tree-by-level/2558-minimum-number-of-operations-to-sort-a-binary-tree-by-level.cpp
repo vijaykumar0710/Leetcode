@@ -2,29 +2,21 @@ class Solution {
 public:
 int solveSort(vector<int>&vec){
     int n=vec.size();
-    vector<pair<int,int>>sortedArr(n);
-    for(int i=0;i<n;i++){
-        sortedArr[i]={vec[i],i};
-    }
-   sort(sortedArr.begin(),sortedArr.end());
-   vector<bool>visited(n,false);
-   int swaps=0;
-   for(int i=0;i<n;i++){
-    if(visited[i]||sortedArr[i].second==i){
-        continue;
-    }
-    int cycleSize=0;
-    int j=i;
-    while(!visited[j]){
-        visited[j]=true;
-        j=sortedArr[j].second;
-        cycleSize++;
-      }
-     if(cycleSize>1){
-        swaps+=(cycleSize-1);
+    int swaps=0;
+    vector<int>sortedArr=vec;
+    sort(sortedArr.begin(),sortedArr.end());
+    unordered_map<int,int>indexMap;
+     for (int i = 0; i < n; i++) {
+        indexMap[sortedArr[i]] = i;
+       }
+       for(int i=0;i<n;i++){
+        while(vec[i]!=sortedArr[i]){
+            swaps++;
+            int correctIdx=indexMap[vec[i]];
+            swap(vec[i],vec[correctIdx]);
+          }
      }
-   }
-   return swaps;
+     return swaps;
 }
     int minimumOperations(TreeNode* root) {
         queue<TreeNode*>que;
