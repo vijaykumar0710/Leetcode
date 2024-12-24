@@ -1,10 +1,10 @@
 class Solution {
 public:
-int counter(string sentence){
-    stringstream s(sentence);
-    string word;
+int counter(string sentence){ 
+    stringstream ss(sentence);
+    string token;
     int count=0;
-    while(s>>word){
+    while(getline(ss,token,' ')){
         count++;
     }
     return count;
