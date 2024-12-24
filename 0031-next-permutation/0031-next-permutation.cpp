@@ -13,7 +13,7 @@ public:
         reverse(nums.begin(),nums.end());
         return;
       }
-     reverse(nums.begin()+(idx+1), nums.begin()+n);
+     reverse(nums.begin()+(idx+1),nums.begin()+n);
      int just_max=-1;
      for(int i=idx+1;i<n;i++){
         if(nums[i]>nums[idx]){
