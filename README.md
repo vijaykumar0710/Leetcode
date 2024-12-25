@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaykumar0710/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaykumar0710/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vijaykumar0710/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaykumar0710/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/vijaykumar0710/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
