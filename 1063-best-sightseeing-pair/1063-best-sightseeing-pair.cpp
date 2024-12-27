@@ -8,11 +8,15 @@ public:
             vec1.push_back(values[i]+i);
             vec2.push_back(values[i]-i);
         }
-        int maxi=INT_MIN;
-        for(int j=0;j<n-1;j++){
-            int max_Ele=*max_element((vec2.begin()+(j+1)),vec2.end());
-            maxi=max(maxi,vec1[j]+max_Ele);
+        int prev_max=vec2[n-1];
+        for(int j=n-1;j>=0;j--){
+        prev_max=max(prev_max,vec2[j]);
+         vec2[j]=prev_max;
         }
-        return maxi;
+        int maxi=INT_MIN;
+       for(int k=0;k<n-1;k++){
+        maxi=max(maxi,(vec1[k]+vec2[k+1]));
+       }
+       return maxi;
     }
 };
