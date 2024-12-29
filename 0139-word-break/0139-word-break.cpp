@@ -19,11 +19,9 @@ bool solve(string &s,unordered_set<string>&st,unordered_map<string,bool>&memo){
     bool wordBreak(string s, vector<string>& wordDict) {
     int n=s.length();
 
-      unordered_set<string>st;
+      unordered_set<string>st(begin(wordDict),end(wordDict));
       unordered_map<string,bool>memo;
-      for(auto &word:wordDict){
-        st.insert(word);
-      }
+     
       return solve(s,st,memo);
     }
 };
