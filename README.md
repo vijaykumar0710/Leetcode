@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/vijaykumar0710/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/vijaykumar0710/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/vijaykumar0710/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/vijaykumar0710/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1025-minimum-cost-for-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vijaykumar0710/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/vijaykumar0710/Leetcode/tree/master/1196-filling-bookcase-shelves) |
