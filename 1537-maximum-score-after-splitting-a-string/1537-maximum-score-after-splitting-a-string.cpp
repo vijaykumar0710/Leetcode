@@ -1,39 +1,36 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int n=s.length();
-        vector<int>prefixSum_0(n);
-        vector<int>suffixSum_1(n);
+        int n = s.length();
+        
+        // Initialize prefix sum of zeros and suffix sum of ones
+        int prefix_zeros = 0, suffix_ones = 0;
 
-        if(s[0]=='0'){
-            prefixSum_0[0]=1;
-        }else{
-            prefixSum_0[0]=0;
-        }
-        for(int i=1;i<n;i++){
-         if(s[i]=='0'){
-            prefixSum_0[i]=prefixSum_0[i-1]+1;
-        }else{
-            prefixSum_0[i]=prefixSum_0[i-1];
-           }
+        // Calculate the total number of ones in the string (for initial suffix sum)
+        for (char c : s) {
+            if (c == '1') {
+                suffix_ones++;
+            }
         }
 
-          if(s[n-1]=='1'){
-            suffixSum_1[n-1]=1;
-        }else{
-            suffixSum_1[n-1]=0;
+        int maxi = 0;
+
+        // Iterate through the string up to n-1 (split point cannot be the last character)
+        for (int i = 0; i < n - 1; i++) {
+            // Update prefix sum of zeros
+            if (s[i] == '0') {
+                prefix_zeros++;
+            }
+            
+            // Update suffix sum of ones
+            if (s[i] == '1') {
+                suffix_ones--;
+            }
+
+            // Calculate the score and update the maximum
+            maxi = max(maxi, prefix_zeros + suffix_ones);
         }
-        for(int i=n-2;i>=0;i--){
-         if(s[i]=='1'){
-            suffixSum_1[i]=suffixSum_1[i+1]+1;
-        }else{
-            suffixSum_1[i]=suffixSum_1[i+1];
-          }
-        }
-         int maxi=0;
-         for(int i=0;i<n-1;i++){
-            maxi=max(maxi,(prefixSum_0[i]+suffixSum_1[i+1]));
-         }
-         return maxi;
+
+        return maxi;
     }
 };
