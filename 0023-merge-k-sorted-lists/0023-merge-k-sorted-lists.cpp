@@ -1,7 +1,7 @@
 class Solution {
 public:
     ListNode* merge(ListNode* a, ListNode* b){
-         if(a==NULL) return b;
+        if(a==NULL) return b;
         if(b==NULL) return a;
         ListNode* result;
         if(a->val<b->val){
