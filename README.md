@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/vijaykumar0710/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vijaykumar0710/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/vijaykumar0710/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/0078-subsets) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/vijaykumar0710/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vijaykumar0710/Leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vijaykumar0710/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vijaykumar0710/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vijaykumar0710/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/vijaykumar0710/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0125-valid-palindrome) |
