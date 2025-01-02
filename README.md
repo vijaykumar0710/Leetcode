@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/vijaykumar0710/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vijaykumar0710/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/vijaykumar0710/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/vijaykumar0710/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vijaykumar0710/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/vijaykumar0710/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
