@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/1240-stone-game-ii) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/vijaykumar0710/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
