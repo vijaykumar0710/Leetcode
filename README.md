@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/vijaykumar0710/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/vijaykumar0710/Leetcode/tree/master/0670-maximum-swap) |
+| [0728-self-dividing-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
