@@ -1,19 +1,19 @@
-class Solution {
-public:
-class Trie{
-    public:
-    struct trieNode{
+struct trieNode{
         trieNode *children[26];
         bool isEndofWord;
+        int cnt;
     };
     trieNode *getNode(){
         trieNode *newNode=new trieNode();
         newNode->isEndofWord=false;
+        newNode->cnt=0;
         for(int i=0;i<26;i++){
             newNode->children[i]=NULL;
         }
         return newNode;
     }
+class Trie{
+    public:
     trieNode *root;
     Trie(){
         root=getNode();
@@ -26,35 +26,31 @@ class Trie{
                 crawler->children[idx]=getNode();
             }
             crawler=crawler->children[idx];
+            crawler->cnt++;
         }
         crawler->isEndofWord=true;
     }
-    bool startsWith(string prefix){
+    int startsWithCnt(string &prefix){
         trieNode *crawler=root;
         int i=0;
-        for(;i<prefix.size();i++){
-            int idx=prefix[i]-'a';
+        for(char &ch:prefix){
+            int idx=ch-'a';
             if(!crawler->children[idx]){
-                return false;
+                return 0;
             }
             crawler=crawler->children[idx];
         }
-        if(i==prefix.size()){
-            return true;
-        }
-        return false;
+       return crawler->cnt;
     }
 };
+class Solution {
+public:
     int prefixCount(vector<string>& words, string pref) {
         int n=words.size();
-        int cnt=0;
+        Trie prefixTrie;
         for(int i=0;i<n;i++){
-            Trie prefixTrie;
-            prefixTrie.insert(words[i]);
-            if(prefixTrie.startsWith(pref)){
-               cnt++;
-            }
+            prefixTrie.insert(words[i]); 
         } 
-        return cnt;
+        return prefixTrie.startsWithCnt(pref);
     }
 };
