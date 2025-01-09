@@ -1,9 +1,9 @@
 struct trieNode{
-        trieNode *children[26];
+        trieNode *children[26];//bluprint
         bool isEndofWord;
         int cnt;
     };
-    trieNode *getNode(){
+    trieNode *getNode(){  //constructor
         trieNode *newNode=new trieNode();
         newNode->isEndofWord=false;
         newNode->cnt=0;
@@ -47,7 +47,7 @@ class Solution {
 public:
     int prefixCount(vector<string>& words, string pref) {
         int n=words.size();
-        Trie prefixTrie;
+        Trie prefixTrie;  //make object
         for(int i=0;i<n;i++){
             prefixTrie.insert(words[i]); 
         } 
