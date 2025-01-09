@@ -1,8 +1,7 @@
 class Solution {
 public:
-bool isOperator(string& token) {
-        static unordered_set<string> operators = {"+", "-", "*", "/"};
-        return operators.find(token) != operators.end();
+ bool isOperator(const string& token) {
+        return (token == "+" || token == "-" || token == "*" || token == "/");
     }
     int evalRPN(vector<string>& tokens) {
         int n=tokens.size();
