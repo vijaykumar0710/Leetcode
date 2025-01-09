@@ -18,7 +18,7 @@ class Trie{
     Trie(){
         root=getNode();
     }
-    void insert(string word){
+    void insert(string &word){
         trieNode *crawler=root;
         for(int i=0;i<word.size();i++){
             int idx=word[i]-'a';
