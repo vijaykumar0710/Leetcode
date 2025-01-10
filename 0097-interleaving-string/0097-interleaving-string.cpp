@@ -1,21 +1,21 @@
 class Solution {
 public:
 int m,n,p;
-int t[101][101][201];
-bool solver(string &s1,string &s2,string &s3,int i,int j,int k){
-    if(i==m && j==n && k==p)return true;
-    if(t[i][j][k]!=-1)return t[i][j][k];
-    if(i<m && k<p && s3[k]==s1[i]){
-        if(solver(s1,s2,s3,i+1,j,k+1)){
-           return t[i][j][k]=true;
+int t[101][101];
+bool solver(string &s1,string &s2,string &s3,int i,int j){
+    if(i==m && j==n && (i+j)==p)return true;
+    if(t[i][j]!=-1)return t[i][j];
+    if(i<m && (i+j)<p && s3[i+j]==s1[i]){
+        if(solver(s1,s2,s3,i+1,j)){
+           return t[i][j]=true;
         }
     }
-    if(j<n && k<p && s3[k]==s2[j]){
-        if(solver(s1,s2,s3,i,j+1,k+1)){
-           return t[i][j][k]=true;
+    if(j<n && (i+j)<p && s3[i+j]==s2[j]){
+        if(solver(s1,s2,s3,i,j+1)){
+           return t[i][j]=true;
         }
     }
-    return t[i][j][k]=false;
+    return t[i][j]=false;
 }
     bool isInterleave(string s1, string s2, string s3) {
         m=s1.size();
@@ -23,6 +23,6 @@ bool solver(string &s1,string &s2,string &s3,int i,int j,int k){
         p=s3.size();
         if(m+n!=p) return false;
         memset(t,-1,sizeof(t));
-        return solver(s1,s2,s3,0,0,0);
+        return solver(s1,s2,s3,0,0);
     }
 };
