@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vijaykumar0710/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/3447-clear-digits) |
+| [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Tree
 |  |
 | ------- |
