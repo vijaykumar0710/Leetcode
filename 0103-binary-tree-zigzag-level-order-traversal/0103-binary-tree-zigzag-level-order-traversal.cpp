@@ -7,21 +7,26 @@ public:
         int cnt=0;
         while(!que.empty()){
             int n=que.size();
-            vector<int>vec; 
-            while(n--){
+            vector<int>vec(n); 
+            if(cnt%2==0){ 
+            for(int i=0;i<n;i++){
                 TreeNode* temp=que.front();
                 que.pop();
-                vec.push_back(temp->val);
+                vec[i]=(temp->val);
                if(temp->left)que.push(temp->left);
                if(temp->right)que.push(temp->right);
+               }
+            }else{
+                 for(int i=n-1;i>=0;i--){
+                TreeNode* temp=que.front();
+                que.pop();
+                vec[i]=(temp->val);
+               if(temp->left)que.push(temp->left);
+               if(temp->right)que.push(temp->right);
+               }
             }
-           if(cnt%2==0){
             result.push_back(vec);
-           }else{
-            reverse(vec.begin(),vec.end());
-            result.push_back(vec);
-           }
-           cnt++;
+            cnt++;
         }
         return result;
     }
