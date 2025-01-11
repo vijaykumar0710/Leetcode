@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vijaykumar0710/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0833-bus-routes](https://github.com/vijaykumar0710/Leetcode/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vijaykumar0710/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vijaykumar0710/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/vijaykumar0710/Leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/vijaykumar0710/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
