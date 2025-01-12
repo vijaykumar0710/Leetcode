@@ -4,7 +4,6 @@ public:
          if(head==NULL || k==1){
             return head;
         }
-
         ListNode* temp=head;
         int count=0;
         while(temp){ 
@@ -16,7 +15,7 @@ public:
         ListNode* prev = nullptr;
         ListNode* current = head;
         ListNode* next = head;
-        for(int i=0;i<k && current;i++){
+        for(int i=0;i<k;i++){
             next=current->next;
             current->next=prev;
             prev=current;
