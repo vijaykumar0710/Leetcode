@@ -15,7 +15,7 @@ public:
          
         ListNode* prev = nullptr;
         ListNode* current = head;
-        ListNode* next = nullptr;
+        ListNode* next = head;
         for(int i=0;i<k && current;i++){
             next=current->next;
             current->next=prev;
