@@ -9,7 +9,7 @@ public:
         temp=temp->next;
         }
         head->next=swapPairs(head->next->next);
-        temp->next=head;
+         temp->next=head;
         return temp;  
     }
 };
