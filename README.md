@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Two Pointers
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vijaykumar0710/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Dynamic Programming
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
 | ------- |
