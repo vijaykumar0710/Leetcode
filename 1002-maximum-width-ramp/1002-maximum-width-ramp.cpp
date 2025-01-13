@@ -2,22 +2,22 @@ class Solution {
 public:
     int maxWidthRamp(vector<int>& nums) {
         int n=nums.size();
-
-        vector<int>indx(n);
+        stack<int>mono;
         for(int i=0;i<n;i++){
-            indx[i]=i;
+           if(mono.empty() || nums[i]<=nums[mono.top()]){
+            mono.push(i);
+           }
         }
-
-        sort(indx.begin(),indx.end(),[&](int i,int j){
-             return nums[i]!=nums[j] ? nums[i]<nums[j]:i<j;
-        });
-
-        int minidx=n;
-        int maxwidth=0;
-        for(int i=0;i<n;i++){
-            maxwidth=max(maxwidth,indx[i]-minidx);
-            minidx=min(minidx,indx[i]);
+        int max_ramp=0;
+        int j=n-1;
+        while(j>=0){
+           while(!mono.empty() && nums[j]>=nums[mono.top()]){
+            int i=mono.top();
+            max_ramp=max(max_ramp,(j-i));
+            mono.pop();
+           }
+            j--;
         }
-        return maxwidth;
+        return max_ramp;
     }
 };
