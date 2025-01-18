@@ -1,14 +1,17 @@
 class Solution {
 public:
     int m, n;
+
     struct pair_hash {
         template <class T1, class T2>
         size_t operator()(const pair<T1, T2>& p) const {
             return hash<T1>()(p.first) ^ hash<T2>()(p.second);
         }
     };
+
     int dikshtra(unordered_map<pair<int, int>, vector<pair<pair<int, int>, int>>, pair_hash>& adj) {
         priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
+
         vector<vector<int>> res(m, vector<int>(n, INT_MAX));
         res[0][0] = 0;
         pq.push({0, {0, 0}});
@@ -30,6 +33,7 @@ public:
         }
         return res[m - 1][n - 1];
     }
+    
     int minCost(vector<vector<int>>& grid) {
         m = grid.size();
         n = grid[0].size();
