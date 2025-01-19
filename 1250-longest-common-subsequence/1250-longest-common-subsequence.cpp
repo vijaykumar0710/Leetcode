@@ -1,20 +1,18 @@
 class Solution {
 public:
-    int m,n;
-    int t[1001][1001];
-    int solver(string &s1,string &s2,int i,int j){
-        if(i>=m || j>=n) return 0;
-        if(t[i][j]!=-1) return t[i][j];
-        if(s1[i]==s2[j]){
-            return t[i][j]=1+solver(s1,s2,i+1,j+1);
-         }
-            return t[i][j]=max(solver(s1,s2,i+1,j),solver(s1,s2,i,j+1));
+int t[1001][1001];
+   int lcs(string &text1,string &text2,int m,int n){
+    if(m==0 || n==0) return 0;
+    if(t[m][n]!=-1) return t[m][n];
+    if(text1[m-1]==text2[n-1]){
+        return t[m][n]=lcs(text1,text2,m-1,n-1)+1;
       }
+      return t[m][n]=max(lcs(text1,text2,m-1,n),lcs(text1,text2,m,n-1));
+   }
     int longestCommonSubsequence(string text1, string text2) {
-         m=text1.size();
-         n=text2.size();
-
+        int m=text1.size();
+        int n=text2.size();
         memset(t,-1,sizeof(t));
-        return solver(text1,text2,0,0);
+        return lcs(text1,text2,m,n);
     }
 };
