@@ -10,7 +10,7 @@ int LIS(vector<int>&nums,int i,int prev_idx,vector<vector<int>>&t){
      include=1+LIS(nums,i+1,i,t);
     }
     t[i][prev_idx+1]=max(include,exclude);
-    return max(include,exclude);
+    return t[i][prev_idx+1];
 }
     int lengthOfLIS(vector<int>& nums) {
         n=nums.size();
