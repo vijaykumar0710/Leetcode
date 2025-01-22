@@ -5,21 +5,10 @@ vector<int> directions = {-1, 0, 1, 0, -1};
         int m=isWater.size();
         int n=isWater[0].size();
         vector<vector<int>>ans(m,vector<int>(n));
-        vector<vector<int>>mat(m,vector<int>(n));
         queue<pair<int,int>>que;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(isWater[i][j]==1){
-                    mat[i][j]=0;
-                }else{
-                    mat[i][j]=1;
-                }
-            }
-        }
-
          for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(mat[i][j]==1){
+                if(isWater[i][j]==0){
                     ans[i][j]=-1;
                 }else{
                     que.push({i,j});
