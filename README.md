@@ -1106,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/vijaykumar0710/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/vijaykumar0710/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/vijaykumar0710/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/vijaykumar0710/Leetcode/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/vijaykumar0710/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -1602,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/vijaykumar0710/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/vijaykumar0710/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/vijaykumar0710/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/vijaykumar0710/Leetcode/tree/master/0922-possible-bipartition) |
@@ -1650,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vijaykumar0710/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/vijaykumar0710/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2176-parallel-courses-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vijaykumar0710/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
