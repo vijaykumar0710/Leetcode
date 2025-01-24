@@ -1,18 +1,22 @@
 class Solution {
 public:
-int t[201][10001];
-bool helper(vector<int>&nums,int target,int i,int n){
+int n;
+int t[10000][201];
+bool isPossible(vector<int>&nums,int target,int i){
+    if(i==n || target<0) return false;
     if(target==0) return true;
-    if(target<0 || n==0) return false;
-    if(t[i][target]!=-1) return t[i][target];
-    return t[i][target]=helper(nums,target-nums[i],i+1,n-1) || helper(nums,target,i+1,n-1);
+    if(t[target][i]!=-1) return t[target][i];
+    return t[target][i]=(isPossible(nums,target-nums[i],i+1) || isPossible(nums,target,i+1));
 }
     bool canPartition(vector<int>& nums) {
-        int n=nums.size();
-        int sum=0;
-        for(auto &num:nums) sum+=num;
-        if(sum%2!=0) return false;
+        n=nums.size();
+        int total=accumulate(nums.begin(),nums.end(),0);
         memset(t,-1,sizeof(t));
-        return helper(nums,sum/2,0,n);
+        if(total%2!=0){
+            return false;
+        }else{
+            return isPossible(nums,total/2,0);
+        }
+        return false;
     }
 };
