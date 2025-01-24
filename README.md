@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vijaykumar0710/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -1204,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vijaykumar0710/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijaykumar0710/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
