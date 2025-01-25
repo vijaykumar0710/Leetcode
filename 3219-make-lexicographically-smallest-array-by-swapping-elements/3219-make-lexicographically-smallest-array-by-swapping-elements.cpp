@@ -6,7 +6,7 @@ public:
         sort(begin(vec), end(vec));
         int groupNum = 0;
         unordered_map<int, int> numToGroup;
-        numToGroup[vec[0]] = groupNum;
+       // numToGroup[vec[0]] = groupNum;
         unordered_map<int, list<int>> groupToList;
         groupToList[groupNum].push_back(vec[0]);
         for(int i = 1; i < n; i++) {
