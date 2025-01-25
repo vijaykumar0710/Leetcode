@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vijaykumar0710/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/vijaykumar0710/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/vijaykumar0710/Leetcode/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/vijaykumar0710/Leetcode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vijaykumar0710/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/vijaykumar0710/Leetcode/tree/master/3226-minimum-number-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1597,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/vijaykumar0710/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
