@@ -2,7 +2,7 @@ class Solution {
 public:
 int n;
 bool canPartition(vector<int>& nums,int target,int start,vector<int>&vis,int currSum,int k){
-   if(k==1) return 1;
+   if(k==0) return 1;
    if(currSum>target) return 0;
    if(currSum==target){
     return canPartition(nums,target,0,vis,0,k-1);
