@@ -1,30 +1,29 @@
 class Solution {
 public:
-    bool backtrack(vector<int>& nums, vector<bool>& used, int k, int start, int target, int currentSum) {
-        if (k == 0) return true; // All subsets formed
-        if (currentSum == target) // One subset formed, move to the next
-            return backtrack(nums, used, k - 1, 0, target, 0);
-
-        for (int i = start; i < nums.size(); i++) {
-            if (!used[i] && currentSum + nums[i] <= target) {
-                used[i] = true; // Mark the element as used
-                if (backtrack(nums, used, k, i + 1, target, currentSum + nums[i]))
-                    return true;
-                used[i] = false; // Backtrack
-            }
-        }
-        return false;
+int n;
+bool canPartition(vector<int>& nums,int target,int start,vector<int>&vis,int currSum,int k){
+   if(k==1) return 1;
+   if(currSum>target) return 0;
+   if(currSum==target){
+    return canPartition(nums,target,0,vis,0,k-1);
     }
-
+   for(int i=start;i<n;i++){
+    if(!vis[i]){
+        vis[i]=1;
+        if(canPartition(nums,target,i+1,vis,currSum+nums[i],k)){
+            return 1;
+        }
+        vis[i]=0;
+     }
+   }
+   return 0;
+  }
     bool canPartitionKSubsets(vector<int>& nums, int k) {
-        int totalSum = accumulate(nums.begin(), nums.end(), 0);
-        if (totalSum % k != 0) return false;
-        int target = totalSum / k;
-
-        // Sort in descending order to optimize
+         n=nums.size();
+        int totalSum=accumulate(begin(nums),end(nums),0);
+        if(totalSum%k!=0) return false;
         sort(nums.rbegin(), nums.rend());
-        vector<bool> used(nums.size(), false);
-
-        return backtrack(nums, used, k, 0, target, 0);
+        vector<int>vis(n,0);
+       return canPartition(nums,totalSum/k,0,vis,0,k);
     }
 };
