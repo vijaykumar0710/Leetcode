@@ -24,7 +24,7 @@ public:
                     right = mid - 1;
                 }
             }
-            dp[i] = std::max(dp[i - 1], dp[latestNonConflictJobIndex] + currentProfit);
+            dp[i] =max(dp[i - 1], dp[latestNonConflictJobIndex] + currentProfit);
         }
         return dp[n];
     }
