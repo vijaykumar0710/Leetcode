@@ -1,38 +1,35 @@
 class Solution {
 public:
-int n;
-    bool BFS(int u, int v, unordered_map<int, vector<int>> &adj){
-        vector<bool> visited(n+1, false);
-        queue<int> q;
-        q.push(u);
-        visited[u]= true;
-        while(!q.empty()){
-            int node= q.front();
-            q.pop();
-            for(auto &i: adj[node]){
-                if(v==i)return true;
-                if(!visited[i]){
-                    q.push(i);
-                    visited[i]= true;
-                }
-            }
-        }
-        return false;
+    vector<int> parent, rank;
+
+    int find(int x) {
+        if (parent[x] == x) return x;
+        return parent[x] = find(parent[x]);  // Path compression
     }
-    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        n= edges.size();
-        unordered_map<int, vector<int>> adj;
-        for(int i= 0; i< n; i++){
-            int u= edges[i][0];
-            int v= edges[i][1];
-            if(adj.find(u)!=adj.end() && adj.find(v)!=adj.end() && BFS(u, v, adj)){
-                return edges[i];
-            }
-            else{
-                adj[v].push_back(u);
-                adj[u].push_back(v);
-            }
+
+    bool Union(int x, int y) {
+        int rootX = find(x), rootY = find(y);
+        if (rootX == rootY) return false;  // Cycle detected
+        if (rank[rootX] > rank[rootY]) {
+            parent[rootY] = rootX;
+        } else if (rank[rootX] < rank[rootY]) {
+            parent[rootX] = rootY;
+        } else {
+            parent[rootY] = rootX;
+            rank[rootX]++;
         }
-        return edges[n-1];
+        return true;
+    }
+
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int n = edges.size();
+        parent.resize(n + 1);
+        rank.resize(n + 1, 0);
+        for (int i = 1; i <= n; i++) parent[i] = i;  // Initialize DSU
+
+        for (auto &edge : edges) {
+            if (!Union(edge[0], edge[1])) return edge;  // If cycle found, return the edge
+        }
+        return {};
     }
 };
