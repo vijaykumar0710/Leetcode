@@ -1,15 +1,13 @@
 class Solution {
 public:
     vector<int> parent, rank;
-
     int find(int x) {
         if (parent[x] == x) return x;
         return parent[x] = find(parent[x]);  // Path compression
     }
-
     bool Union(int x, int y) {
         int rootX = find(x), rootY = find(y);
-        if (rootX == rootY) return false;  // Cycle detected
+        if (rootX == rootY) return true;  // Cycle detected
         if (rank[rootX] > rank[rootY]) {
             parent[rootY] = rootX;
         } else if (rank[rootX] < rank[rootY]) {
@@ -18,7 +16,7 @@ public:
             parent[rootY] = rootX;
             rank[rootX]++;
         }
-        return true;
+        return false;
     }
 
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
@@ -28,7 +26,7 @@ public:
         for (int i = 1; i <= n; i++) parent[i] = i;  // Initialize DSU
 
         for (auto &edge : edges) {
-            if (!Union(edge[0], edge[1])) return edge;  // If cycle found, return the edge
+            if (Union(edge[0], edge[1])) return edge;  // If cycle found, return the edge
         }
         return {};
     }
