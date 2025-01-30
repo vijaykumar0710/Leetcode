@@ -1271,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/vijaykumar0710/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vijaykumar0710/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/vijaykumar0710/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1622,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/vijaykumar0710/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
@@ -1662,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/vijaykumar0710/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/vijaykumar0710/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/vijaykumar0710/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
