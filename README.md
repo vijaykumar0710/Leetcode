@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/vijaykumar0710/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1121-partition-array-for-maximum-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/vijaykumar0710/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/vijaykumar0710/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/vijaykumar0710/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1217-relative-sort-array) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
 | [1002-maximum-width-ramp](https://github.com/vijaykumar0710/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vijaykumar0710/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vijaykumar0710/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -840,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/vijaykumar0710/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/vijaykumar0710/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -965,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vijaykumar0710/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/vijaykumar0710/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
