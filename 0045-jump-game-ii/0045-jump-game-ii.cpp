@@ -1,18 +1,24 @@
 class Solution {
 public:
+int t[10001];
+  int canJump(vector<int>&nums,int i,int n){
+   if(i==n-1) return 0;
+    if(i>=n || nums[i]==0){
+        return INT_MAX;
+    }    
+   int min_path=INT_MAX;
+   if(t[i]!=-1) return t[i];
+    for(int j=i+1;j<=i+nums[i];j++){
+        int mini=canJump(nums,j,n);
+        if(mini!=INT_MAX){
+           t[i]=min_path=min(mini+1,min_path);
+        }
+     }
+     return t[i]=min_path;
+  } 
     int jump(vector<int>& nums) {
         int n=nums.size();
-        int jumps=0;
-        int l=0,r=0;
-         while(r<n-1){
-            int farthest_go=0;
-            for(int i=l;i<=r;i++){
-                farthest_go=max(i+nums[i],farthest_go);
-            }
-            l=r+1;
-            r=farthest_go;
-             jumps++;
-         }
-        return jumps;
+        memset(t,-1,sizeof(t));
+        return canJump(nums,0,n);
     }
 };
