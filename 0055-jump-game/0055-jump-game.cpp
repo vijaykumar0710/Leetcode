@@ -5,7 +5,7 @@ bool canjump(vector<int>&nums,int i,int n){
     if(i>=n-1){
         return true;
     }
-    if(nums[i]==0) return false;
+    //if(nums[i]==0) return false;
     if(t[i]!=-1) return t[i];
     for(int j=i+1;j<=i+nums[i];j++){
         if(canjump(nums,j,n)){
