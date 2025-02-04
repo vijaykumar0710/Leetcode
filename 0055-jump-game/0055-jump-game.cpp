@@ -1,21 +1,17 @@
 class Solution {
 public:
-int t[10001];
-bool canjump(vector<int>&nums,int i,int n){
-    if(i>=n-1){
-        return true;
-    }
-    if(t[i]!=-1) return t[i];
-    for(int j=i+1;j<=i+nums[i];j++){
-        if(canjump(nums,j,n)){
-            return t[i]=true;
-        }
-    }
-    return t[i]=false;
-}
     bool canJump(vector<int>& nums) {
         int n=nums.size();
-        memset(t,-1,sizeof(t));
-        return canjump(nums,0,n);
+        vector<bool>res(n,0);
+        res[0]=1;
+        for(int i=1;i<n;i++){
+            for(int j=i-1;j>=0;j--){
+               if(res[j]==1 && j+nums[j]>=i){
+                res[i]=1;
+                break;
+               }
+            }
+        }
+        return res[n-1];
     }
 };
