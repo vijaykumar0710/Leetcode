@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vijaykumar0710/Leetcode/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/vijaykumar0710/Leetcode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0539-minimum-time-difference) |
