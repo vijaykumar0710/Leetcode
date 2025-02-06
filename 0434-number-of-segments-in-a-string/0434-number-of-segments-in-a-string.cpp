@@ -5,7 +5,7 @@ public:
         stringstream ss(s);
         int cnt=0;
         while(getline(ss,token,' ')){
-           if(token.empty()){
+           if(token.size()==0){
             cnt--;
            }
            cnt++;
