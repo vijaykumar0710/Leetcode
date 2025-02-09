@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
