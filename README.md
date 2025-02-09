@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vijaykumar0710/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2427-first-letter-to-appear-twice](https://github.com/vijaykumar0710/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2434-design-a-number-container-system](https://github.com/vijaykumar0710/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/vijaykumar0710/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1374,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/vijaykumar0710/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1561,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vijaykumar0710/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/vijaykumar0710/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/vijaykumar0710/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vijaykumar0710/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
