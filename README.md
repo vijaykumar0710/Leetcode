@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/vijaykumar0710/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
