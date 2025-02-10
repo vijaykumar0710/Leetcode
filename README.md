@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/vijaykumar0710/Leetcode/tree/master/2155-find-missing-observations) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/vijaykumar0710/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vijaykumar0710/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vijaykumar0710/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/vijaykumar0710/Leetcode/tree/master/2509-minimize-xor) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/vijaykumar0710/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vijaykumar0710/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/vijaykumar0710/Leetcode/tree/master/2502-sort-the-people) |
