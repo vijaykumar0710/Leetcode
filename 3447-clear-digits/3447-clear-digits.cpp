@@ -1,20 +1,19 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        stack<char>st;
-        for(auto &ch:s){
-         if(!st.empty() && isdigit(ch)){
+         stack<char>st;
+         for(auto &ch:s){
+           if(isdigit(ch)){
             st.pop();
-           }else{
-            st.push(ch);
            }
-        }
-        string word;
+           else st.push(ch);
+         }
+         string res="";
         while(!st.empty()){
-            word+=st.top();
-            st.pop();
+          res+=st.top();
+          st.pop();
         }
-        reverse(word.begin(),word.end());
-        return word;
+        reverse(res.begin(),res.end());
+        return res;
     }
 };
