@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/vijaykumar0710/Leetcode/tree/master/2155-find-missing-observations) |
+| [2238-a-number-after-a-double-reversal](https://github.com/vijaykumar0710/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
