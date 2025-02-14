@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/vijaykumar0710/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0567-permutation-in-string) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/vijaykumar0710/Leetcode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/vijaykumar0710/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/vijaykumar0710/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1489,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/vijaykumar0710/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vijaykumar0710/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/vijaykumar0710/Leetcode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vijaykumar0710/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1952,4 +1955,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vijaykumar0710/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/vijaykumar0710/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
