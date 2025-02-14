@@ -8,19 +8,14 @@ int b,m,s;
     }
     
     bool addCar(int carType) {
-        if(carType==1 && b!=0){
-            b--;
-            return true;
-        }
-         else if(carType==2 && m!=0){
-            m--;
-            return true;
-        }
-         else if(carType==3 && s!=0){
-            s--;
-            return true;
-        }
-        else return false;
+        if(carType==1 && b==0 || 
+           carType==2 && m==0 ||
+           carType==3 && s==0)
+           return false;
+           if(carType==1)b--;
+           else if(carType==2)m--;
+           else if(carType==3)s--;
+           return true;
     }
 };
 
