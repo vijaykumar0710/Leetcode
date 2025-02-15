@@ -12,11 +12,9 @@ void backtrack(vector<int>&candidates,int target,vector<vector<int>>&res,vector<
     if(i>idx && candidates[i]==candidates[i-1]){
         continue;  //ignore duplicate element
     }
-    if(candidates[i]<=target){ 
     temp.push_back(candidates[i]);
     backtrack(candidates,target-candidates[i],res,temp,i+1);
     temp.pop_back();
-    }
   }
 }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
