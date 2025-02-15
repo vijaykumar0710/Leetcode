@@ -1,6 +1,6 @@
 class Solution {
 public:
-void solve(vector<int>& nums,int idx,vector<vector<int>>&subset,vector<int>vec){
+void solve(vector<int>& nums,int idx,vector<vector<int>>&subset,vector<int>&vec){
 if(idx==nums.size()){
     subset.push_back(vec);
     return;
