@@ -1,27 +1,30 @@
 class Solution {
 public:
-vector<vector<int>> result;
-void f(vector<int> &cand,int t,int idx,vector<int> &subset){
-    if(t==0){
-        result.push_back(subset);
-        return;
+int n;
+void backtrack(vector<int>&candidates,int target,vector<vector<int>>&res,vector<int>&temp,int idx){
+  if(target<0) return;
+  if(target==0){
+    res.push_back(temp);
+    return;
+  }
+
+  for(int i=idx;i<n;i++){
+    if(i>idx && candidates[i]==candidates[i-1]){
+        continue;  //ignore duplicate element
     }
-    if(idx==cand.size()) return;
-    if(cand[idx]<=t){
-        subset.push_back(cand[idx]);
-        f(cand,t-cand[idx],idx+1,subset);
-        subset.pop_back();
+    if(candidates[i]<=target){ 
+    temp.push_back(candidates[i]);
+    backtrack(candidates,target-candidates[i],res,temp,i+1);
+    temp.pop_back();
     }
-    //avoid 
-    int j=idx+1;
-    while(j<cand.size() and cand[j]==cand[j-1]) j++;
-    f(cand,t,j,subset);
+  }
 }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        n=candidates.size();
         sort(candidates.begin(),candidates.end());
-        vector<int> subset;
-        result.clear();
-        f(candidates,target,0,subset);
-        return result;
+        vector<vector<int>>res;
+        vector<int>temp;
+        backtrack(candidates,target,res,temp,0);
+        return res;
     }
-}; 
+};
