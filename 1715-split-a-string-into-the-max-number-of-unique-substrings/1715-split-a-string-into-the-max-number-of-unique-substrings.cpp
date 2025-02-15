@@ -1,6 +1,7 @@
 class Solution {
 public:
 void backtrack(string s,int idx,unordered_set<string>&st,int sum,int &result){
+    if(sum+(s.length()-idx)<=result) return;
    if(idx>=s.length()){
     result=max(result,sum);
     return;
