@@ -5,10 +5,10 @@ bool canPartition(string numStr, int target, int start, int currentSum) {
         return currentSum == target;
     }
     if(currentSum>target) return false;
-    int num = 0;
     for (int i = start; i < numStr.length(); i++) {
-        num = num * 10 + (numStr[i] - '0');  
-        if (canPartition(numStr, target, i + 1, currentSum + num)) {
+        string sub=numStr.substr(start,i-start+1);
+        int val=stoi(sub);
+        if (canPartition(numStr, target, i + 1, currentSum + val)) {
             return true;
         }
     }
@@ -20,7 +20,7 @@ bool canPartition(string numStr, int target, int start, int currentSum) {
             int num=i*i;
             string squareStr=to_string(num);
             if (canPartition(squareStr, i,0,0)) { 
-            punishment_number += (i * i); 
+            punishment_number +=num; 
          }
         }
         return punishment_number;
