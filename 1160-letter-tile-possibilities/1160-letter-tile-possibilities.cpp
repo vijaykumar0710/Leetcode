@@ -24,9 +24,6 @@ public:
         vector<bool>used(n,false);
         string curr;
         backtrack(tiles,0,st,n,curr,used);
-        for(auto &word:st){
-            cout<<word<<" ";
-        }
         return st.size()-1;
     }
 };
