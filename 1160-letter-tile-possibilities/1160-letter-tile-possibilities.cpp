@@ -2,15 +2,12 @@ class Solution {
 public:
  void backtrack(string &tiles,int idx,unordered_set<string>&st,int n,string &curr,vector<bool>&used){
     if(idx==n){
-        st.insert(curr);
         return;
     } 
     for(int i=0;i<n;i++){
       if(used[i]==false){ 
-      used[i]=true;
-      backtrack(tiles,idx+1,st,n,curr,used);
-      used[i]=false;
       curr+=tiles[i];
+      st.insert(curr);
       used[i]=true;
       backtrack(tiles,idx+1,st,n,curr,used);
       used[i]=false;
@@ -24,6 +21,6 @@ public:
         vector<bool>used(n,false);
         string curr;
         backtrack(tiles,0,st,n,curr,used);
-        return st.size()-1;
+        return st.size();
     }
 };
