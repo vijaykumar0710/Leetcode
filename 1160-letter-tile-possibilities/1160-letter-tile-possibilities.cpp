@@ -6,12 +6,10 @@ public:
         return;
     } 
     for(int i=0;i<n;i++){
-     if(used[i]==false){
-        used[i]=true;
-        backtrack(tiles,idx+1,st,n,curr,used);
-        used[i]=false;
-     }
       if(used[i]==false){ 
+      used[i]=true;
+      backtrack(tiles,idx+1,st,n,curr,used);
+      used[i]=false;
       curr+=tiles[i];
       used[i]=true;
       backtrack(tiles,idx+1,st,n,curr,used);
