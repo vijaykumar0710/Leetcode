@@ -8,12 +8,13 @@ void backtrack(vector<int>& nums,int idx,set<vector<int>>&st,vector<int>&temp){
     }
     return;
   }
-  
-    backtrack(nums,idx+1,st,temp);
-    if(temp.empty() || nums[idx]>=temp.back()){ 
-    temp.push_back(nums[idx]);
-    backtrack(nums,idx+1,st,temp);
+  for(int i=idx;i<n;i++){
+    backtrack(nums,i+1,st,temp);
+    if(temp.empty() || nums[i]>=temp.back()){ 
+    temp.push_back(nums[i]);
+    backtrack(nums,i+1,st,temp);
     temp.pop_back();
+    }
   }
 }
     vector<vector<int>> findSubsequences(vector<int>& nums) {
