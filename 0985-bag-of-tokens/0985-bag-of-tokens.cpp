@@ -3,29 +3,21 @@ public:
     int bagOfTokensScore(vector<int>& tokens, int power) {
         int n=tokens.size();
         sort(tokens.begin(),tokens.end());
-        stack<int>minSt;
-        stack<int>maxSt;
-        for(int i=0;i<n;i++){
-            minSt.push(tokens[n-i-1]);
-            maxSt.push(tokens[i]);
-        }
+       int i=0,j=n-1;
         int score=0;
         int maxScore=0;
-        for(int i=0;i<n;i++){
-            if(power>=minSt.top()){
-              power-=minSt.top();
-              minSt.pop();
-              score++;
+        while(i<=j){
+            if(power>=tokens[i]){
+              power-=tokens[i];
+              i++;
+              score+=1;
               maxScore=max(maxScore,score);
-            }else{
-                if(score>=1){
-                    power+=maxSt.top();
-                    maxSt.pop();
-                    score--;
-                    maxScore=max(maxScore,score);
-                }
+            }else if(score>=1){
+                 power+=tokens[j];
+                 j--;
+                 score-=1;
+                 }else return maxScore;
             }
-        }
         return maxScore;
     }
 };
