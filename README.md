@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/vijaykumar0710/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/vijaykumar0710/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/0952-word-subsets) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/vijaykumar0710/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/vijaykumar0710/Leetcode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/vijaykumar0710/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/vijaykumar0710/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [0917-boats-to-save-people](https://github.com/vijaykumar0710/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaykumar0710/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/vijaykumar0710/Leetcode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/vijaykumar0710/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0917-boats-to-save-people](https://github.com/vijaykumar0710/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/vijaykumar0710/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
