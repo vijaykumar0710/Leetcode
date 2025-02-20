@@ -1,10 +1,32 @@
 class Solution {
 public:
-    string findDifferentBinaryString(vector<string>& nums) {
-        string res = "";
-        for (int i = 0; i < nums.size(); i++) {
-            res += (nums[i][i] == '0') ? '1' : '0';  // Flip diagonal elements
+string backtrack(string &num,int idx,unordered_set<string>&st){
+    //     if(st.find(num)==st.end()){
+    //         return num;
+    // }
+    for(int i=idx;i<num.size();i++){
+        if(num[i]=='0'){
+            num[i]='1';
+            if(st.find(num)==st.end()){
+            return num;
         }
-        return res;
+          //  backtrack(num,idx+1,st);
+        }
+         if(num[i]=='1'){
+            num[i]='0';
+            if(st.find(num)==st.end()){
+            return num;
+       }
+          //  backtrack(num,idx+1,st);
+        }
+    }
+    return "";
+}
+    string findDifferentBinaryString(vector<string>& nums) {
+        unordered_set<string>st;
+        for(auto &num:nums){
+            st.insert(num);
+        }
+       return backtrack(nums[0],0,st);
     }
 };
