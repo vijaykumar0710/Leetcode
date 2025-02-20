@@ -7,7 +7,7 @@ public:
         int i=0,j=1;
         while(j<n){
             if(colors[i]==colors[j]){
-                if(neededTime[i]<=neededTime[j]){
+                if(neededTime[i]<neededTime[j]){
                     mini+=neededTime[i];
                     neededTime[i]=neededTime[j];
                 }
