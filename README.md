@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vijaykumar0710/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vijaykumar0710/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/vijaykumar0710/Leetcode/tree/master/2145-grid-game) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vijaykumar0710/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vijaykumar0710/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaykumar0710/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vijaykumar0710/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaykumar0710/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaykumar0710/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/vijaykumar0710/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vijaykumar0710/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vijaykumar0710/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2107-find-unique-binary-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
