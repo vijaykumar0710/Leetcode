@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/1240-stone-game-ii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1448-maximum-69-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/vijaykumar0710/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/vijaykumar0710/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1448-maximum-69-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
