@@ -971,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/vijaykumar0710/Leetcode/tree/master/0979-di-string-match) |
 | [1032-satisfiability-of-equality-equations](https://github.com/vijaykumar0710/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
@@ -1230,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -1296,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vijaykumar0710/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vijaykumar0710/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
