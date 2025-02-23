@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/vijaykumar0710/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vijaykumar0710/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/vijaykumar0710/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/vijaykumar0710/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/vijaykumar0710/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/vijaykumar0710/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
