@@ -5,16 +5,15 @@ public:
         long long capacitySum=accumulate(begin(capacity),end(capacity),0LL);
         long long rocksSun=accumulate(begin(rocks),end(rocks),0LL);
         if(rocksSun+additionalRocks>capacitySum) return n;
-        vector<int>helper(n);
         for(int i=0;i<n;i++){
-            helper[i]=capacity[i]-rocks[i];
+            capacity[i]=capacity[i]-rocks[i];
         }
-        sort(begin(helper),end(helper));
+        sort(begin(capacity),end(capacity));
         int cnt=0;
         for(int i=0;i<n;i++){
-            if(additionalRocks>=helper[i]){
+            if(additionalRocks>=capacity[i]){
                 cnt++;
-                additionalRocks-=helper[i];
+                additionalRocks-=capacity[i];
                 if(additionalRocks<0) break;
             }
         }
