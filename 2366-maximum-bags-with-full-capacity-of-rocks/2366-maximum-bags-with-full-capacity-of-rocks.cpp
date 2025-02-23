@@ -10,12 +10,12 @@ public:
             helper[i]=capacity[i]-rocks[i];
         }
         sort(begin(helper),end(helper));
-        long long cnt=0;
+        int cnt=0;
         for(int i=0;i<n;i++){
             if(additionalRocks>=helper[i]){
                 cnt++;
                 additionalRocks-=helper[i];
-                //if(additionalRocks<0) break;
+                if(additionalRocks<0) break;
             }
         }
         return cnt;
