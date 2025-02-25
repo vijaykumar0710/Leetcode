@@ -7,7 +7,7 @@ public:
             mp[num]++;
         }
         int minRounds=0;
-           for(auto [task,freq]:mp){ 
+           for(auto [_,freq]:mp){ 
               if(freq==1)return -1;
                minRounds+=(freq/3);
                if(freq%3!=0){
