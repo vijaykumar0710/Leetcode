@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/vijaykumar0710/Leetcode/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1677-matrix-diagonal-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/vijaykumar0710/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/vijaykumar0710/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/vijaykumar0710/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/vijaykumar0710/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1808,6 +1811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/vijaykumar0710/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/vijaykumar0710/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/vijaykumar0710/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
