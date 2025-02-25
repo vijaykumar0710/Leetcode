@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/vijaykumar0710/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/vijaykumar0710/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vijaykumar0710/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/vijaykumar0710/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vijaykumar0710/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2427-first-letter-to-appear-twice](https://github.com/vijaykumar0710/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2434-design-a-number-container-system](https://github.com/vijaykumar0710/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/vijaykumar0710/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/vijaykumar0710/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1523,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaykumar0710/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/vijaykumar0710/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2427-first-letter-to-appear-twice](https://github.com/vijaykumar0710/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
