@@ -9,7 +9,6 @@ public:
         for(auto [_,freq]:mp){
             vec.push_back(freq);
         }
-        sort(begin(vec),end(vec));
         unordered_set<int>st;
         int cnt=0;
         for(int i=0;i<vec.size();i++){
