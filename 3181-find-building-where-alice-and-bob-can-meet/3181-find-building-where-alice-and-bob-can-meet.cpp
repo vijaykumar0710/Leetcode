@@ -1,26 +1,79 @@
 class Solution {
 public:
+void buildsegmentTree(int i,int l,int r,int segmentTree[],vector<int>&heights){
+    if(l==r){
+        segmentTree[i]=l;
+        return;
+    }
+    int mid=l+(r-l)/2;
+    buildsegmentTree(2*i+1,l,mid,segmentTree,heights);
+    buildsegmentTree(2*i+2,mid+1,r,segmentTree,heights);
+
+    segmentTree[i]=(heights[segmentTree[2*i+1]]>=heights[segmentTree[2*i+2]])?
+                   segmentTree[2*i+1]:segmentTree[2*i+2];
+}
+
+int *construct(vector<int>&heights,int n){
+    int *segmentTree=new int[4*n];
+    buildsegmentTree(0,0,n-1,segmentTree,heights);
+    return segmentTree;
+}
+
+int querySegmentTree(int start,int end,int i,int l,int r,int segmentTree[],vector<int>&heights){
+    if(l>end || r<start){
+        return -1; 
+    }
+    if(l>=start && r<=end){
+        return segmentTree[i];
+    }
+    int mid=l+(r-l)/2;
+    int leftIdx=querySegmentTree(start,end,2*i+1,l,mid,segmentTree,heights);
+    int rightIdx=querySegmentTree(start,end,2*i+2,mid+1,r,segmentTree,heights);
+
+    if(leftIdx==-1)
+       return rightIdx;
+    if(rightIdx==-1)
+       return leftIdx;
+
+    return (heights[leftIdx]>=heights[rightIdx])?leftIdx:rightIdx;
+}
+
+int RMIQ(int st[],vector<int>&heights,int n,int a,int b){
+    return querySegmentTree(a,b,0,0,n-1,st,heights);
+}
     vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
-        int n = heights.size(), q = queries.size();
-        vector<int> result(q, -1);
-        vector<vector<pair<int, int>>> deferred(n);
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+         int n=heights.size();
+         int *segmentTree=construct(heights,n);
 
-        for (int i = 0; i < q; ++i) {
-            int a = queries[i][0], b = queries[i][1];
-            if (a > b) swap(a, b);
-            if (a == b || heights[a] < heights[b]) result[i] = b;
-            else deferred[b].emplace_back(heights[a], i);
-        }
+         vector<int>result;
+         for(auto &query:queries){
+            int min_idx=min(query[0],query[1]);
+            int max_idx=max(query[0],query[1]);
 
-        for (int i = 0; i < n; ++i) {
-            for (auto& query : deferred[i]) pq.push(query);
-            while (!pq.empty() && pq.top().first < heights[i]) {
-                result[pq.top().second] = i;
-                pq.pop();
+            if(min_idx==max_idx || heights[max_idx]>heights[min_idx]){
+                result.push_back(max_idx);
+                continue;
             }
-        }
+            int l=max_idx+1;
+            int r=n-1;
+            int result_idx=INT_MAX;
+            while(l<=r){
+                int mid=l+(r-l)/2;
+                int idx=RMIQ(segmentTree,heights,n,l,mid);
 
+                if(heights[idx]>max(heights[min_idx],heights[max_idx])){
+                    r=mid-1;
+                    result_idx=min(result_idx,idx);
+                }else{
+                    l=mid+1;
+                }
+            }
+           if(result_idx==INT_MAX){
+            result.push_back(-1);
+           }else{
+            result.push_back(result_idx);
+           }
+        }
         return result;
     }
 };
