@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vijaykumar0710/Queue/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/vijaykumar0710/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2155-find-missing-observations](https://github.com/vijaykumar0710/Leetcode/tree/master/2155-find-missing-observations) |
 | [2238-a-number-after-a-double-reversal](https://github.com/vijaykumar0710/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vijaykumar0710/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/vijaykumar0710/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vijaykumar0710/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaykumar0710/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/vijaykumar0710/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/vijaykumar0710/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/vijaykumar0710/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vijaykumar0710/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vijaykumar0710/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -2012,6 +2015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/1240-stone-game-ii) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/vijaykumar0710/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Number Theory
 |  |
 | ------- |
