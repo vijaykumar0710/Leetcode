@@ -994,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/vijaykumar0710/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vijaykumar0710/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/vijaykumar0710/Leetcode/tree/master/0726-number-of-atoms) |
+| [0742-to-lower-case](https://github.com/vijaykumar0710/Leetcode/tree/master/0742-to-lower-case) |
 | [0753-open-the-lock](https://github.com/vijaykumar0710/Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
