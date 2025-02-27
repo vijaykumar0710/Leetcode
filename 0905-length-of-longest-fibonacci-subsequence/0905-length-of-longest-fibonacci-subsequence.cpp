@@ -2,13 +2,13 @@ class Solution {
 public:
 int t[1001][1001];
 int solve(int j,int k,vector<int>&arr,unordered_map<int,int>&mp){
-   // if(t[j][k]!=-1) return t[j][k];
+    if(t[j][k]!=-1) return t[j][k];
     int target=arr[k]-arr[j];
     if(mp.count(target) && mp[target]<j){
         int i=mp[target];
-        return solve(i,j,arr,mp)+1;
+        return t[j][k]=solve(i,j,arr,mp)+1;
     }
-    return 2;
+    return t[j][k]=2;
 }
     int lenLongestFibSubseq(vector<int>& arr) {
        int n=arr.size();
