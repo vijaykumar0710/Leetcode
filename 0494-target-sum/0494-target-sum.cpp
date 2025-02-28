@@ -4,8 +4,8 @@ int knapsack(vector<int>&nums,int s1,int n){
     vector<vector<int>>t(n+1,vector<int>(s1+1));
     for(int i=0;i<n+1;i++){
         for(int j=0;j<s1+1;j++){
-            if(i==0) t[i][j]=0;
-            if(j==0) t[i][j]=1;
+            t[0][0]=1;
+            t[i][j]=0;
         }
     }
     for(int i=1;i<n+1;i++){
