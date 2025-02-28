@@ -1,22 +1,32 @@
 class Solution {
 public:
-int n;
-int t[10000][201];
-bool isPossible(vector<int>&nums,int target,int i){
-    if(i==n || target<0) return false;
-    if(target==0) return true;
-    if(t[target][i]!=-1) return t[target][i];
-    return t[target][i]=(isPossible(nums,target-nums[i],i+1) || isPossible(nums,target,i+1));
+bool knapsack(vector<int>&nums,int target,int n){
+    vector<vector<int>>t(n+1,vector<int>(target+1));
+    for(int i=0;i<n+1;i++){
+        for(int j=0;j<target+1;j++){
+            if(i==0){
+            t[i][j]=false;
+            }
+            if(j==0){
+                t[i][j]=true;
+            }
+        }
+    }
+    for(int i=1;i<n+1;i++){
+        for(int j=1;j<target+1;j++){
+            if(nums[i-1]<=j){
+              t[i][j]=(t[i-1][j-nums[i-1]] || t[i-1][j]);
+            }else{
+                t[i][j]=t[i-1][j];
+            }
+        }
+    }
+    return t[n][target];
 }
     bool canPartition(vector<int>& nums) {
-        n=nums.size();
-        int total=accumulate(nums.begin(),nums.end(),0);
-        memset(t,-1,sizeof(t));
-        if(total%2!=0){
-            return false;
-        }else{
-            return isPossible(nums,total/2,0);
-        }
-        return false;
+        int n=nums.size();
+        int sum=accumulate(begin(nums),end(nums),0);
+        if(sum%2!=0) return false;
+        return knapsack(nums,sum/2,n);
     }
 };
