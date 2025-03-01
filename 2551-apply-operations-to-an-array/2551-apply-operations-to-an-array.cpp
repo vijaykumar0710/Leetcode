@@ -2,22 +2,16 @@ class Solution {
 public:
     vector<int> applyOperations(vector<int>& nums) {
         int n=nums.size();
-        for(int i=0;i<n-1;i++){
-            if(nums[i]==nums[i+1]){
-                nums[i]=nums[i]*2;
-                nums[i+1]=0;
+        int left=0;
+        for(int right=0;right<n;right++){
+            if(right+1<n && nums[right]==nums[right+1]){
+                nums[right]=nums[right]*2;
+                nums[right+1]=0;
             }
-        }
-        int j=0;
-        for(int i=0;i<n;i++){
-          if(nums[i]!=0){
-            nums[j]=nums[i];
-            j++;
-          }
-        }
-        while(j<n){
-            nums[j]=0;
-            j++;
+            if(nums[right]!=0){
+                swap(nums[right],nums[left]);
+                left++;
+            }
         }
         return nums;
     }
