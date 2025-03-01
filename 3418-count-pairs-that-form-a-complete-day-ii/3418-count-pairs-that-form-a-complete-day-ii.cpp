@@ -3,7 +3,7 @@ public:
     long long countCompleteDayPairs(vector<int>& hours) {
      vector<long long>vec;
     for (int num : hours) {
-        vec.push_back(num%24);
+        vec.push_back((num%24+24)%24);
     }
     unordered_map<long long,long long>mp;
     int n=vec.size();
