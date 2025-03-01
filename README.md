@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3427-special-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/vijaykumar0710/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaykumar0710/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -1562,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
