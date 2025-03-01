@@ -1,21 +1,26 @@
 class Solution {
 public:
-int n;
-int t[301][5001];
-  int solve(int i,vector<int>&coins,int amount){
-    if(amount==0) return 1;
-    if(i>=n) return 0;
-    if(coins[i]>amount){
-       return solve(i+1,coins,amount);
+int knapsack(vector<int>&nums,int target,int n){
+    vector<vector<unsigned int>>t(n+1,vector<unsigned int>(target+1));
+    for(int i=0;i<n+1;i++){
+        for(int j=0;j<target+1;j++){
+            if(i==0) t[i][j]=0;
+            if(j==0) t[i][j]=1;
+        }
     }
-    if(t[i][amount]!=-1) return t[i][amount];
-    int take=solve(i,coins,amount-coins[i]);
-    int skip=solve(i+1,coins,amount);
-    return t[i][amount]=take+skip;
-  }
+    for(int i=1;i<n+1;i++){
+        for(int j=1;j<target+1;j++){
+            if(nums[i-1]<=j){
+              t[i][j]=(t[i][j-nums[i-1]] + t[i-1][j]);
+            }else{
+                t[i][j]=t[i-1][j];
+            }
+        }
+    }
+    return t[n][target];
+}
     int change(int amount, vector<int>& coins) {
-        n=coins.size();
-        memset(t,-1,sizeof(t));
-        return solve(0,coins,amount);
+        int n = coins.size();
+        return knapsack(coins, amount, n);
     }
 };
