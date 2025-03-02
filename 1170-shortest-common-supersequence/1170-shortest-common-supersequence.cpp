@@ -30,15 +30,16 @@ public:
             }
         }
       }
+       while(j>0){
+        scs+=s2[j-1];
+          j--;
+      }
       while(i>0){
         scs+=s1[i-1];
           i--;
       }
-      while(j>0){
-        scs+=s2[j-1];
-          j--;
-      }
+     
       reverse(begin(scs),end(scs));
-     return scs;
+      return scs;
     }
 };
