@@ -1,30 +1,44 @@
 class Solution {
 public:
-int dp[1001][1001];
-int solve(string &s,int i,int j){
-    if(i>=j) return 1;
-    if(dp[i][j]!=-1) return dp[i][j];
-    if(s[i]==s[j]){
-        return dp[i][j]=solve(s,i+1,j-1);
-    } else{
-        return dp[i][j]=0;
-    }
-}
     string longestPalindrome(string s) {
-        int n=s.size();
-        memset(dp,-1,sizeof(dp));
-        int maxLen=INT_MIN;
-        int start=0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){ 
-           if(solve(s,i,j)==1){
-            if(j-i+1>maxLen){
-                maxLen=j-i+1;
-                start=i;
-             }
-           }
+         string s1=s;
+        string s2=s;
+        reverse(s2.begin(),s2.end());
+        int m=s1.length();
+       int  n=s2.length();
+      vector<vector<int>> t(m+1,vector<int>(n+1));
+      for(int row=0;row<m+1;row++){
+        t[row][0]=0;
+      }
+      for(int col=0;col<n+1;col++){
+        t[0][col]=0;
+      }
+      
+    for(int i=1;i<m+1;i++){
+        for(int j=1;j<n+1;j++){
+            if(s1[i-1]==s2[j-1]){
+                t[i][j]=1+t[i-1][j-1];
+            }else{
+                t[i][j]=0;
+            }
         }
       }
-        return s.substr(start,maxLen);
+       string lcs="";
+      int i=m,j=n;
+      while(i>0 && j>0){
+        if(s1[i-1]==s2[j-1]){
+            lcs.push_back(s1[i-1]);
+            i--;
+            j--;
+        }else{
+            if(t[i-1][j]>t[i][j-1]){
+                i--;
+            }else{
+                j--;
+            }
+        }
+      }
+      reverse(begin(lcs),end(lcs));
+      return lcs;
     }
 };
