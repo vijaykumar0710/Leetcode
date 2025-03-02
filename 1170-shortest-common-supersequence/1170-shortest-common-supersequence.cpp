@@ -38,7 +38,6 @@ public:
         scs+=s1[i-1];
           i--;
       }
-     
       reverse(begin(scs),end(scs));
       return scs;
     }
