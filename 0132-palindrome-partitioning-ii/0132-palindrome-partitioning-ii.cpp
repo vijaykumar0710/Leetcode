@@ -17,7 +17,7 @@ public:
      int mini=INT_MAX;
      for(int k=i;k<j;k++){ 
         if(isPalindrome(s,i,k)){ 
-        mini=min(mini,1+solve(s,i,k)+solve(s,k+1,j));
+        mini=min(mini,1+solve(s,k+1,j));
          t[i][j]=mini;
         }
      }
