@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/vijaykumar0710/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaykumar0710/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vijaykumar0710/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaykumar0710/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vijaykumar0710/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/vijaykumar0710/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -919,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/vijaykumar0710/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -1225,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Stack
@@ -1597,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
@@ -1754,6 +1760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Bit Manipulation
 |  |
