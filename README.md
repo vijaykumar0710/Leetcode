@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/vijaykumar0710/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1806-count-of-matches-in-tournament](https://github.com/vijaykumar0710/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vijaykumar0710/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
