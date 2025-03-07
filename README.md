@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/vijaykumar0710/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/vijaykumar0710/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/vijaykumar0710/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vijaykumar0710/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -2104,6 +2105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/vijaykumar0710/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Enumeration
