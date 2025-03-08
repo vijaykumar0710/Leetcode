@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/vijaykumar0710/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
+| [0923-super-egg-drop](https://github.com/vijaykumar0710/Leetcode/tree/master/0923-super-egg-drop) |
 | [1033-broken-calculator](https://github.com/vijaykumar0710/Leetcode/tree/master/1033-broken-calculator) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/1240-stone-game-ii) |
@@ -1219,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
+| [0923-super-egg-drop](https://github.com/vijaykumar0710/Leetcode/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/vijaykumar0710/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1766,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0923-super-egg-drop](https://github.com/vijaykumar0710/Leetcode/tree/master/0923-super-egg-drop) |
 | [0975-range-sum-of-bst](https://github.com/vijaykumar0710/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vijaykumar0710/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
