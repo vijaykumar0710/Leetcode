@@ -2,9 +2,7 @@ class Solution {
 public:
 int t[101][10001];
  int MCM(int eggs,int floors){
-        if(floors==0 || floors==1) return t[eggs][floors]=floors;
-        
-        if(eggs==1) return t[eggs][floors]=floors;
+        if(floors==0 || floors==1 || eggs==1) return t[eggs][floors]=floors;
     
         if(t[eggs][floors]!=-1) return t[eggs][floors];
 
