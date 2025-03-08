@@ -12,7 +12,20 @@ int MCM(int egg,int floor){
 
     int mini=INT_MAX;
     for(int k=1;k<=floor;k++){
-        int temp=1+max(MCM(egg-1,k-1),MCM(egg,floor-k));
+        int low,high;
+        if(t[egg-1][k-1]!=-1){
+            low=t[egg-1][k-1];
+        }else{
+            low=MCM(egg-1,k-1);
+            t[egg-1][k-1]=low;
+        }
+        if(t[egg][floor-k]!=-1){
+            high=t[egg][floor-k];
+        }else{
+            high=MCM(egg,floor-k);
+            t[egg][floor-k]=high;
+        }
+        int temp=1+max(low,high);
         mini=min(mini,temp);
     }
     return t[egg][floor]=mini;
