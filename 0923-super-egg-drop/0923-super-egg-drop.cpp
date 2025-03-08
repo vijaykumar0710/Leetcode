@@ -18,7 +18,7 @@ int t[101][10001];
               else l=mid+1;
           }
          t[eggs][floors]=mn;   
-        return t[eggs][floors];
+        return mn;
     } 
     int superEggDrop(int k, int n) {
         memset(t,-1,sizeof(t));
