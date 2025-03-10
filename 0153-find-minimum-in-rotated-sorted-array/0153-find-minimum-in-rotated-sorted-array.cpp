@@ -14,7 +14,7 @@ public:
             if(nums[mid]>=nums[l]){
                 l=mid+1;
             }
-           else{
+           else if(nums[mid]<=nums[r]){
                 r=mid-1;
             }
         }
