@@ -12,13 +12,13 @@ public:
                 return mid;
             }
             if(target>nums[mid]){
-                res=mid;
+                res=mid+1;
                 l=mid+1;
             }
             else{
                 r=mid-1;
             }
         }
-        return res+1;
+        return res;
     }
 };
