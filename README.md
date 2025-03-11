@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaykumar0710/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3438-peaks-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3438-peaks-in-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -2112,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3438-peaks-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3438-peaks-in-array) |
 ## Geometry
 |  |
 | ------- |
@@ -2177,6 +2179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3438-peaks-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3438-peaks-in-array) |
 ## Ordered Set
 |  |
 | ------- |
