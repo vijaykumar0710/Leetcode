@@ -2,7 +2,6 @@ class Solution {
 public:
     int countElements(vector<int>& nums) {
         int n=nums.size();
-        if(n<3) return 0;
         sort(begin(nums),end(nums));
         int cnt=0;
         for(int i=1;i<n-1;i++){
