@@ -6,9 +6,7 @@ public:
         int l=0,r=n-1;
         while(l<=r){
             int mid=l+(r-l)/2;
-            if(letters[mid]==target){
-                l=mid+1;
-            }else if(letters[mid]>target){
+           if(letters[mid]>target){
                res=letters[mid];
                r=mid-1;
             }else{
