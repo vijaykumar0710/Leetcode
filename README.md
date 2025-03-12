@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/vijaykumar0710/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijaykumar0710/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vijaykumar0710/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/vijaykumar0710/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/vijaykumar0710/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2447-merge-similar-items](https://github.com/vijaykumar0710/Leetcode/tree/master/2447-merge-similar-items) |
@@ -1643,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaykumar0710/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/vijaykumar0710/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
