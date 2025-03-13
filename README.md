@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/vijaykumar0710/Leetcode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0878-shifting-letters](https://github.com/vijaykumar0710/Leetcode/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/vijaykumar0710/Leetcode/tree/master/0891-score-after-flipping-matrix) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
+| [0878-shifting-letters](https://github.com/vijaykumar0710/Leetcode/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaykumar0710/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/0952-word-subsets) |
@@ -1965,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vijaykumar0710/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vijaykumar0710/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0878-shifting-letters](https://github.com/vijaykumar0710/Leetcode/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/1240-stone-game-ii) |
