@@ -23,7 +23,7 @@ public:
         else if(mid==n-1){
             if(arr[n-1]>arr[n-2])
                return n-1;
-               else r=mid+1;
+               else r=mid-1;
         }
        }
        return -1;
