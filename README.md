@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2350-find-closest-number-to-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/vijaykumar0710/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
