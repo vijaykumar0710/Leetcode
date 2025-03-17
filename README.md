@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vijaykumar0710/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vijaykumar0710/Leetcode/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0330-patching-array) |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/vijaykumar0710/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vijaykumar0710/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vijaykumar0710/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/0389-find-the-difference) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vijaykumar0710/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/0420-strong-password-checker) |
@@ -1631,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1639,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vijaykumar0710/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vijaykumar0710/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -2132,6 +2138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -2249,6 +2256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Eulerian Circuit
 |  |
 | ------- |
