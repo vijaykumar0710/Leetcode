@@ -1,15 +1,10 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        for(auto &num:nums){
-            mp[num]++;
+        bitset<501> parity;
+        for (int x : nums) {
+            parity.flip(x);
         }
-        for(auto [_,freq]:mp){
-            if(freq%2!=0){
-                return false;
-            }
-        }
-        return true;
+        return parity.count() == 0;
     }
 };
