@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/vijaykumar0710/Leetcode/tree/master/0985-bag-of-tokens) |
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/vijaykumar0710/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/vijaykumar0710/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/vijaykumar0710/Leetcode/tree/master/1036-rotting-oranges) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/Leetcode/tree/master/0923-super-egg-drop) |
+| [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1033-broken-calculator](https://github.com/vijaykumar0710/Leetcode/tree/master/1033-broken-calculator) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/1240-stone-game-ii) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/vijaykumar0710/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/vijaykumar0710/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/vijaykumar0710/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1217-relative-sort-array) |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/vijaykumar0710/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -1640,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -2175,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vijaykumar0710/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/vijaykumar0710/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/vijaykumar0710/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Strongly Connected Component
@@ -2260,6 +2266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Eulerian Circuit
 |  |
 | ------- |
