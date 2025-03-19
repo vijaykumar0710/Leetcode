@@ -1,34 +1,19 @@
 class StockSpanner {
+private:
+    stack<pair<int, int>> st; // {price, span}
 public:
-    stack<int> st;
-    stack<int> fq;
-    StockSpanner() {}
-
+    StockSpanner() {
+        
+    }
+    
     int next(int price) {
-        if (st.empty()) {
-            st.push(price);
-            fq.push(1);
-            return 1;
-        } else if (st.top() > price) {
-            st.push(price);
-            fq.push(1);
-            return 1;
-        } else {
-            int temp = 1;
-            while (!st.empty() && st.top() <= price) {
-                st.pop();
-                temp += fq.top();
-                fq.pop();
-            }
-            st.push(price);
-            fq.push(temp);
-            return temp;
+        int span = 1;
+        // Accumulate span for prices <= current price
+        while(!st.empty() && st.top().first <= price) {
+            span += st.top().second;
+            st.pop();
         }
+        st.push({price, span});
+        return span;
     }
 };
-
-/**
- * Your StockSpanner object will be instantiated and called as such:
- * StockSpanner* obj = new StockSpanner();
- * int param_1 = obj->next(price);
- */
