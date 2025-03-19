@@ -12,11 +12,8 @@ public:
             ops++;
         }
     }
-    for (int i = n - 2; i < n; i++) {
-        if (i >= 0 && nums[i] == 0)
-            return -1;
-    }
-
+    if(nums[n-1]==0 || nums[n-2]==0)
+           return -1;
     return ops;
     }
 };
