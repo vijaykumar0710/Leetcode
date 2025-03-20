@@ -13,7 +13,7 @@ public:
             maxL[i]=max(maxL[i-1],height[i]);
         }
         int maxWater=0;
-      for(int i=1;i<n-1;i++){
+      for(int i=0;i<n;i++){
          int water=min(maxR[i],maxL[i])-height[i];
          maxWater+=water;
       }
