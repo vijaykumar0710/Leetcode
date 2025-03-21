@@ -1,28 +1,28 @@
 class Solution {
 public:
     vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
-        unordered_set<string> st(supplies.begin(), supplies.end());
-        vector<string> res;
-        bool changed = true;
+        unordered_map<string,vector<string>>adj;
+        unordered_map<string,int>indegree;
 
-        while (changed) {
-            changed = false;
-            for (int i = 0; i < recipes.size(); i++) {
-                string recipe = recipes[i];
-                if (st.find(recipe) != st.end()) continue; 
-
-                bool canMake = true;
-                for (string& ing : ingredients[i]) {
-                    if (st.find(ing) == st.end()) {
-                        canMake = false;
-                        break;
-                    }
-                }
-
-                if (canMake) {
-                    st.insert(recipe);
-                    res.push_back(recipe);
-                    changed = true;
+        for(int i=0;i<recipes.size();i++){
+            for(auto ing:ingredients[i]){
+                adj[ing].push_back(recipes[i]);
+                indegree[recipes[i]]++;
+            }
+        }
+        queue<string>q;
+        for(auto &item:supplies){
+            q.push(item);
+        }
+        vector<string>res;
+        while(!q.empty()){
+            string curr=q.front();
+            q.pop();
+            for(auto next:adj[curr]){
+                indegree[next]--;
+                if(indegree[next]==0){
+                    res.push_back(next);
+                    q.push(next);
                 }
             }
         }
