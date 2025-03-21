@@ -1322,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3801-count-beautiful-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/3801-count-beautiful-numbers) |
 ## Stack
 |  |
 | ------- |
