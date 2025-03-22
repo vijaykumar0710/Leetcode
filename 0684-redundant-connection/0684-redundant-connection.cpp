@@ -20,14 +20,22 @@ public:
     }
 
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int n = edges.size();
-        parent.resize(n + 1);
-        rank.resize(n + 1, 0);
-        for (int i = 1; i <= n; i++) parent[i] = i;  // Initialize DSU
-
-        for (auto &edge : edges) {
-            if (Union(edge[0], edge[1])) return edge;  // If cycle found, return the edge
+        int n=edges.size();
+        rank.resize(n+1,0);
+        parent.resize(n+1);
+        for(int i=1;i<=n;i++){
+            parent[i]=i;
         }
-        return {};
+        vector<vector<int>>res;
+        for(auto &edge:edges){
+            int u=edge[0];
+            int v=edge[1];
+            if(find(u)==find(v)){
+              res.push_back({u,v});
+            }else{
+                Union(u,v);
+            }
+        }
+        return res.back();
     }
 };
