@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/vijaykumar0710/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2752-sum-multiples](https://github.com/vijaykumar0710/Leetcode/tree/master/2752-sum-multiples) |
+| [2757-count-of-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/2757-count-of-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/vijaykumar0710/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/vijaykumar0710/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2757-count-of-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/2757-count-of-integers) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/vijaykumar0710/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vijaykumar0710/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -1317,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2757-count-of-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/2757-count-of-integers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
