@@ -15,7 +15,7 @@ public:
 
         for (int i = 0; i <= limit; i++) {
             int updateSum = (sum+i)%MOD;
-            ans=(ans+solve(s, mini, maxi, idx + 1, tight && (i == (s[idx] - '0')), updateSum))%MOD;
+            ans=(ans+solve(s, mini, maxi, idx + 1, tight & (i == limit), updateSum))%MOD;
         }
 
         return dp[idx][tight][sum] = ans;
