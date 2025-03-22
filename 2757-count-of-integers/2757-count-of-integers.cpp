@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long dp[23][2][501];
+    long long dp[23][2][200];
     const int MOD=1e9+7;
     long long solve(string &s, int mini, int maxi, int idx, int tight, int sum) {
         if (sum > maxi) return 0;
