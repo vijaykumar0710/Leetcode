@@ -1,27 +1,46 @@
 class Solution {
 public:
+vector<int>parent,rank;
+int find(int x){
+if(x==parent[x])
+  return x;
+return parent[x]=find(parent[x]);
+}
+void Union(int x,int y){
+    int parent_x=find(x);
+    int parent_y=find(y);
+    if(parent_x==parent_y)
+       return;
+    if(rank[parent_x]>rank[parent_y]){
+        parent[parent_y]=parent_x;
+    }else if(rank[parent_y]>rank[parent_x]){
+        parent[parent_x]=parent_y;
+    }else{
+        parent[parent_y]=parent_x;
+        rank[parent_x]++;
+    }
+}
     int minSwapsCouples(vector<int>& row) {
-        int n=row.size();
-        unordered_map<int,int>mp;
+        int n=row.size()/2;
+        rank.resize(n,0);
+        parent.resize(n);
         for(int i=0;i<n;i++){
-            mp[row[i]]=i;
+            parent[i]=i;
         }
-        int minSwap=0;
-        for(int i=0;i<n;i+=2){
-            int first=row[i];
-            int expected_pair;
-            if(first%2==0)
-              expected_pair=first+1;
-            else
-              expected_pair=first-1;
-            if(expected_pair==row[i+1]) 
-               continue;
-            int idx=mp[expected_pair];
-            swap(row[i+1],row[idx]);
-            mp[row[i+1]]=i+1;
-            mp[row[idx]]=idx;
-            minSwap++;
+        for(int i=0;i<row.size();i+=2){
+            int a=row[i]/2;
+            int b=row[i+1]/2;
+            Union(a,b);
         }
-        return minSwap;
+        unordered_map<int,int>count;
+        for(int i=0;i<n;i++){
+            int root=find(i);
+            count[root]++;
+        }
+        int swaps=0;
+        for(auto &it:count){
+            swaps+=it.second-1;
+        }
+        return swaps;
     }
 };
