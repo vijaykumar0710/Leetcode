@@ -19,12 +19,8 @@ public:
             if(currStart <= prevEnd) {
                 // Calculate the actual overlapping portion
                 overlap += min(prevEnd, currEnd) - currStart + 1;
-                // Update prevEnd to the maximum end so far (to handle chain overlaps)
-                prevEnd = max(prevEnd, currEnd);
-            } else {
-                // No overlap
-                prevEnd = currEnd;
             }
+            prevEnd = max(prevEnd, currEnd);
         }
 
         // Subtract overlapping days to get distinct meeting days
