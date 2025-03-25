@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vijaykumar0710/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vijaykumar0710/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3778-transform-array-by-parity](https://github.com/vijaykumar0710/Leetcode/tree/master/3778-transform-array-by-parity) |
