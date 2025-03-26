@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vijaykumar0710/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3778-transform-array-by-parity](https://github.com/vijaykumar0710/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -1966,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/vijaykumar0710/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Trie
 |  |
 | ------- |
