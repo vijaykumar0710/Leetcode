@@ -1,24 +1,15 @@
 class Solution {
 public:
-    long long minOperations(vector<vector<int>>& queries) {
-        long long totalAns = 0;
-        
-        for (auto& query : queries) {
-            long long l = query[0], r = query[1];
-            long long totalSteps = 0;
-            
-            for (long long power = 1, k = 0; power <= r; power *= 4, k++) {
-                long long low = max(l, power);
-                long long high = min(r, power * 4 - 1);
-                
-                if (low > high) continue; // No overlap
-                
-                long long count = high - low + 1;
-                totalSteps += count * (k + 1);
-            }
-            
-            totalAns += (totalSteps + 1) / 2;  // Ceiling division
+long long minOperations(vector<vector<int>>& queries) {
+    long long res = 0;
+    for (const auto &q : queries) {
+        long long l = q[0], r = q[1], sum = 0, p = 0;
+        for (long long p4 = 1; p4 <= r; p4 *= 4) { // 1, 4, 16, 64, ...
+            int pl = max(l, p4), pr = min(r, p4 * 4 - 1);
+            sum += max(0LL, ++p * (pr - pl + 1));
         }
-        return totalAns;
+        res += (sum + 1) / 2;
     }
+    return res;
+}
 };
