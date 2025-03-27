@@ -2,16 +2,28 @@ class Solution {
 public:
     int minimumIndex(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int>mp1,mp2;
-        for(auto &num:nums){
-            mp2[num]++;
+       unordered_map<int,int>mp;
+       int majority_element=-1;
+       int freq=0;
+       for(auto num:nums){
+        mp[num]++;
+       }
+       for(auto [ele,fre]:mp){
+        if(2*fre>n){
+           majority_element=ele;
+           freq=fre;
+           break;
         }
-        for(int i=0;i<n-1;i++){
-            mp1[nums[i]]++;
-            mp2[nums[i]]--;
-            if(mp1[nums[i]]>(i+1)/2 && mp2[nums[i]]>(n-1-i)/2)
-                  return i;
-        }
-        return -1;
+       }
+       int f1=0;
+       for(int i=0;i<n;i++){
+           if(nums[i]==majority_element){
+            f1++;
+           }
+             if(f1*2>(i+1) && 2*(freq-f1)>(n-i-1)){
+                return i;
+            }
+       }
+       return -1;
     }
 };
