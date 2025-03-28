@@ -18,9 +18,9 @@ vector<vector<int>>directions={{1,0},{-1,0},{0,1},{0,-1}};
        visited[0][0]=true;
    
    for(int i=0;i<k;i++){
-    int val=sortqueries[i].first;
+    int queryval=sortqueries[i].first;
     int idx=sortqueries[i].second;
-   while(!minpq.empty() && minpq.top()[0]<val){
+   while(!minpq.empty() && minpq.top()[0]<queryval){
     int currRow=minpq.top()[1];
     int currCol=minpq.top()[2];
     minpq.pop();
