@@ -1,27 +1,23 @@
 class Solution {
 public:
-int m,n;
-    void solve(vector<vector<int>>& image, int sr, int sc, int color,int initial){
-
-        if(sr<0 || sc<0 || sr>=m || sc>=n || image[sr][sc]==color) return;
-
-        if(image[sr][sc]==initial){
-         image[sr][sc]=color;
-
-         solve(image,sr+1,sc,color,initial);
-         solve(image,sr-1,sc,color,initial);
-         solve(image,sr,sc+1,color,initial);
-         solve(image,sr,sc-1,color,initial);
-        }
-    }
+vector<vector<int>>directions={{-1,0},{1,0},{0,-1},{0,1}};
+void dfs(vector<vector<int>>&image,int sr,int sc,int color,int origanl_color,int m,int n){
+if(sr<0 || sr>=m || sc<0 || sc>=n) return;
+if(origanl_color!=image[sr][sc]) return;
+image[sr][sc]=color;
+for(auto &direction:directions){
+    int newRow=sr+direction[0];
+    int newCol=sc+direction[1];
+    dfs(image,newRow,newCol,color,origanl_color,m,n);
+   }
+}
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-
-         m=image.size();
-         n=image[0].size();
-
-        int initial=image[sr][sc];
-
-         solve(image,sr,sc,color,initial);
-         return image;
+        int m=image.size();
+        int n=image[0].size();
+        int origanl_color=image[sr][sc];
+        if(color!=origanl_color){ 
+        dfs(image,sr,sc,color,origanl_color,m,n);
+        }
+        return image;
     }
 };
