@@ -2,7 +2,7 @@ class Solution {
 public:
 int t[101][101][601];
 int knapsack(vector<string>&strs,int m,int n,int idx,int size){
-if(idx==size || m==0 && n==0){
+if(idx==size){
    return 0;
 }
 if(t[m][n][idx]!=-1) return t[m][n][idx];
