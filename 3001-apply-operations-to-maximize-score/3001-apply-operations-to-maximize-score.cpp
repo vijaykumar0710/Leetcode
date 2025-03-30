@@ -16,8 +16,8 @@ const int MOD=1e9+7;
     vector<int>primes;
     for(int i=2;i*i<=limit;i++){
         if(isPrime[i]){
-            for(int j=i*i;j<=limit;j+=i){
-                isPrime[j]=false;
+            for(int j=2;i*j<=limit;j++){
+                isPrime[i*j]=false;
             }
         }
     }
