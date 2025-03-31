@@ -9,12 +9,12 @@ public:
                 vec.push_back(grid[i][j]);
             }
         }
+        sort(vec.begin(),vec.end());
         int rem=vec[0]%x;
         for(auto num:vec){
             if(num%x!=rem)
                return -1;
         }
-        sort(vec.begin(),vec.end());
         int median=vec[vec.size()/2];
         int cnt=0;
          for(auto num:vec){
