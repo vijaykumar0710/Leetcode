@@ -6,7 +6,7 @@ public:
         priority_queue<long long,vector<long long>,greater<long long>>minPq;
        unsigned long long sum=0;
         for(int i=0;i<n-1;i++){
-           sum=(long long)weights[0]+weights[i]+(long long)weights[i+1]+weights[n-1];
+           sum=(long long)weights[i]+(long long)weights[i+1];
             maxPq.push(sum);
             minPq.push(sum);
         }
