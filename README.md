@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vijaykumar0710/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vijaykumar0710/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vijaykumar0710/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vijaykumar0710/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vijaykumar0710/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vijaykumar0710/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/vijaykumar0710/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/vijaykumar0710/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vijaykumar0710/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2681-put-marbles-in-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vijaykumar0710/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/vijaykumar0710/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2681-put-marbles-in-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vijaykumar0710/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/vijaykumar0710/Leetcode/tree/master/2803-modify-graph-edge-weights) |
