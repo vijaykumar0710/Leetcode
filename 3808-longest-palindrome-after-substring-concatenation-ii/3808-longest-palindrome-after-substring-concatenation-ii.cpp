@@ -31,10 +31,7 @@ public:
 		for(int i = 0; i < n; i++) {
 			for(int j = m-1; j >= 0; j--) {
 				if(s[i] == t[j]) {
-					if(i > 0 && j < m-1)
-						dp[i][j] = max(dp[i][j], dp[i-1][j+1] + 2);
-					else
-						dp[i][j] = 2;
+					dp[i][j] =(i>0 && j<m-1)? dp[i-1][j+1]+2:2;
 					int extra = 0;
 					if(i + 1 < n) extra = max(extra, maxs[i+1]);
 					if(j - 1 >= 0) extra = max(extra, maxt[j-1]);
