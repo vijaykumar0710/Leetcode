@@ -1,31 +1,36 @@
 class Solution {
 public:
-void backtrack(string &s,unordered_set<string>&st,int idx,vector<string>&res,vector<string>&word){
-if(idx==s.size()){
-    string temp=word[0];
-  for(int k=1;k<word.size();k++){
-     temp=temp+" "+word[k];
-  }
-  res.push_back(temp);
-  return;
-   }
-   for(int i=idx;i<s.size();i++){
-    string sub=s.substr(idx,i-idx+1);
-    if(st.find(sub)!=st.end()){
-        word.push_back(sub);
-        backtrack(s,st,i+1,res,word);
-        word.pop_back();
-     }
-   }
-}
-    vector<string> wordBreak(string s, vector<string>& wordDict) {
-        vector<string>res;
-        vector<string>word;
-        unordered_set<string>st;
-        for(auto &ch:wordDict){
-            st.insert(ch);
+ bool isPresent(string &s, unordered_set<string>& st, int start, int i) {
+        return st.find(s.substr(start, i - start + 1)) != st.end();
+    }
+    void solve(string &s, int start, unordered_set<string>& st, int n, vector<string>& curr, vector<vector<string>>& res) {
+        if (start >= s.size()) {
+            res.push_back(curr);
+            return;
         }
-        backtrack(s,st,0,res,word);
-        return res;
+        for (int i = start; i < n; i++) {
+            if (isPresent(s, st, start, i)) {
+                curr.push_back(s.substr(start, i - start + 1));
+                solve(s, i + 1, st, n, curr, res);
+                curr.pop_back();
+            }
+        }
+    }
+    vector<string> wordBreak(string s, vector<string>& wordDict) {
+        int n = s.size();
+        unordered_set<string> st(wordDict.begin(), wordDict.end());
+        vector<vector<string>> res;
+        vector<string> curr;
+        solve(s, 0, st, n, curr, res);
+
+       vector<string>ans;
+        for (auto &words : res) {
+           string curr=words[0];
+            for (int i=1;i<words.size();i++) {
+            curr=curr+" "+words[i];
+            }
+            ans.push_back(curr);
+        }
+        return ans;
     } 
 };
