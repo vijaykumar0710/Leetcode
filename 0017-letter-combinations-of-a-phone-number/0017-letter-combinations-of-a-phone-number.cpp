@@ -1,37 +1,31 @@
 class Solution {
 public:
-    vector<string> letterCombinations(string digits) {
-        vector<string> res;
-        
-        if (digits.empty()) {
-            return res;
-        }
-        
-        unordered_map<char, string> digitToLetters = {
-            {'2', "abc"},
-            {'3', "def"},
-            {'4', "ghi"},
-            {'5', "jkl"},
-            {'6', "mno"},
-            {'7', "pqrs"},
-            {'8', "tuv"},
-            {'9', "wxyz"}
-        };
-        
-        backtrack(digits, 0, "", res, digitToLetters);
-        
-        return res;        
+void solve(string &s,unordered_map<char,string>&mp,int idx,string &curr,vector<string>&ans){
+    if(idx==s.size()){
+        ans.push_back(curr);
+        return;
     }
-
-    void backtrack(const string& digits, int idx, string comb, vector<string>& res, const unordered_map<char, string>& digitToLetters) {
-        if (idx == digits.length()) {
-            res.push_back(comb);
-            return;
-        }
-        
-        string letters = digitToLetters.at(digits[idx]);
-        for (char letter : letters) {
-            backtrack(digits, idx + 1, comb + letter, res, digitToLetters);
-        }
-    }    
+    char ch=s[idx];
+    for(auto letter:mp[ch]){
+        curr+=letter;
+        solve(s,mp,idx+1,curr,ans);
+        curr.pop_back();
+    }
+}
+    vector<string> letterCombinations(string digits) {
+        if(digits.size()==0) return {};
+        vector<string>ans;
+        unordered_map<char,string>mp;
+        mp['2']={"abc"};
+        mp['3']={"def"};
+        mp['4']={"ghi"};
+        mp['5']={"jkl"};
+        mp['6']={"mno"};
+        mp['7']={"pqrs"};
+        mp['8']={"tuv"};
+        mp['9']={"wxyz"};
+        string curr;
+       solve(digits,mp,0,curr,ans);
+       return ans;
+    }
 };
