@@ -13,7 +13,7 @@ pair<int, TreeNode*> dfs(TreeNode* root) {
             return {left.first + 1, root};
         }
         // Return the subtree with greater depth
-        if (left.first > right.first) {
+        else if (left.first > right.first) {
             return {left.first + 1, left.second};
         } else {
             return {right.first + 1, right.second};
