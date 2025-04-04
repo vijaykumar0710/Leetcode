@@ -1,35 +1,32 @@
 class Solution {
 public:
- vector<vector<string>> ans;
-    bool col[10], row[10], diag1[20], diag2[20];
-
-    void dfs(vector<string>& cur, int n)
-    {
-        if (cur.size() == n)
-        {
-         ans.push_back(cur);
-            return;
-        }
-
-        int i = cur.size();
-        cur.push_back(string(n, '.'));
-        for (int j = 0; j < n; j++)
-        {
-            if (!col[j] && !diag1[i - j + 8] && !diag2[i + j])
-            {
-                cur[i][j] = 'Q';
-                col[j] = diag1[i - j + 8] = diag2[i + j] = true;
-                dfs(cur, n);
-                cur[i][j] = '.';
-                col[j] = diag1[i - j + 8] = diag2[i + j] = false;
-            }
-        }
-
-        cur.pop_back();
+unordered_set<int>cols,dia,antidia;
+void solve(int n,int row,int &cnt,vector<string>&curr){
+    if(row>=n){
+        cnt++;
+        return;
     }
+    for(int col=0;col<n;col++){
+        if(cols.find(col)==cols.end() && dia.find(row+col)==dia.end() && antidia.find(row-col)==antidia.end()){
+            curr[row][col]='Q';
+            cols.insert(col);
+            dia.insert(row+col);
+            antidia.insert(row-col);
+
+            solve(n,row+1,cnt,curr);
+
+            curr[row][col]='.';
+            cols.erase(col);
+            dia.erase(row+col);
+            antidia.erase(row-col);
+        }
+    }
+}
     int totalNQueens(int n) {
-         vector<string> cur;
-        dfs(cur, n);
-        return ans.size();
+        if(n==0) return {};
+        vector<string>curr(n,string(n,'.'));
+        int cnt=0;
+        solve(n,0,cnt,curr);
+        return cnt;
     }
 };
