@@ -16,10 +16,10 @@ class Solution {
         for(int i=0; i<n; i++){
             for(int j=i; j<n; j++){
                 int len= j-i+1;
-                if(len>k+1){
+                if(len>k+1){  //greedy
                     break;
                 }
-                if((len==k||len == k+1) && isPalindrome(s, i, j)){
+                if((len>=k) && isPalindrome(s, i, j)){
                     ans++; 
                     i=j;
                     break;
