@@ -14,7 +14,7 @@ public:
         }
         int maxWays=0;
         if(total%2==0){
-            maxWays=right[total/2];
+            maxWays=right[total/2]; //prefix[i]==total-prefix[i]=>prefix[i]=total/2
         }
         unordered_map<long long,int>left;
         for(int i=0;i<n;i++){
