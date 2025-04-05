@@ -2,13 +2,13 @@ class Solution {
 public:
     int waysToPartition(vector<int>& nums, int k) {
         int n = nums.size();
-        long long totalSum = accumulate(nums.begin(), nums.end(), 0LL);
 
         vector<long long> prefix(n);
         prefix[0] = nums[0];
         for (int i = 1; i < n; ++i) {
             prefix[i] = prefix[i - 1] + nums[i];
         }
+        long long totalSum=prefix[n-1];
 
         // Initial partition count without any change
         unordered_map<long long, int> right;
