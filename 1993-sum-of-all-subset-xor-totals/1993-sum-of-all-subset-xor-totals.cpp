@@ -1,28 +1,27 @@
 class Solution {
 public:
-void solve(vector<int>&nums,int i,vector<int>&currSubset,vector<vector<int>>& subsets){
-if(i==nums.size()){
-    subsets.push_back(currSubset);
-    return;
-}
-currSubset.push_back(nums[i]);
-solve(nums,i+1,currSubset,subsets);
-currSubset.pop_back();
-solve(nums,i+1,currSubset,subsets);
+void subset(vector<int>&nums,vector<vector<int>>&subsets,int n){
+for(int mask=0;mask<(1<<n);mask++){
+    vector<int>curr;
+    for(int i=0;i<n;i++){
+      if(mask & (1<<i))
+          curr.push_back(nums[i]);
+      }
+    subsets.push_back(curr);
+  }
 }
     int subsetXORSum(vector<int>& nums) {
-       vector<vector<int>>subsets;
-       vector<int>currSubset;
-       solve(nums,0,currSubset,subsets);
-
-       int result=0;
-       for(vector<int>& subset:subsets){
-        int Xor=0;
-        for(int &num:subset){
-            Xor^=num;
+        int n=nums.size();
+        vector<vector<int>>subsets;
+        subset(nums,subsets,n);
+        int sum=0;
+        for(auto &vec:subsets){
+            int temp=0;
+            for(auto &num:vec){
+                temp^=num;
+            }
+            sum+=temp;
         }
-        result+=Xor;
-       }
-       return result;
+        return sum;
     }
 };
