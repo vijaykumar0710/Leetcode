@@ -16,14 +16,15 @@ int solve(string &s,int k,int idx,int n){
         return 0;
     }
     if(t[idx]!=-1) return t[idx];
-    int res=solve(s,k,idx+1,n);
+    int skip=solve(s,k,idx+1,n);
+    int take=0;
     for(int j=idx+k-1;j<n;j++){
         if(isPalindrome(s,idx,j)){
-            res=max(res,1+solve(s,k,j+1,n));
+            take=1+solve(s,k,j+1,n);
             break;
         }
     }
-    return t[idx]=res;
+    return t[idx]=max(take,skip);
 }
     int maxPalindromes(string s, int k) {
         int n=s.size();
