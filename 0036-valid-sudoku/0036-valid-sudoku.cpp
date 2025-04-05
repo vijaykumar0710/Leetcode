@@ -1,54 +1,33 @@
 class Solution {
 public:
-bool traversal(vector<vector<char>>& board,int sr,int er,int sc,int ec){
-    unordered_set<char>sub_box;
-    for(int i=sr;i<=er;i++){
-            for(int j=sc;j<=ec;j++){
-                int num=board[i][j];
-                if(num=='.') continue;
-                if(sub_box.find(num)!=sub_box.end()){
-                    return false;
-                }
-                sub_box.insert(num);
+bool canbevalid(int row,int col,char num,vector<vector<char>>& board){
+    for(int  j=0;j<9;j++){
+        if(j!=col && board[row][j]==num)
+            return false;
+    }
+    for(int i=0;i<9;i++){
+        if(row!=i && board[i][col]==num)
+            return false;
+    }
+    int sr=(row/3)*3;
+    int sc=(col/3)*3;
+    for(int i=sr;i<sr+3;i++){
+        for(int j=sc;j<sc+3;j++){
+            if(row!=i && col!=j && board[i][j]==num)
+              return false;
+        }
+    }
+    return true;
+}
+    bool isValidSudoku(vector<vector<char>>& board) {
+       for(int i=0;i<9;i++){
+           for(int j=0;j<9;j++){
+            if(board[i][j]!='.'){ 
+              bool res=canbevalid(i,j,board[i][j],board);
+              if(res==false) return false;
             }
+           }
         }
         return true;
-    }
-    bool isValidSudoku(vector<vector<char>>& board) {
-        // check row
-        for(int row=0;row<9;row++){
-            unordered_set<char>rows;
-            for(int col=0;col<9;col++){
-                int num=board[row][col];
-                if(num=='.') continue;
-                if(rows.find(num)!=rows.end()){
-                    return false;
-                }
-                rows.insert(num);
-            }
-        }
-           // check column
-        for(int col=0;col<9;col++){
-            unordered_set<char>cols;
-            for(int row=0;row<9;row++){
-                int num=board[row][col];
-                if(num=='.') continue;
-                if(cols.find(num)!=cols.end()){
-                    return false;
-                }
-                cols.insert(num);
-            }
-        }
-            // check sub-box
-            for(int sr=0;sr<9;sr+=3){
-                int er=sr+2;
-                for(int sc=0;sc<9;sc+=3){
-                    int ec=sc+2;
-                    if(!traversal(board,sr,er,sc,ec)){
-                        return false;
-                    }
-                }
-            }
-            return true;
     }
 };
