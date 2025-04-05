@@ -18,8 +18,8 @@ int solve(string &s,int k,int idx,int n){
     if(t[idx]!=-1) return t[idx];
     int skip=solve(s,k,idx+1,n);
     int take=0;
-    for(int j=idx+k-1;j<n;j++){
-        if(isPalindrome(s,idx,j)){
+    for(int j=idx;j<n;j++){
+        if(j-idx+1>=k && isPalindrome(s,idx,j)){
             take=1+solve(s,k,j+1,n);
             break;
         }
