@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaykumar0710/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/vijaykumar0710/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2721-sum-of-distances](https://github.com/vijaykumar0710/Leetcode/tree/master/2721-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/vijaykumar0710/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijaykumar0710/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaykumar0710/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2721-sum-of-distances](https://github.com/vijaykumar0710/Leetcode/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vijaykumar0710/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -2171,6 +2173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vijaykumar0710/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/vijaykumar0710/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2721-sum-of-distances](https://github.com/vijaykumar0710/Leetcode/tree/master/2721-sum-of-distances) |
 | [3427-special-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3643-zero-array-transformation-ii) |
