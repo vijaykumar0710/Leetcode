@@ -2,7 +2,6 @@ class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
         int n=nums.size();
-        cout<<n<<endl;
         int mini=nums[0],min_idx=0;
         int maxi=nums[0],max_idx=0;
         for(int i=1;i<n;i++){
@@ -15,15 +14,7 @@ public:
                 max_idx=i;
             }
         }
-        cout<<max_idx<<endl;
-        cout<<min_idx;
-        if(min_idx<n/2 && max_idx<n/2){
-            return max(min_idx,max_idx)+1;
-        }
-       else if(min_idx>n/2 && max_idx>n/2){
-            return n-min(min_idx,max_idx);
-        }
-        else if(max_idx==n/2 || min_idx==n/2){
+         if(max_idx==n/2 || min_idx==n/2){
             if(n%2==0 && (max_idx>n/2 || min_idx>n/2)) return n/2;
             else return (n/2)+1;
         }
