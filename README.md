@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vijaykumar0710/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vijaykumar0710/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vijaykumar0710/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vijaykumar0710/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijaykumar0710/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/vijaykumar0710/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vijaykumar0710/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaykumar0710/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/vijaykumar0710/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
