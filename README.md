@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vijaykumar0710/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaykumar0710/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2240-intervals-between-identical-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/vijaykumar0710/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vijaykumar0710/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaykumar0710/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2240-intervals-between-identical-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaykumar0710/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -2177,6 +2179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaykumar0710/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2145-grid-game](https://github.com/vijaykumar0710/Leetcode/tree/master/2145-grid-game) |
+| [2240-intervals-between-identical-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
