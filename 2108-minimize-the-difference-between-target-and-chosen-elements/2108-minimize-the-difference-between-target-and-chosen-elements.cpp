@@ -1,10 +1,10 @@
 class Solution {
 public:
     // Function to compute all possible sums from the left half
-    unordered_set<int> computeLeftSums(const vector<vector<int>>& mat, int mid) {
+    unordered_set<int> computeLeftSums(vector<vector<int>>& mat, int mid) {
         unordered_set<int> sums = {0};
 
-        for (int i = 0; i < mid; ++i) {
+        for (int i = 0; i < mid; i++) {
             unordered_set<int> temp;
             for (int val : mat[i]) {
                 for (int sum : sums) {
@@ -18,10 +18,10 @@ public:
     }
 
     // Function to compute all possible sums from the right half
-    unordered_set<int> computeRightSums(const vector<vector<int>>& mat, int mid, int m) {
+    unordered_set<int> computeRightSums(vector<vector<int>>& mat, int mid, int m) {
         unordered_set<int> sums = {0};
 
-        for (int i = mid; i < m; ++i) {
+        for (int i = mid; i < m; i++) {
             unordered_set<int> temp;
             for (int val : mat[i]) {
                 for (int sum : sums) {
@@ -59,7 +59,7 @@ public:
                 ans = min(ans, abs(leftSum + *it - target));
             }
             if (it != rightSums.begin()) {
-                --it;
+                it--;
                 ans = min(ans, abs(leftSum + *it - target));
             }
         }
