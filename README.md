@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/vijaykumar0710/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vijaykumar0710/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vijaykumar0710/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vijaykumar0710/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/vijaykumar0710/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1961-maximum-ice-cream-bars](https://github.com/vijaykumar0710/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/vijaykumar0710/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vijaykumar0710/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vijaykumar0710/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -2040,6 +2044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1839-decode-xored-array) |
+| [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/vijaykumar0710/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaykumar0710/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -2479,6 +2484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/vijaykumar0710/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Doubly-Linked List
 |  |
