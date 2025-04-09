@@ -1239,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vijaykumar0710/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1542-consecutive-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vijaykumar0710/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/vijaykumar0710/Leetcode/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
