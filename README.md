@@ -1261,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/vijaykumar0710/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vijaykumar0710/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaykumar0710/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vijaykumar0710/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
