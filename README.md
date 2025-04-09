@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/vijaykumar0710/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vijaykumar0710/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1472-increasing-decreasing-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vijaykumar0710/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/vijaykumar0710/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/vijaykumar0710/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1472-increasing-decreasing-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vijaykumar0710/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vijaykumar0710/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1808,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/vijaykumar0710/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vijaykumar0710/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vijaykumar0710/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1472-increasing-decreasing-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
