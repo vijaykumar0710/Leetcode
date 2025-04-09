@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vijaykumar0710/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vijaykumar0710/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vijaykumar0710/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vijaykumar0710/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vijaykumar0710/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
