@@ -1264,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaykumar0710/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vijaykumar0710/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vijaykumar0710/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vijaykumar0710/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vijaykumar0710/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaykumar0710/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
