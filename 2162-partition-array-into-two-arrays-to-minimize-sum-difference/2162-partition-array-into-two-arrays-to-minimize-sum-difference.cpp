@@ -24,7 +24,7 @@ public:
         vector<int> left(nums.begin(), nums.begin() + half);
         vector<int> right(nums.begin() + half, nums.end());
 
-        unordered_map<int, vector<int>> leftGrouped, rightGrouped;
+        unordered_map<int, vector<int>> leftGrouped(half+1), rightGrouped(half+1);
         generateGroupedSums(left, leftGrouped);
         generateGroupedSums(right, rightGrouped);
 
@@ -37,8 +37,8 @@ public:
 
         // Try all combinations of picking i from left and (half - i) from right
         for (int i = 0; i <= half; i++) {
-            const auto& leftSums = leftGrouped[i];
-            const auto& rightSums = rightGrouped[half - i];
+             auto& leftSums = leftGrouped[i];  
+             auto& rightSums = rightGrouped[half - i];
 
             for (int l : leftSums) {
                 int remaining = totalSum / 2 - l;
