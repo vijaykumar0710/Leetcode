@@ -1,69 +1,63 @@
 class Solution {
 public:
+    // Function to generate all subset sums grouped by number of elements chosen
+    void generateGroupedSums(vector<int>& arr, unordered_map<int, vector<int>>& grouped) {
+        int n = arr.size();
+        for (int mask = 0; mask < (1 << n); mask++) {
+            int sum = 0;
+            int count = 0;
+            for (int i = 0; i < n; i++) {
+                if (mask & (1 << i)) {
+                    sum += arr[i];
+                    count++;
+                }
+            }
+            grouped[count].push_back(sum);
+        }
+    }
+
     int minimumDifference(vector<int>& nums) {
         int n = nums.size();
-        int half = n / 2;
         int totalSum = accumulate(nums.begin(), nums.end(), 0);
+        int half = n / 2;
 
-        // Subset sums grouped by element count
-        vector<vector<int>> leftSums(half + 1), rightSums(half + 1);
+        vector<int> left(nums.begin(), nums.begin() + half);
+        vector<int> right(nums.begin() + half, nums.end());
 
-        // Generate all subset sums for left half
-        for (int mask = 0; mask < (1 << half); ++mask) {
-            int sum = 0, count = 0;
-            for (int j = 0; j < half; ++j) {
-                if (mask & (1 << j)) {
-                    sum += nums[j];
-                    count++;
-                }
-            }
-            leftSums[count].push_back(sum);
-        }
+        unordered_map<int, vector<int>> leftGrouped, rightGrouped;
+        generateGroupedSums(left, leftGrouped);
+        generateGroupedSums(right, rightGrouped);
 
-        // Generate all subset sums for right half
-        for (int mask = 0; mask < (1 << (n - half)); ++mask) {
-            int sum = 0, count = 0;
-            for (int j = 0; j < (n - half); ++j) {
-                if (mask & (1 << j)) {
-                    sum += nums[half + j];
-                    count++;
-                }
-            }
-            rightSums[count].push_back(sum);
-        }
-
-        for (int i = 0; i <= half; ++i) {
-            sort(rightSums[i].begin(), rightSums[i].end());
+        // Sort all vectors in rightGrouped for binary search
+        for (auto& [_, vec] : rightGrouped) {
+            sort(vec.begin(), vec.end());
         }
 
         int res = INT_MAX;
 
-        // Try combining i elements from left with (half - i) from right
-        for (int i = 0; i <= half; ++i) {
-            for (int lSum : leftSums[i]) {
-                int rCount = half - i;
-                const auto& rVec = rightSums[rCount];
+        // Try all combinations of picking i from left and (half - i) from right
+        for (int i = 0; i <= half; i++) {
+            const auto& leftSums = leftGrouped[i];
+            const auto& rightSums = rightGrouped[half - i];
 
-                int target = totalSum / 2 - lSum;
+            for (int l : leftSums) {
+                int remaining = totalSum / 2 - l;
 
-                // Binary search to find closest rSum
-                auto it = lower_bound(rVec.begin(), rVec.end(), target);
-                
-                // check it and previous (if exists)
-                if (it != rVec.end()) {
-                    int pickedSum = lSum + *it;
-                    int otherSum = totalSum - pickedSum;
-                    res = min(res, abs(pickedSum - otherSum));
+                auto it = lower_bound(rightSums.begin(), rightSums.end(), remaining);
+
+                if (it != rightSums.end()) {
+                    int s = l + *it;
+                    int diff = abs(totalSum - 2 * s);
+                    res = min(res, diff);
                 }
-                if (it != rVec.begin()) {
+                if (it != rightSums.begin()) {
                     --it;
-                    int pickedSum = lSum + *it;
-                    int otherSum = totalSum - pickedSum;
-                    res = min(res, abs(pickedSum - otherSum));
+                    int s = l + *it;
+                    int diff = abs(totalSum - 2 * s);
+                    res = min(res, diff);
                 }
             }
         }
-
         return res;
     }
 };
