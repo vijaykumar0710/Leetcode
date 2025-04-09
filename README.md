@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vijaykumar0710/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/vijaykumar0710/Leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0697-degree-of-an-array) |
