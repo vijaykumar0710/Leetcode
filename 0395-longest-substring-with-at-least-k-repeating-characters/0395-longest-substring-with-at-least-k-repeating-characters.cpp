@@ -1,19 +1,23 @@
 class Solution {
 public:
-    int longestSubstring(string s, int k) {
-      int n=s.size();
-     if(n==0) return 0;
-     unordered_map<char,int>freq;
-     for(auto ch:s){
-        freq[ch]++;
+    int helper(string& s, int k, int start, int end) {
+        if (end - start < k) return 0;
+
+        unordered_map<char, int> freq;
+        for (int i = start; i < end; i++) {
+            freq[s[i]]++;
         }
-        for(int i=0;i<n;i++){
-            if(freq[s[i]]<k){
-                int left=longestSubstring(s.substr(0,i),k);
-                int right=longestSubstring(s.substr(i+1),k);
-                 return max(left,right);
+
+        for (int i = start; i < end; i++) {
+            if (freq[s[i]] < k) {
+                return max(helper(s, k, start, i), helper(s, k, i + 1, end));
             }
         }
-        return n; 
+
+        return end - start;
+    }
+
+    int longestSubstring(string s, int k) {
+        return helper(s, k, 0, s.size());
     }
 };
