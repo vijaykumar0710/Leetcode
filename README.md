@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2757-count-of-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/2757-count-of-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vijaykumar0710/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/vijaykumar0710/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -2420,6 +2421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/vijaykumar0710/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/vijaykumar0710/Leetcode/tree/master/3221-find-the-peaks) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Brainteaser
