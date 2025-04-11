@@ -1,29 +1,38 @@
 class Solution {
 public:
-int res=0;
-int mini=INT_MAX;
- int twoSum(vector<int>& nums, int k,int x,int target) {
-        int i = k, j = nums.size()-1;
-        while(i < j) {
-            int diff=abs((nums[i]+nums[j]-x));
-                if(diff<mini){
-                    mini=diff;
-                    res=nums[i]+nums[j]+(target-x);
-                }
-            if(nums[i]+nums[j] > x) j--;
-            else if(nums[i] + nums[j] < x) i++;
+    void twoSum(vector<int>& nums, int k, int x, int& res, int& mini, int target) {
+        int i = k, j = nums.size() - 1;
+        while (i < j) {
+            int currentSum = nums[i] + nums[j];
+            int totalSum = currentSum + (target - x); // = nums[i] + nums[j] + nums[k]
+            int diff = abs(totalSum - target);
+
+            if (diff < mini) {
+                mini = diff;
+                res = totalSum;
+            }
+
+            if (currentSum > x) j--;
+            else if (currentSum < x) i++;
             else {
-               return target;
+                res = target;
+                mini = 0;
+                return;
             }
         }
-        return -1;
     }
+
     int threeSumClosest(vector<int>& nums, int target) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
-         for(int i = 0; i<nums.size()-2; i++) {  //(i<nums.size()-2)Things you must not forget in interviews
-            twoSum(nums, i+1, target-nums[i],target);
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
+        int res = nums[0] + nums[1] + nums[2]; // better default guess
+        int mini = INT_MAX;
+
+        for (int i = 0; i < n - 2; i++) {
+            twoSum(nums, i + 1, target - nums[i], res, mini, target);
+            if (mini == 0) break; // exact match found
         }
+
         return res;
     }
 };
