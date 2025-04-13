@@ -16,6 +16,6 @@ int DPT(TreeNode* root,int &res){
     int diameterOfBinaryTree(TreeNode* root) {
         int res=INT_MIN;
         DPT(root,res);
-        return res-1;
+        return res-1; //-1 bcoz of number of edges not nodes
     }
 };
