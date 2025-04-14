@@ -28,6 +28,7 @@ void computeLPS(string &pattern,vector<int>&LPS){
         string pattern=s+"_"+rev;
         vector<int>LPS(pattern.size());
         computeLPS(pattern,LPS);
-        return rev.substr(0,n-LPS[pattern.size()-1])+s;
+        int longestLPSlen=LPS[pattern.size()-1];
+        return rev.substr(0,n-longestLPSlen)+s;
     }
 };
