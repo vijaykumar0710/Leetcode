@@ -891,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/vijaykumar0710/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -1342,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3379-score-of-a-string) |
@@ -2062,6 +2064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -2475,18 +2478,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vijaykumar0710/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0214-shortest-palindrome) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/Leetcode/tree/master/0214-shortest-palindrome) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
