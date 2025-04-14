@@ -12,11 +12,11 @@ public:
             return;
         }
         
-        if (number == 2) {
-            bitCount[0]++;
-            bitCount[1]++;
-            return;
-        }
+        // if (number == 2) {
+        //     bitCount[0]++;
+        //     bitCount[1]++;
+        //     return;
+        // }
 
         ll bitLen          = log2(number);
         ll nearestPowerTwo = (1ll << bitLen);
