@@ -1,10 +1,11 @@
 class Solution {
 public:
     string shortestPalindrome(string s) {
+        int n=s.size();
         string rev=s;
-        reverse(begin(rev),end(rev));
-        for(int i=0;i<s.length();i++){
-            if(!memcmp(s.c_str(),rev.c_str()+i,s.length()-i)){
+        reverse(rev.begin(),rev.end());
+        for(int i=0;i<n;i++){
+            if(memcmp(s.c_str()+0,rev.c_str()+i,n-i)==0){
                 return rev.substr(0,i)+s;
             }
         }
