@@ -1,61 +1,51 @@
 class Solution {
 public:
-    typedef long long ll;
-    vector<ll> bitCount;
+typedef long long ll;
 
-    void getBits(ll number) {
-        if (number == 0)
-            return;
-        
-        if (number == 1) {
-            bitCount[0]++;
-            return;
-        }
-        
-        // if (number == 2) {
-        //     bitCount[0]++;
-        //     bitCount[1]++;
-        //     return;
-        // }
+vector<ll>bitcount;
 
-        ll bitLen          = log2(number);
-        ll nearestPowerTwo = (1ll << bitLen);
-        bitCount[bitLen]  += (number - nearestPowerTwo + 1);
-
-        for (ll i = 0; i < bitLen; i++) {
-            bitCount[i] += (nearestPowerTwo / 2);
-        }
-
-        number = number - nearestPowerTwo;
-        getBits(number);
+void getBits(ll num){
+    if(num==0) return;
+    if(num==1){
+        bitcount[0]++;
+        return;
     }
+    ll bitlen=log2(num);
+    ll nearestpow2=(1ll<<bitlen);
+    bitcount[bitlen]+=(num-nearestpow2+1); //filling lastbit 1-indexed
+    for(ll i=0;i<bitlen;i++){         // filling remaining bits
+        bitcount[i]+=(nearestpow2/2);
+    }
+    // filling rightmost part
+    num=num-nearestpow2;
+    getBits(num);
+}
 
-    ll findMaximumNumber(ll threshold, int divisor) {
-        ll low = 0, high = 1e15;
-        
-        ll result = 0;
-        while (low <= high) {
-            ll mid = low + (high - low) / 2;
+    long long findMaximumNumber(long long k, int x) {
+        ll low=0, high=1e15;
+
+        ll result=0;
+
+        while(low<=high){
+            ll mid=low+(high-low)/2;
             
-            bitCount = vector<ll>(65, 0);
-            
+            bitcount=vector<ll>(65,0);
             getBits(mid);
 
-            ll accumulatedCount = 0;
-            
-            for (ll i = 0; i < log2(mid)+1; i++) {
-                if ((i + 1) % divisor == 0) 
-                    accumulatedCount += bitCount[i];
-            }
+            ll accumulatedcount=0;
 
-            if (accumulatedCount <= threshold) {
-                result = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+            for(ll i=0;i<(log2(mid)+1);i++){
+                if((i+1)%x==0){
+                    accumulatedcount+=bitcount[i];
+                }
+            }
+            if(accumulatedcount<=k){
+                result=mid;
+                low=mid+1;
+            }else{
+                high=mid-1;
             }
         }
-
         return result;
     }
 };
