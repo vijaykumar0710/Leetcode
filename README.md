@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vijaykumar0710/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vijaykumar0710/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1832,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -2054,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/vijaykumar0710/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vijaykumar0710/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -2389,6 +2392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vijaykumar0710/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2422,6 +2426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/vijaykumar0710/Leetcode/tree/master/1511-count-number-of-teams) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3438-peaks-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3438-peaks-in-array) |
 ## Geometry
@@ -2505,6 +2510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3438-peaks-in-array](https://github.com/vijaykumar0710/Leetcode/tree/master/3438-peaks-in-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -2514,6 +2520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/vijaykumar0710/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2280-count-good-triplets-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/vijaykumar0710/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/vijaykumar0710/Leetcode/tree/master/2447-merge-similar-items) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2868-continuous-subarrays) |
