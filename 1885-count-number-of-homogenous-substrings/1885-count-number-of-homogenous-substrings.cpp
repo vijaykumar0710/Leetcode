@@ -16,7 +16,7 @@ const int MOD=1e9+7;
         group.push_back(cnt);
         long long res=0;
         for(auto &n:group){
-            res=(res+(n*1LL*(n+1))/2)%MOD;
+            res=(res+(1LL*n*(n+1))/2)%MOD;
         }
         return res;
     }
