@@ -50,19 +50,21 @@ bool KMP(string &txt,string &pattern,vector<int>&bLPS){
             return 1;
         
         string st="";
-        while(st.size()<b.size()){
+        while(st.size()<1e4+1*b.size()){
             st+=a;
             cnt++;
+            if(KMP(st, b, bLPS))
+            return cnt;
         }
         
-        if(KMP(st, b, bLPS))
-            return cnt;
+        // if(KMP(st, b, bLPS))
+        //     return cnt;
 
-        st += a;
-        cnt++;
+        // st += a;
+        // cnt++;
 
-        if(KMP(st, b, bLPS))
-            return cnt;
+        // if(KMP(st, b, bLPS))
+        //     return cnt;
         return -1;
     }
 };
