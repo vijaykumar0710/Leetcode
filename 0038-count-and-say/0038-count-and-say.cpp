@@ -1,8 +1,9 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        if(n==1) return "1";
-        string str=countAndSay(n-1);
+        if(n==1) return "1";  //base case
+        string str=countAndSay(n-1);  //hypothesis
+        //Induction step by grouping
         string res="";
         int freq=1;
         char ch=str[0];
