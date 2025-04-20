@@ -1,24 +1,21 @@
 class Solution {
 public:
-void solve(vector<int>& nums,int idx,set<vector<int>>&subset,vector<int>&vec){
+void solve(vector<int>& nums,int idx,vector<vector<int>>&res,vector<int>&vec){
 if(idx==nums.size()){
-    subset.insert(vec);
+    res.push_back(vec);
     return;
    }
-   solve(nums,idx+1,subset,vec);
+   solve(nums,idx+1,res,vec);
     vec.push_back(nums[idx]);
-    solve(nums,idx+1,subset,vec);
+    solve(nums,idx+1,res,vec);
     vec.pop_back();
 }
     vector<vector<int>> subsets(vector<int>& nums) {
-         set<vector<int>>subset;
         vector<int>vec;
-        sort(nums.begin(),nums.end());
-        solve(nums,0,subset,vec);
         vector<vector<int>>res;
-        for(auto &temp:subset){
-          res.push_back(temp);
-        }
+        sort(nums.begin(),nums.end());
+        solve(nums,0,res,vec);
+     //   sort(res.begin(),res.end());
         return res;
     }
 };
