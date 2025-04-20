@@ -19,6 +19,7 @@ if(idx==nums.size()){
         for(auto &temp:subset){
           res.push_back(temp);
         }
+        sort(res.begin(),res.end());
         return res;
     }
 };
