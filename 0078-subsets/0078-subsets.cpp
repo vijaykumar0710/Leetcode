@@ -15,7 +15,7 @@ if(idx==nums.size()){
         vector<vector<int>>res;
         sort(nums.begin(),nums.end());
         solve(nums,0,res,vec);
-     //   sort(res.begin(),res.end());
+        sort(res.begin(),res.end());
         return res;
     }
 };
