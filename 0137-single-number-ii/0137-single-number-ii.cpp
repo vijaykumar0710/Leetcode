@@ -1,12 +1,19 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ones=0;
-        int twos=0;
-        for(int i=0;i<nums.size();i++){
-            ones=(ones^nums[i])&~(twos);
-            twos=(twos^nums[i])&~(ones);
+        int res=0;
+        for(int k=0;k<=31;k++){
+            int temp=(1<<k);
+            int zeros=0,ones=0;
+            for(auto &num:nums){
+                if((num & temp)!=0)
+                   ones++;
+                else zeros++;
+            }
+            if(ones%3==1){
+                res=(res|temp);
+            }
         }
-        return ones;
+        return res;
     }
 };
