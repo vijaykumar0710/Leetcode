@@ -1,25 +1,23 @@
 class Solution {
 public:
-int t[301][11];
-int solve(vector<int>&jobDifficulty,int n,int idx,int d){
-    if(d==1){
-        return *max_element(begin(jobDifficulty)+idx,end(jobDifficulty));
-    }
-   if(t[idx][d]!=-1) return t[idx][d];
+int dfs(int i, int d, vector<int>& jobs, vector<vector<int>>& dp) {
+    if (d == 0 && i == jobs.size()) return 0;
+    if (d == 0 || i == jobs.size()) return 1e9;
+    if (dp[i][d] != -1) return dp[i][d];
 
-    int Max=INT_MIN;
-    int result=INT_MAX;
-  
-    for(int i=idx;i<=n-d;i++){
-        Max=max(Max,jobDifficulty[i]);
-        result=min(result,Max+solve(jobDifficulty,n,i+1,d-1));
+    int maxJob = 0, res = 1e9;
+
+    for (int j = i; j <= jobs.size() - d; j++) {
+        maxJob = max(maxJob, jobs[j]);
+        res = min(res, maxJob + dfs(j + 1, d - 1, jobs, dp));
     }
-    return t[idx][d]=result;
+
+    return dp[i][d] = res;
 }
     int minDifficulty(vector<int>& jobDifficulty, int d) {
-        int n=jobDifficulty.size();
-        if(n<d) return -1;
-        memset(t,-1,sizeof(t));
-        return solve(jobDifficulty,n,0,d);
+    int n = jobDifficulty.size();
+    if (n < d) return -1;
+    vector<vector<int>> dp(n + 1, vector<int>(d + 1, -1));
+    return dfs(0, d, jobDifficulty, dp);
     }
 };
