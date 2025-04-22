@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/vijaykumar0710/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -1472,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/vijaykumar0710/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/vijaykumar0710/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/vijaykumar0710/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -2387,6 +2389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijaykumar0710/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Topological Sort
@@ -2470,6 +2473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vijaykumar0710/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vijaykumar0710/Leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vijaykumar0710/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vijaykumar0710/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
