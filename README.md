@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3830-find-closest-person](https://github.com/vijaykumar0710/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
