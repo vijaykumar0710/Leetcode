@@ -875,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vijaykumar0710/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vijaykumar0710/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1972-rotating-the-box) |
@@ -1308,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/vijaykumar0710/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vijaykumar0710/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
