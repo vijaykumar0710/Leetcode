@@ -26,31 +26,26 @@ public:
         map<int, int> mp;
         
         while (j < n) {
-            // If the current number is outside the range [minK, maxK], move `j` and reset `i`
             if (nums[j] < minK || nums[j] > maxK) {
                 j++;
-                i = j;  // Reset the sliding window start to the current position
-                mp.clear();  // Clear the map to start fresh
+                i = j;  
+                mp.clear();  
             } else {
-                // Count valid subarrays when both minK and maxK are present in the window
                 mp[nums[j]]++;
                 
-                // If both minK and maxK are in the current window, check for valid subarrays
                 while (!mp.empty() && mp.count(minK) && mp.count(maxK)) {
                     if (j + 1 < n) {
                         cnt += (1 + vec[j + 1]);
                     } else {
                         cnt++;
                     }
-                    
-                    // Slide the window by removing the element at `i`
                     mp[nums[i]]--;
                     if (mp[nums[i]] == 0) {
                         mp.erase(nums[i]);
                     }
-                    i++;  // Move `i` to shrink the window from the left
+                    i++;  
                 }
-                j++;  // Expand the window by moving `j`
+                j++;  
             }
         }
 
