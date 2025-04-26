@@ -15,7 +15,6 @@ public:
             }
         }
     }
-
     long long countSubarrays(vector<int>& nums, int minK, int maxK) {
         int n = nums.size();
         vector<int> vec(n, 0);
@@ -32,7 +31,6 @@ public:
                 mp.clear();  
             } else {
                 mp[nums[j]]++;
-                
                 while (!mp.empty() && mp.count(minK) && mp.count(maxK)) {
                     if (j + 1 < n) {
                         cnt += (1 + vec[j + 1]);
@@ -48,7 +46,6 @@ public:
                 j++;  
             }
         }
-
         return cnt;
     }
 };
