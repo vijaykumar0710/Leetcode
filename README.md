@@ -1300,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1472-increasing-decreasing-string](https://github.com/vijaykumar0710/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vijaykumar0710/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/vijaykumar0710/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vijaykumar0710/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1524-string-matching-in-an-array) |
