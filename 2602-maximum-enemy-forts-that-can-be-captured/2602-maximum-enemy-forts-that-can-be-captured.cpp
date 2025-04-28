@@ -4,8 +4,8 @@ public:
         int n=forts.size();
        vector<pair<int,int>>group;
        int cnt=1;
-       int i=1;
-       for(;i<n;i++){
+       int i;
+       for(i=1;i<n;i++){
         if(forts[i]==forts[i-1]){
             cnt++;
         }else{
