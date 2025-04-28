@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vijaykumar0710/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vijaykumar0710/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vijaykumar0710/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/vijaykumar0710/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vijaykumar0710/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vijaykumar0710/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaykumar0710/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vijaykumar0710/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
