@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vijaykumar0710/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/vijaykumar0710/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2561-number-of-distinct-averages](https://github.com/vijaykumar0710/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/vijaykumar0710/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vijaykumar0710/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/vijaykumar0710/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vijaykumar0710/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2561-number-of-distinct-averages](https://github.com/vijaykumar0710/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vijaykumar0710/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vijaykumar0710/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/vijaykumar0710/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-minimum-total-distance-traveled](https://github.com/vijaykumar0710/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2561-number-of-distinct-averages](https://github.com/vijaykumar0710/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijaykumar0710/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vijaykumar0710/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
