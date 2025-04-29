@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/vijaykumar0710/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/vijaykumar0710/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/vijaykumar0710/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/vijaykumar0710/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vijaykumar0710/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vijaykumar0710/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -1903,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vijaykumar0710/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaykumar0710/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vijaykumar0710/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/vijaykumar0710/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -2267,6 +2270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vijaykumar0710/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/vijaykumar0710/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vijaykumar0710/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vijaykumar0710/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
