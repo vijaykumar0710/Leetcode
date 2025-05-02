@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/vijaykumar0710/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/vijaykumar0710/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/vijaykumar0710/Leetcode/tree/master/0979-di-string-match) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/vijaykumar0710/Leetcode/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/vijaykumar0710/Leetcode/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/vijaykumar0710/Leetcode/tree/master/0889-buddy-strings) |
@@ -1485,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/vijaykumar0710/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0868-push-dominoes](https://github.com/vijaykumar0710/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vijaykumar0710/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/vijaykumar0710/Leetcode/tree/master/0909-stone-game) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/Leetcode/tree/master/0923-super-egg-drop) |
