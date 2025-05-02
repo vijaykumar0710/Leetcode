@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/vijaykumar0710/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/vijaykumar0710/Leetcode/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/vijaykumar0710/Leetcode/tree/master/0833-bus-routes) |
+| [0841-shortest-distance-to-a-character](https://github.com/vijaykumar0710/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/vijaykumar0710/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/vijaykumar0710/Leetcode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vijaykumar0710/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/vijaykumar0710/Leetcode/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/vijaykumar0710/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/vijaykumar0710/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/vijaykumar0710/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/vijaykumar0710/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -1299,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/vijaykumar0710/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/vijaykumar0710/Leetcode/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/vijaykumar0710/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/vijaykumar0710/Leetcode/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/vijaykumar0710/Leetcode/tree/master/0869-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/vijaykumar0710/Leetcode/tree/master/0878-shifting-letters) |
