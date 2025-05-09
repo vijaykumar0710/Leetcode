@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/vijaykumar0710/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3637-count-number-of-balanced-permutations](https://github.com/vijaykumar0710/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/vijaykumar0710/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/vijaykumar0710/Leetcode/tree/master/3830-find-closest-person) |
@@ -1449,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3636-check-balanced-string) |
+| [3637-count-number-of-balanced-permutations](https://github.com/vijaykumar0710/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3811-reverse-degree-of-a-string](https://github.com/vijaykumar0710/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -1567,6 +1569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/vijaykumar0710/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/vijaykumar0710/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3801-count-beautiful-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/3801-count-beautiful-numbers) |
 ## Stack
@@ -2497,6 +2500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/vijaykumar0710/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/vijaykumar0710/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/vijaykumar0710/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Topological Sort
 |  |
 | ------- |
