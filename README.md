@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/1240-stone-game-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/vijaykumar0710/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaykumar0710/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/vijaykumar0710/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/vijaykumar0710/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/vijaykumar0710/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/vijaykumar0710/Leetcode/tree/master/1325-path-with-maximum-probability) |
