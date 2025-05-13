@@ -18,7 +18,7 @@ int M=1e9+7;
                     temp['b'-'a']=(temp['b'-'a']+freq)%M;
                 }
             }
-            mp=(temp);
+            mp=move(temp);
         }
   int res=0;
   for(int i=0;i<26;i++){
