@@ -1,7 +1,6 @@
 class Solution {
 public:
-vector<int>ans;
-void merge(vector<pair<int,int>>&arr,int l,int mid,int r){
+void merge(vector<pair<int,int>>&arr,int l,int mid,int r,vector<int>&ans){
       int n1 = mid - l + 1;
         int n2 = r - mid;
 
@@ -37,22 +36,22 @@ void merge(vector<pair<int,int>>&arr,int l,int mid,int r){
         }
 
   }
-void mergeSort(vector<pair<int,int>>&arr,int l,int r){
+void mergeSort(vector<pair<int,int>>&arr,int l,int r,vector<int>&ans){
         if(l>=r) return;
         int mid=l+(r-l)/2;
-        mergeSort(arr,l,mid);
-        mergeSort(arr,mid+1,r);
+        mergeSort(arr,l,mid,ans);
+        mergeSort(arr,mid+1,r,ans);
         
-        merge(arr,l,mid,r);
+        merge(arr,l,mid,r,ans);
     }
     vector<int> countSmaller(vector<int>& nums) {
         int n=nums.size();
-        ans.assign(n,0);
+        vector<int>ans(n,0);
         vector<pair<int,int>>pairs;
         for(int i=0;i<n;i++){
             pairs.push_back({nums[i],i});
         }
-         mergeSort(pairs,0,n-1);
+         mergeSort(pairs,0,n-1,ans);
         return ans;
     }
 };
