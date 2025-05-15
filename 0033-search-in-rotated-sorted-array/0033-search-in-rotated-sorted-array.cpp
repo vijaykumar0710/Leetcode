@@ -11,7 +11,7 @@ public:
             int next = (mid + 1) % n;
             int prev = (mid - 1 + n) % n;
 
-            if (nums[mid] < nums[prev] && nums[mid] < nums[next])
+            if (nums[mid] <= nums[prev] && nums[mid] <= nums[next])
                 return mid;
             else if (nums[mid] >= nums[l])
                 l = mid + 1;
