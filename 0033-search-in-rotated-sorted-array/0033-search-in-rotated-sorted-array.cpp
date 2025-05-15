@@ -27,13 +27,11 @@ public:
         if(nums[pivotIdx]==target) return pivotIdx;
         int idx = -1;
 
-        // First part: from 0 to pivotIdx - 1
         auto lo1 = lower_bound(nums.begin(), nums.begin() + pivotIdx, target);
         if (lo1 != nums.begin() + pivotIdx && *lo1 == target) {
             idx = lo1 - nums.begin();
         }
 
-        // Second part: from pivotIdx to n - 1
         if (idx == -1) {
             auto lo2 = lower_bound(nums.begin() + pivotIdx+1, nums.end(), target);
             if (lo2 != nums.end() && *lo2 == target) {
