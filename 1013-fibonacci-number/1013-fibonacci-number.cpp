@@ -17,8 +17,8 @@ Matrix matrixMulti(Matrix &A ,Matrix &B){
 
 Matrix matrixExpo(Matrix &base,int Expo){
     if(Expo==0){
-        Matrix identity(2,vector<long long>(2,0));
-        for(int i=0;i<2;i++){
+        Matrix identity(base.size(),vector<long long>(base[0].size(),0));
+        for(int i=0;i<base.size();i++){
             identity[i][i]=1;
         }
         return identity;
