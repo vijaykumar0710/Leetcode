@@ -2,7 +2,7 @@ class Solution {
 public:
     unordered_map<string, int> memo;
 
-    int dfs(int u, int k, int sum, int t, map<int, vector<pair<int, int>>>& graph) {
+    int dfs(int u, int k, int sum, int t, unordered_map<int, vector<pair<int, int>>>& graph) {
         if (k == 0) return (sum < t) ? sum : -1;
 
         string key = to_string(u) + "," + to_string(k) + "," + to_string(sum);
@@ -22,7 +22,7 @@ public:
     }
 
     int maxWeight(int n, vector<vector<int>>& edges, int k, int t) {
-        map<int, vector<pair<int,int>>> graph;
+       unordered_map<int, vector<pair<int,int>>> graph;
         for (auto &edge : edges) {
             int u = edge[0];
             int v = edge[1];
