@@ -881,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vijaykumar0710/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/vijaykumar0710/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/vijaykumar0710/Leetcode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1605,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/vijaykumar0710/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3801-count-beautiful-numbers](https://github.com/vijaykumar0710/Leetcode/tree/master/3801-count-beautiful-numbers) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/vijaykumar0710/Leetcode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Stack
 |  |
 | ------- |
@@ -2520,6 +2522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/vijaykumar0710/Leetcode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Interactive
 |  |
 | ------- |
