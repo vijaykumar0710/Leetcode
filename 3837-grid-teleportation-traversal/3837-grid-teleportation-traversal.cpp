@@ -30,7 +30,7 @@ public:
             if (isupper(ch) && !used_portals.count(ch)) {
                 used_portals.insert(ch);
                 for (auto &[pr, pc] : portals[ch]) {
-                    if (!visited[pr][pc] && !(pr == row && pc == col)) {
+                    if (!visited[pr][pc] && pr != row || pc != col) {
                         q.push_front({pr, pc, moves});  // zero cost teleport
                     }
                 }
