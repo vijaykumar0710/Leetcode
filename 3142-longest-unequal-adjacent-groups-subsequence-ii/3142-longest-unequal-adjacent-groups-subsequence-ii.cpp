@@ -1,66 +1,37 @@
 class Solution {
 public:
-    int n;
-    vector<string> words;
-    vector<int> groups;
-    // dp[i][j] = max length from i with last chosen index = j-1 (so j=0 means lastIdx=-1)
-    vector<vector<int>> dp;
-
-    bool isValid(int lastIdx, const string& w) {
-        if (lastIdx == -1) return true;
-        const string& last = words[lastIdx];
-        if (last.size() != w.size()) return false;
-        int diff = 0;
-        for (int k = 0; k < last.size(); ++k)
-            if (last[k] != w[k] && ++diff > 1)
-                return false;
-        return true;
-    }
-
-    int dfs(int i, int lastIdx) {
-        if (i == n) return 0;
-        int &ans = dp[i][lastIdx+1];
-        if (ans != -1) return ans;
-
-        // 1) skip
-        ans = dfs(i+1, lastIdx);
-
-        // 2) take?
-        if (groups[i] != (lastIdx == -1 ? -1 : groups[lastIdx])
-            && isValid(lastIdx, words[i])) {
-            ans = max(ans, 1 + dfs(i+1, i));
+bool isValid(string s1, string& s2) {
+        int cnt = 0;
+        for (int i = 0; i < s1.size(); i++) {
+            if (s1[i] != s2[i]) cnt++;
+            if(cnt>1) return false;
         }
-        return ans;
+        return cnt == 1;
     }
-
-    vector<string> getWordsInLongestSubsequence(vector<string>& _words,
-                                                vector<int>& _groups) {
-        words = _words;
-        groups = _groups;
-        n = words.size();
-        dp.assign(n+1, vector<int>(n+1, -1));
-
-        // fill dp
-        dfs(0, -1);
-
-        // reconstruct
-        vector<string> res;
-        int i = 0, lastIdx = -1;
-        while (i < n) {
-            int skip = dfs(i+1, lastIdx);
-            int take = 0;
-            if (groups[i] != (lastIdx == -1 ? -1 : groups[lastIdx])
-                && isValid(lastIdx, words[i])) {
-                take = 1 + dfs(i+1, i);
-            }
-            if (take > skip) {
-                res.push_back(words[i]);
-                lastIdx = i;
-                ++i;
-            } else {
-                ++i;
+    vector<string> getWordsInLongestSubsequence(vector<string>& words, vector<int>& groups) {
+        int n=words.size();
+        int longestSub=1,LISIdx=0;
+        vector<int>t(n,1),prevIdx(n,-1);
+     for(int i=0;i<n;i++){
+        for(int j=0;j<i;j++){
+            if(groups[i]!=groups[j] && words[i].size()==words[j].size() && isValid(words[i],words[j])){
+               if(t[j]+1>t[i]){
+                t[i]=t[j]+1;
+                prevIdx[i]=j;
+                if(t[i]>longestSub){
+                    longestSub=t[i];
+                     LISIdx=i;
+                  }
+               }
             }
         }
-        return res;
+      }
+      vector<string>res;
+      while(LISIdx!=-1){
+        res.push_back(words[LISIdx]);
+        LISIdx=prevIdx[LISIdx];
+      }
+      reverse(res.begin(),res.end());
+      return res;
     }
 };
