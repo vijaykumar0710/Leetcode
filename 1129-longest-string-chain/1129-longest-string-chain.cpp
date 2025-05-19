@@ -1,28 +1,33 @@
 class Solution {
 public:
-  bool checkPredecessor(string &s1,string &s2){
-      int i = 0, j = 0;
-      while (i < s1.size() && j < s2.size()){
-        if (s1[i] == s2[j]) {
-            i++; 
-        }
-        j++; 
-    }
-    return i == s1.size();
+bool isValid(string &s1,string &s2){
+ if((s2.size()-s1.size())!=1) return false;
+ int i=0,j=0;
+while(i<s1.size() && j<s2.size()){
+    if(s1[i]==s2[j]){
+        i++;
+    } 
+    j++;
   }
-    int longestStrChain(vector<string>& words){
-        int n=words.size();
+  return i==s1.size();
+}
+    int longestStrChain(vector<string>& words) {
         sort(words.begin(),words.end(),[](string &a,string &b){
-            return a.length()<b.length();
+                return a.size()<b.size();
         });
-        vector<int>dp(n,1);
+        int n=words.size();
+        vector<int>t(n,1);
+        int maxLen=1;
         for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
-                if((words[i].length()-words[j].length())==1 && checkPredecessor(words[j],words[i])){
-                   dp[i]=max(dp[i],dp[j]+1);
+                if(isValid(words[j],words[i])){
+                   if(t[j]+1>t[i]){
+                    t[i]=t[j]+1;
+                    maxLen=max(maxLen,t[i]);
+                   }
                 }
             }
         }
-        return *max_element(dp.begin(),dp.end());
+        return maxLen;
     }
 };
