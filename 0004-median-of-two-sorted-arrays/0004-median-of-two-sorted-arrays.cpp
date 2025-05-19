@@ -8,8 +8,8 @@ public:
         int l=0,r=m;
       while(l<=r){
         // left half
-        int px=l+(r-l)/2; // hum mid be barabar nums1 se element le rahe
-        int py=(m+n+1)/2-px; //(m+n+1)/2 = itne element ayyenge left half mein
+        int px=l+((r-l)>>1); // hum mid be barabar nums1 se element le rahe
+        int py=((m+n+1)>>1)-px; //(m+n+1)/2 = itne element ayyenge left half mein
 
        // left half ka element
         int x1=(px==0)?INT_MIN:nums1[px-1];
