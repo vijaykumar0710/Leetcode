@@ -3,7 +3,7 @@ public:
     ListNode* oddEvenList(ListNode* head) {
         if(head==NULL || head->next==NULL) return head;
         ListNode* t=head->next,*t1=head,*t2=head->next;
-        while(t1->next && t2->next){
+        while(t1->next!=NULL && t2->next!=NULL){
             t1->next=t2->next;
             t1=t2->next;
             t2->next=t1->next;
