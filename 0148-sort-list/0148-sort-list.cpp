@@ -1,24 +1,19 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        if(head==NULL){
-            return NULL;
+        ListNode* t=head;
+        vector<int>v;
+        while(t!=NULL){
+            v.push_back(t->val);
+            t=t->next;
         }
-        priority_queue<int,vector<int>,greater<int>>pq;
-        ListNode* current=head;
-        while(current){ 
-        pq.push(current->val);
-        current=current->next;
-        }
-    
-        ListNode* sorted=new ListNode(pq.top());
-        pq.pop();
-        ListNode* temp=sorted;
-        while(!pq.empty()){
-            temp->next=new ListNode(pq.top());
-            pq.pop();
-            temp=temp->next;
-        }
-        return sorted;
+        sort(v.begin(),v.end());
+        int i=0;
+        t=head;
+       while(t!=NULL){
+        t->val=v[i];
+        i++,t=t->next;
+       }
+       return head;
     }
 };
