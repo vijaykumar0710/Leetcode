@@ -25,11 +25,9 @@ public:
             n2++;
             t2=t2->next;
         }
-        if(n2>n1){
-            return collisionPoint(headA,headB,n2-n1);
-        }else{
-             return collisionPoint(headB,headA,n1-n2);
+        if(n1>n2){
+            return getIntersectionNode(headB,headA);
         }
-        return NULL;
+        return collisionPoint(headA,headB,n2-n1);
     }
 };
