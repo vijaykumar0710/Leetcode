@@ -2,9 +2,9 @@ class Solution {
 public:
 ListNode* merge(ListNode* headA,ListNode* headB){
     ListNode* dummy=new ListNode(-1);
-    ListNode* t=dummy;
-    ListNode* t1=headA;
-    ListNode* t2=headB;
+    ListNode* t=dummy,*t1=headA,*t2=headB;
+    // ListNode* t1=headA;
+    // ListNode* t2=headB;
     while(t1!=NULL && t2!=NULL){ 
     if(t1->val<t2->val){
         t->next=t1;
