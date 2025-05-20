@@ -1,33 +1,15 @@
 class Solution {
 public:
-   ListNode* collisionPoint(ListNode *headA, ListNode *headB,int d){
-    ListNode* temp=headB;
-    while(d--){
-        temp=temp->next;
-    }
-    ListNode* temp2=headA;
-    while(temp!=NULL){
-        if(temp==temp2) return temp;
-        temp=temp->next;
-        temp2=temp2->next;
-    }
-    return NULL;
-   }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        int n1=0,n2=0;
         ListNode* t1=headA;
         ListNode* t2=headB;
-        while(t1!=NULL){
-            n1++;
+        while(t1!=t2){ // this will never execute b'coz it will terminate at line 8
             t1=t1->next;
-        }
-         while(t2!=NULL){
-            n2++;
             t2=t2->next;
+            if(t1==t2) return t1; 
+            if(t1==NULL) t1=headB;
+            if(t2==NULL) t2=headA;
         }
-        if(n1>n2){
-            return getIntersectionNode(headB,headA);
-        }
-        return collisionPoint(headA,headB,n2-n1);
+        return t1; 
     }
 };
