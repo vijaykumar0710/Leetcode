@@ -1,24 +1,17 @@
 class Solution {
 public:
-bool isPalindrome(string &s,int i,int j){
-    int l=i,r=j;
-    while(l<=r){
-        if(s[l]!=s[r]){
-            return false;
-        }
-        l++,r--;
-    }
-    return true;
-}
     int countSubstrings(string s) {
         int n=s.size();
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(isPalindrome(s,i,j))
-                   cnt++;
-            }
+ vector<vector<bool>> pal(n, vector<bool>(n, false));
+ int cnt=0;
+for (int r = 0; r < n; r++) {
+    for (int l = r; l >= 0; l--) {
+        if (s[l] == s[r] && (r - l < 2 || pal[l+1][r-1])) {
+            pal[l][r] = true;
+            cnt++;
         }
-        return cnt;
+    }
+}
+   return cnt;
     }
 };
