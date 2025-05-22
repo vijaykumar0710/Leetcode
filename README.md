@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vijaykumar0710/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vijaykumar0710/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vijaykumar0710/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/vijaykumar0710/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/vijaykumar0710/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vijaykumar0710/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -1275,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## String
 |  |
@@ -2451,6 +2455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/vijaykumar0710/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vijaykumar0710/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/vijaykumar0710/Leetcode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/vijaykumar0710/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vijaykumar0710/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
