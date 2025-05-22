@@ -1,27 +1,33 @@
 class Solution {
 public:
-bool solve(string &s,unordered_set<string>&st,unordered_map<string,bool>&memo){
-    if(s.empty()){
-        return true;
+int t[301];
+    bool isPresent(string &s, unordered_set<string> &st, int start, int i) {
+        string str = s.substr(start, i - start + 1);
+        return st.find(str) != st.end();
     }
-    if(memo.find(s)!=memo.end()) return memo[s];
-    for(int j=1;j<=20;j++){
-        string str=s.substr(0,j);
-        if(st.find(str)!=st.end()){
-            string rem=s.substr(j);
-        if(solve(rem,st,memo)){
-            return memo[s]=true;
-          }
-        }
-    }
-    return memo[s]=false;
-}
-    bool wordBreak(string s, vector<string>& wordDict) {
-    int n=s.length();
 
-      unordered_set<string>st(begin(wordDict),end(wordDict));
-      unordered_map<string,bool>memo;
-     
-      return solve(s,st,memo);
+    bool solve(string &s, int start, unordered_set<string> &st, int n, vector<string> &curr) {
+        if (start >= s.size()) {
+            return true;
+        }
+       if(t[start]!=-1) return t[start];
+        for (int i = start; i < n; i++) {
+            if (isPresent(s, st, start, i)) {
+                curr.push_back(s.substr(start, i - start + 1));
+                if (solve(s, i + 1, st, n, curr)) {
+                    return t[start]=true;
+                }
+                curr.pop_back(); // Backtrack
+            }
+        }
+        return t[start]=false;
+    }
+
+    bool wordBreak(string s, vector<string> &wordDict) {
+        int n = s.size();
+        unordered_set<string> st(wordDict.begin(), wordDict.end());
+        vector<string> curr;
+        memset(t,-1,sizeof(t));
+        return solve(s, 0, st, n, curr);
     }
 };
