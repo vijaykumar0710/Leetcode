@@ -2,9 +2,9 @@ class Solution {
 public:
 vector<vector<int>>dirs={{0,1},{0,-1},{1,0},{-1,0}};
 bool solve(vector<vector<char>>& board, string word,int row,int col,int idx,int m,int n,vector<vector<bool>>&visited){
-if(idx==word.size()) return true;
-if(row<0 || row>=m || col<0 || col>=n || visited[row][col] || board[row][col]!=word[idx]) return false;
 
+if(row<0 || row>=m || col<0 || col>=n || visited[row][col] || board[row][col]!=word[idx]) return false;
+if(idx==word.size()-1) return true;
 visited[row][col]=true;
 
 for(auto &dir:dirs){
