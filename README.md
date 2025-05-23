@@ -1801,6 +1801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vijaykumar0710/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/vijaykumar0710/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vijaykumar0710/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vijaykumar0710/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -1934,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/vijaykumar0710/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/vijaykumar0710/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/vijaykumar0710/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vijaykumar0710/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/vijaykumar0710/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -2514,6 +2516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vijaykumar0710/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/vijaykumar0710/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/vijaykumar0710/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/vijaykumar0710/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1275-validate-binary-tree-nodes](https://github.com/vijaykumar0710/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/vijaykumar0710/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
