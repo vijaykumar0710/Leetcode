@@ -63,7 +63,7 @@ void removeNode(Node* node) {
                 Node* lru = tail->prev;
                 removeNode(lru);
                 cache.erase(lru->key);
-                delete(lru);
+                //delete(lru);
             }
             Node* newNode = new Node(key, value);
             cache[key] = newNode;
