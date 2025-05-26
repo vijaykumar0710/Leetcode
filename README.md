@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaykumar0710/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/vijaykumar0710/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vijaykumar0710/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vijaykumar0710/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaykumar0710/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1604,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vijaykumar0710/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1881-closest-subsequence-sum](https://github.com/vijaykumar0710/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/vijaykumar0710/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/vijaykumar0710/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vijaykumar0710/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -2036,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/vijaykumar0710/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vijaykumar0710/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaykumar0710/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vijaykumar0710/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vijaykumar0710/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vijaykumar0710/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -2542,6 +2545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/vijaykumar0710/Leetcode/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/vijaykumar0710/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vijaykumar0710/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/vijaykumar0710/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -2577,6 +2581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/vijaykumar0710/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -2596,6 +2601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/vijaykumar0710/Leetcode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/vijaykumar0710/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vijaykumar0710/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vijaykumar0710/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/vijaykumar0710/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vijaykumar0710/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
