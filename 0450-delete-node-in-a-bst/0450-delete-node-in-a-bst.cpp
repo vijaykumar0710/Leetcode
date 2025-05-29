@@ -10,17 +10,17 @@ public:
         } else {
             // Node found
             if (!root->left && !root->right) {
-                delete root;
+                delete(root);
                 return NULL;
             }
             else if (!root->left) {
                 TreeNode* temp = root->right;
-                delete root;
+                delete(root);
                 return temp;
             }
             else if (!root->right) {
                 TreeNode* temp = root->left;
-                delete root;
+                delete(root);
                 return temp;
             }
             else {
