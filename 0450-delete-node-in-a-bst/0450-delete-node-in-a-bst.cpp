@@ -1,43 +1,43 @@
 class Solution {
 public:
-         TreeNode* iop(TreeNode* root){
-            TreeNode* pred=root->left;
-            while(pred->right!=NULL){
-                pred=pred->right;
-            }
-            return pred;
-        }
-           TreeNode* ios(TreeNode* root){
-            TreeNode* suc=root->right;
-            while(suc->left!=NULL){
-                suc=suc->left;
-            }
-            return suc;
-        }
     TreeNode* deleteNode(TreeNode* root, int key) {
-      if(root==NULL) return NULL;
-      if(root->val==key){
-        //case 1: NO child
-        if(root->left==NULL && root->right==NULL) return NULL;
+        if (!root) return NULL;
 
-        // case 2:1 child
-        if(root->left==NULL || root->right==NULL){
-            if(root->left!=NULL) return root->left;
-            else return root->right;
+        if (key < root->val) {
+            root->left = deleteNode(root->left, key);
+        } else if (key > root->val) {
+            root->right = deleteNode(root->right, key);
+        } else {
+            // Node found
+            if (!root->left && !root->right) {
+                delete root;
+                return NULL;
+            }
+            else if (!root->left) {
+                TreeNode* temp = root->right;
+                delete root;
+                return temp;
+            }
+            else if (!root->right) {
+                TreeNode* temp = root->left;
+                delete root;
+                return temp;
+            }
+            else {
+                // Node with two children: find inorder successor (smallest in right subtree)
+                TreeNode* succ = findMin(root->right);
+                root->val = succ->val;
+                root->right = deleteNode(root->right, succ->val);
+            }
         }
-    // case 3:2 child nodes
-    if(root->left!=NULL && root->right!=NULL){
-          TreeNode* pred=iop(root);
-          root->val=pred->val;
-          root->left=deleteNode(root->left,pred->val);
-         }
-      }
-      else if(root->val>key){
-        root->left=deleteNode(root->left,key);
-      }
-      else{
-        root->right=deleteNode(root->right,key);
-      }
-      return root;
+        return root;
+    }
+
+private:
+    TreeNode* findMin(TreeNode* root) {
+        while (root && root->left) {
+            root = root->left;
+        }
+        return root;
     }
 };
