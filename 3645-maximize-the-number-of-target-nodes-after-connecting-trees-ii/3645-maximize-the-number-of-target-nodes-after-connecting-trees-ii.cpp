@@ -51,8 +51,7 @@ void bfs(vector<vector<int>>&adj,int node,int n,vector<int>&v){
         int maxi=max(even_v2,odd_v2);
         vector<int>res(n1);
         for(int i=0;i<n1;i++){
-            if(v1[i]==0) res[i]=even_v1+maxi;
-            else res[i]=odd_v1+maxi;
+            res[i]=(v1[i]==0?even_v1:odd_v1)+maxi;
         }
         return res;
     }
