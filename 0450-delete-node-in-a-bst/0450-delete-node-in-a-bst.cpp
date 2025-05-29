@@ -33,7 +33,6 @@ public:
         return root;
     }
 
-private:
     TreeNode* findMin(TreeNode* root) {
         while (root && root->left) {
             root = root->left;
