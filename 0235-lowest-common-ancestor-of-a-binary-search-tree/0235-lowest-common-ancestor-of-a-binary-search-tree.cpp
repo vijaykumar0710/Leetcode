@@ -1,13 +1,15 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-          if(root==NULL || root==p || root==q) return root;
+          if(root==NULL) return NULL;
         
-        TreeNode* left=lowestCommonAncestor(root->left,p,q);
-        TreeNode* right=lowestCommonAncestor(root->right,p,q);
+          int curr=root->val;
+          if(curr>p->val && curr>q->val)
+             return lowestCommonAncestor(root->left,p,q);
+        
+          if(curr<p->val && curr<q->val)
+             return lowestCommonAncestor(root->right,p,q);
 
-        if(left==NULL) return right;
-        if(right==NULL) return left;
-        return root; // both left and right are not null,we found our result
+         return root;
     }
 };
